@@ -34,10 +34,6 @@ python project.py
 
 ---
 
-## Endpoints
-
----
-
 ### 1. Welcome
 
 - Method: GET
