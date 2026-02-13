@@ -5,6 +5,27 @@ app = Flask(__name__)
 
 # Load data once at startup
 df = pd.read_csv("nyc_death_causes.csv")
+import numpy as np
+
+# --- basic whitespace cleanup for ALL string columns (recommended) ---
+for col in df.columns:
+    if df[col].dtype == "object":
+        df[col] = df[col].astype(str).str.strip()
+
+# --- normalize Sex column (edit "Sex" if your column name differs) ---
+if "Sex" in df.columns:
+    s = df["Sex"].astype(str).str.strip().str.lower()
+
+    sex_map = {
+        "M": "Male",
+        "F": "Female",
+
+    }
+
+    df["Sex"] = s.map(sex_map).fillna(
+        s.str.title() 
+    )
+
 
 # Create a stable unique id (lab wants unique identifiers)
 df = df.reset_index(drop=True)
