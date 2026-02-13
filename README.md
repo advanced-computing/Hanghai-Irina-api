@@ -113,20 +113,12 @@ Example:
 
 ---
 
-### 3. Retrieve Single Record
+### Retrieve Single Record
 
 - Method: GET
 - Path: /records/<id>
+- Query parameters: None
 
-Example:
-
-- /records/10
-
-Returns one record in JSON format.
-
-If not found:
-
-{
-  "error": "Record not found"
-}
+Example query:
+http://127.0.0.1:5000/records/10
 
