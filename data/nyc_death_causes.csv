@@ -1,0 +1,2103 @@
+record_id,Year,Leading Cause,Sex,Race Ethnicity,Deaths,Death Rate,Age Adjusted Death Rate
+1,2021,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Male,Other Race/ Ethnicity,9,,
+2,2021,All Other Causes,Female,Not Stated/Unknown,102,,
+3,2021,Chronic Liver Diseases and Cirrhosis,Male,Not Stated/Unknown,16,,
+4,2021,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Hispanic,1409,111,95.5
+5,2021,Influenza (Flu) and Pneumonia (J09-J18),Male,Not Stated/Unknown,16,,
+6,2021,Influenza (Flu) and Pneumonia (J09-J18),Female,Other Race/ Ethnicity,4,,
+7,2021,Malignant Neoplasms (Cancer: C00-C97),Female,Hispanic,1157,91.2,80.8
+8,2021,Covid-19,Female,Hispanic,966,76.1,66.8
+9,2021,Cerebrovascular Disease (Stroke: I60-I69),Female,Hispanic,265,20.9,18
+10,2021,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Not Stated/Unknown,113,,
+11,2021,All Other Causes,Female,Other Race/ Ethnicity,71,,
+12,2021,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Female,Hispanic,233,18.4,17.8
+13,2021,Alzheimer's Disease (G30),Female,Hispanic,223,17.6,14.7
+14,2021,Diabetes Mellitus (E10-E14),Female,Hispanic,184,14.5,12.6
+15,2021,Diabetes Mellitus (E10-E14),Female,Not Stated/Unknown,7,,
+16,2021,Influenza (Flu) and Pneumonia (J09-J18),Female,Hispanic,169,13.3,11.6
+17,2021,Chronic Lower Respiratory Diseases (J40-J47),Female,Hispanic,163,12.8,11.3
+18,2021,Cerebrovascular Disease (Stroke: I60-I69),Male,Not Stated/Unknown,16,,
+19,2021,"Essential Hypertension and Renal Diseases (I10, I12, I15)",Female,Hispanic,147,11.6,9.9
+20,2021,All Other Causes,Female,Hispanic,1589,125.2,111
+21,2021,Malignant Neoplasms (Cancer: C00-C97),Female,Asian and Pacific Islander,615,91.6,73.9
+22,2021,Malignant Neoplasms (Cancer: C00-C97),Female,Not Stated/Unknown,59,,
+23,2021,Mental and Behavioral Disorders due to Use of Alcohol (F10),Male,Not Stated/Unknown,16,,
+24,2021,Alzheimer's Disease (G30),Female,Not Stated/Unknown,7,,
+25,2021,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Asian and Pacific Islander,607,90.4,70.3
+26,2021,Covid-19,Female,Asian and Pacific Islander,413,61.5,48.9
+27,2021,Cerebrovascular Disease (Stroke: I60-I69),Female,Asian and Pacific Islander,128,19.1,15.2
+28,2021,"Intentional Self-Harm (Suicide: U03, X60-X84, Y87.0)",Male,Not Stated/Unknown,17,,
+29,2021,Diabetes Mellitus (E10-E14),Female,Asian and Pacific Islander,77,11.5,9
+30,2021,Chronic Lower Respiratory Diseases (J40-J47),Male,Not Stated/Unknown,17,,
+31,2021,Influenza (Flu) and Pneumonia (J09-J18),Female,Asian and Pacific Islander,64,9.5,7.5
+32,2021,Covid-19,Female,Not Stated/Unknown,33,,
+33,2021,"Essential Hypertension and Renal Diseases (I10, I12, I15)",Female,Asian and Pacific Islander,60,8.9,7
+34,2021,Alzheimer's Disease (G30),Female,Asian and Pacific Islander,59,8.8,6.8
+35,2021,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Female,Asian and Pacific Islander,42,6.3,5.2
+36,2021,Chronic Lower Respiratory Diseases (J40-J47),Female,Asian and Pacific Islander,40,6,4.6
+37,2021,All Other Causes,Female,Asian and Pacific Islander,559,83.2,68.7
+38,2021,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Non-Hispanic White,3601,263.5,132.7
+39,2021,Malignant Neoplasms (Cancer: C00-C97),Female,Non-Hispanic White,2427,177.6,112.8
+40,2021,Covid-19,Female,Non-Hispanic White,1152,84.3,46.3
+41,2021,Cerebrovascular Disease (Stroke: I60-I69),Female,Non-Hispanic White,451,33,16.5
+42,2021,Cerebrovascular Disease (Stroke: I60-I69),Female,Not Stated/Unknown,17,,
+43,2021,Alzheimer's Disease (G30),Female,Non-Hispanic White,343,25.1,11.2
+44,2021,Chronic Lower Respiratory Diseases (J40-J47),Female,Non-Hispanic White,342,25,13.8
+45,2021,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Female,Not Stated/Unknown,15,,
+46,2021,Septicemia,Male,Not Stated/Unknown,17,,
+47,2021,Influenza (Flu) and Pneumonia (J09-J18),Female,Non-Hispanic White,293,21.4,11.1
+48,2021,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Male,Not Stated/Unknown,20,,
+49,2021,"Essential Hypertension and Renal Diseases (I10, I12, I15)",Female,Non-Hispanic White,224,16.4,8
+50,2021,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Female,Non-Hispanic White,213,15.6,9.2
+51,2021,All Other Causes,Male,Not Stated/Unknown,163,,
+52,2021,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Female,Non-Hispanic White,189,13.8,13.1
+53,2021,All Other Causes,Female,Non-Hispanic White,2670,195.4,116.8
+54,2021,Diabetes Mellitus (E10-E14),Male,Not Stated/Unknown,22,,
+55,2021,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Male,Not Stated/Unknown,53,,
+56,2021,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Non-Hispanic Black,2356,235.4,162.7
+57,2021,Malignant Neoplasms (Cancer: C00-C97),Female,Non-Hispanic Black,1621,161.9,118.6
+58,2021,Covid-19,Female,Non-Hispanic Black,1029,102.8,74.2
+59,2021,Cerebrovascular Disease (Stroke: I60-I69),Female,Non-Hispanic Black,365,36.5,25.3
+60,2021,Diabetes Mellitus (E10-E14),Female,Non-Hispanic Black,341,34.1,24.3
+61,2021,Certain Conditions Originating in the Perinatal Period (P00-P96),Female,Not Stated/Unknown,15,,
+62,2021,Covid-19,Male,Not Stated/Unknown,66,,
+63,2021,Malignant Neoplasms (Cancer: C00-C97),Male,Not Stated/Unknown,84,,
+64,2021,"Essential Hypertension and Renal Diseases (I10, I12, I15)",Female,Non-Hispanic Black,273,27.3,18.8
+65,2021,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Female,Non-Hispanic Black,229,22.9,20.3
+66,2021,Influenza (Flu) and Pneumonia (J09-J18),Female,Not Stated/Unknown,12,,
+67,2021,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Not Stated/Unknown,190,,
+68,2021,All Other Causes,Male,Other Race/ Ethnicity,84,,
+69,2021,Influenza (Flu) and Pneumonia (J09-J18),Female,Non-Hispanic Black,220,22,15.3
+70,2021,Chronic Lower Respiratory Diseases (J40-J47),Female,Non-Hispanic Black,186,18.6,13.3
+71,2021,Alzheimer's Disease (G30),Female,Non-Hispanic Black,175,17.5,11.1
+72,2021,All Other Causes,Female,Non-Hispanic Black,1993,199.1,151
+73,2021,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Other Race/ Ethnicity,85,,
+74,2021,Chronic Lower Respiratory Diseases (J40-J47),Female,Not Stated/Unknown,11,,
+75,2021,Covid-19,Female,Other Race/ Ethnicity,62,,
+76,2021,Malignant Neoplasms (Cancer: C00-C97),Female,Other Race/ Ethnicity,61,,
+77,2021,"Essential Hypertension and Renal Diseases (I10, I12, I15)",Female,Not Stated/Unknown,10,,
+78,2021,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Hispanic,1565,131,156.8
+79,2021,Covid-19,Male,Hispanic,1236,103.4,119.4
+80,2021,Malignant Neoplasms (Cancer: C00-C97),Male,Hispanic,1123,94,110.1
+81,2021,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Male,Hispanic,714,59.7,58.2
+82,2021,Diabetes Mellitus (E10-E14),Female,Other Race/ Ethnicity,15,,
+83,2021,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Male,Hispanic,255,21.3,22.8
+84,2021,Diabetes Mellitus (E10-E14),Male,Hispanic,213,17.8,20.7
+85,2021,Cerebrovascular Disease (Stroke: I60-I69),Male,Hispanic,209,17.5,21.2
+86,2021,Influenza (Flu) and Pneumonia (J09-J18),Male,Hispanic,195,16.3,19.6
+87,2021,"Chronic Liver Disease and Cirrhosis (K70, K73-K74)",Male,Hispanic,188,15.7,16
+88,2021,Chronic Lower Respiratory Diseases (J40-J47),Male,Hispanic,116,9.7,11.7
+89,2021,All Other Causes,Male,Hispanic,1695,141.8,162.7
+90,2021,Cerebrovascular Disease (Stroke: I60-I69),Female,Other Race/ Ethnicity,15,,
+91,2021,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Asian and Pacific Islander,777,126.2,114.9
+92,2021,Covid-19,Male,Asian and Pacific Islander,739,120,105.2
+93,2021,Malignant Neoplasms (Cancer: C00-C97),Male,Asian and Pacific Islander,719,116.8,102.1
+94,2021,Cerebrovascular Disease (Stroke: I60-I69),Male,Asian and Pacific Islander,133,21.6,19.9
+95,2021,Influenza (Flu) and Pneumonia (J09-J18),Male,Asian and Pacific Islander,109,17.7,16.4
+96,2021,Diabetes Mellitus (E10-E14),Male,Asian and Pacific Islander,94,15.3,13.6
+97,2021,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Male,Asian and Pacific Islander,91,14.8,13.7
+98,2021,Septicemia,Female,Other Race/ Ethnicity,7,,
+99,2021,Chronic Lower Respiratory Diseases (J40-J47),Male,Asian and Pacific Islander,67,10.9,10.1
+100,2021,"Essential Hypertension and Renal Diseases (I10, I12, I15)",Male,Asian and Pacific Islander,63,10.2,9.4
+101,2021,"Intentional Self-Harm (Suicide: U03, X60-X84, Y87.0)",Male,Asian and Pacific Islander,53,8.6,8.3
+102,2021,All Other Causes,Male,Asian and Pacific Islander,651,105.7,99.5
+103,2021,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Non-Hispanic White,3453,261.5,189.7
+104,2021,Alzheimer's Disease (G30),Female,Other Race/ Ethnicity,6,,
+105,2021,Malignant Neoplasms (Cancer: C00-C97),Male,Non-Hispanic White,2377,180,132.9
+106,2021,Human Immunodeficiency Viruses Diseases,Female,Not Stated/Unknown,7,,
+107,2021,Covid-19,Male,Non-Hispanic White,1539,116.6,84.6
+108,2021,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Male,Non-Hispanic White,593,44.9,41.4
+109,2021,Influenza (Flu) and Pneumonia (J09-J18),Male,Non-Hispanic White,339,25.7,18.2
+110,2021,Cerebrovascular Disease (Stroke: I60-I69),Male,Non-Hispanic White,279,21.1,15.2
+111,2021,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Male,Non-Hispanic White,266,20.1,16.6
+112,2021,Chronic Lower Respiratory Diseases (J40-J47),Male,Non-Hispanic White,264,20,14.2
+113,2021,Diabetes Mellitus (E10-E14),Male,Non-Hispanic White,263,19.9,14.8
+114,2021,"Essential Hypertension and Renal Diseases (I10, I12, I15)",Male,Non-Hispanic White,187,14.2,10.2
+115,2021,All Other Causes,Male,Non-Hispanic White,2777,210.3,161.9
+116,2021,Chronic Lower Respiratory Diseases (J40-J47),Female,Other Race/ Ethnicity,6,,
+117,2021,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Non-Hispanic Black,2306,272.5,259.8
+118,2021,Malignant Neoplasms (Cancer: C00-C97),Male,Non-Hispanic Black,1283,151.6,141.8
+119,2021,Covid-19,Male,Non-Hispanic Black,916,108.2,102.1
+120,2021,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Male,Non-Hispanic Black,652,77,69.5
+121,2021,Diabetes Mellitus (E10-E14),Male,Non-Hispanic Black,304,35.9,33.7
+122,2021,"Assault (Homicide: U01-U02, Y87.1, X85-Y09)",Male,Non-Hispanic Black,291,34.4,34.9
+123,2021,Cerebrovascular Disease (Stroke: I60-I69),Male,Non-Hispanic Black,260,30.7,29.4
+124,2021,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Male,Non-Hispanic Black,211,24.9,24.1
+125,2021,Influenza (Flu) and Pneumonia (J09-J18),Male,Non-Hispanic Black,196,23.2,22.5
+126,2021,"Essential Hypertension and Renal Diseases (I10, I12, I15)",Male,Non-Hispanic Black,182,21.5,20.8
+127,2021,All Other Causes,Male,Non-Hispanic Black,1886,222.9,216.1
+128,2021,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Other Race/ Ethnicity,106,,
+129,2021,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Female,Other Race/ Ethnicity,5,,
+130,2021,Covid-19,Male,Other Race/ Ethnicity,78,,
+131,2021,Malignant Neoplasms (Cancer: C00-C97),Male,Other Race/ Ethnicity,52,,
+132,2021,Diabetes Mellitus (E10-E14),Male,Other Race/ Ethnicity,15,,
+133,2021,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Male,Other Race/ Ethnicity,14,,
+134,2021,Cerebrovascular Disease (Stroke: I60-I69),Male,Other Race/ Ethnicity,11,,
+135,2021,"Intentional Self-Harm (Suicide: U03, X60-X84, Y87.0)",Male,Other Race/ Ethnicity,9,,
+136,2021,"Essential Hypertension and Renal Diseases (I10, I12, I15)",Female,Other Race/ Ethnicity,4,,
+137,2021,Chronic Liver Diseases and Cirrhosis,Male,Other Race/ Ethnicity,9,,
+138,2021,Alzheimer's Disease (G30),Male,Other Race/ Ethnicity,9,,
+139,2021,Influenza (Flu) and Pneumonia (J09-J18),Male,Other Race/ Ethnicity,11,,
+140,2020,Cerebrovascular Disease (Stroke: I60-I69),Male,Hispanic,215,17.5,22.2
+141,2020,All Other Causes,Female,Not Stated/Unknown,108,,
+142,2020,Influenza (Flu) and Pneumonia (J09-J18),Female,Not Stated/Unknown,9,,
+143,2020,Cerebrovascular Disease (Stroke: I60-I69),Female,Not Stated/Unknown,11,,
+144,2020,"Essential Hypertension and Renal Diseases (I10, I12, I15)",Female,Not Stated/Unknown,12,,
+145,2020,Certain Conditions Originating in the Perinatal Period (P00-P96),Female,Not Stated/Unknown,13,,
+146,2020,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Female,Not Stated/Unknown,14,,
+147,2020,Chronic Lower Respiratory Diseases (J40-J47),Female,Not Stated/Unknown,23,,
+148,2020,Diabetes Mellitus (E10-E14),Female,Not Stated/Unknown,23,,
+149,2020,Malignant Neoplasms (Cancer: C00-C97),Female,Not Stated/Unknown,73,,
+150,2020,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Not Stated/Unknown,140,,
+151,2020,Covid-19,Female,Not Stated/Unknown,181,,
+152,2020,All Other Causes,Female,Other Race/ Ethnicity,81,,
+153,2020,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Female,Other Race/ Ethnicity,5,,
+154,2020,"Nephritis, Nephrotic Syndrome and Nephrisis (N00-N07, N17-N19, N25-N27)",Female,Other Race/ Ethnicity,5,,
+155,2020,Alzheimer's Disease (G30),Female,Other Race/ Ethnicity,5,,
+156,2020,Influenza (Flu) and Pneumonia (J09-J18),Female,Other Race/ Ethnicity,6,,
+157,2020,"Essential Hypertension and Renal Diseases (I10, I12, I15)",Female,Other Race/ Ethnicity,7,,
+158,2020,Cerebrovascular Disease (Stroke: I60-I69),Female,Other Race/ Ethnicity,13,,
+159,2020,Diabetes Mellitus (E10-E14),Female,Other Race/ Ethnicity,15,,
+160,2020,Malignant Neoplasms (Cancer: C00-C97),Female,Other Race/ Ethnicity,46,,
+161,2020,Covid-19,Female,Other Race/ Ethnicity,82,,
+162,2020,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Other Race/ Ethnicity,100,,
+163,2020,All Other Causes,Female,Non-Hispanic Black,2059,200.1,154.8
+164,2020,Alzheimer's Disease (G30),Female,Non-Hispanic Black,146,14.2,9.4
+165,2020,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Female,Non-Hispanic Black,163,15.8,14
+166,2020,Chronic Lower Respiratory Diseases (J40-J47),Female,Non-Hispanic Black,253,24.6,18.3
+167,2020,Influenza (Flu) and Pneumonia (J09-J18),Female,Non-Hispanic Black,254,24.7,17.9
+168,2020,"Essential Hypertension and Renal Diseases (I10, I12, I15)",Female,Non-Hispanic Black,346,33.6,23.9
+169,2020,Cerebrovascular Disease (Stroke: I60-I69),Female,Non-Hispanic Black,369,35.9,25.4
+170,2020,Diabetes Mellitus (E10-E14),Female,Non-Hispanic Black,486,47.2,34.4
+171,2020,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Non-Hispanic Black,3160,307,217.1
+172,2020,All Other Causes,Female,Non-Hispanic White,2730,188.7,113.9
+173,2020,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Female,Non-Hispanic White,161,11.1,6.9
+174,2020,Diabetes Mellitus (E10-E14),Female,Non-Hispanic White,198,13.7,8.2
+175,2020,"Essential Hypertension and Renal Diseases (I10, I12, I15)",Female,Non-Hispanic White,225,15.6,7.9
+176,2020,Influenza (Flu) and Pneumonia (J09-J18),Female,Non-Hispanic White,350,24.2,12.9
+177,2020,Alzheimer's Disease (G30),Female,Non-Hispanic White,365,25.2,11.5
+178,2020,Chronic Lower Respiratory Diseases (J40-J47),Female,Non-Hispanic White,405,28,15.7
+179,2020,Cerebrovascular Disease (Stroke: I60-I69),Female,Non-Hispanic White,408,28.2,14.8
+180,2020,Covid-19,Female,Non-Hispanic White,2362,163.3,91.8
+181,2020,Malignant Neoplasms (Cancer: C00-C97),Female,Non-Hispanic White,2500,172.8,114.2
+182,2020,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Non-Hispanic White,4518,312.3,159.5
+183,2020,All Other Causes,Female,Asian and Pacific Islander,561,81.8,70.2
+184,2020,Chronic Lower Respiratory Diseases (J40-J47),Female,Asian and Pacific Islander,39,5.7,4.8
+185,2020,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Female,Asian and Pacific Islander,44,6.4,5.5
+186,2020,Alzheimer's Disease (G30),Female,Asian and Pacific Islander,68,9.9,8.3
+187,2020,Influenza (Flu) and Pneumonia (J09-J18),Female,Asian and Pacific Islander,91,13.3,11.1
+188,2020,Diabetes Mellitus (E10-E14),Female,Asian and Pacific Islander,91,13.3,11.1
+189,2020,"Essential Hypertension and Renal Diseases (I10, I12, I15)",Female,Asian and Pacific Islander,94,13.7,11.4
+190,2020,Cerebrovascular Disease (Stroke: I60-I69),Female,Asian and Pacific Islander,119,17.4,14.5
+191,2020,Malignant Neoplasms (Cancer: C00-C97),Female,Asian and Pacific Islander,599,87.4,73.9
+192,2020,Covid-19,Female,Asian and Pacific Islander,733,106.9,89.8
+193,2020,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Asian and Pacific Islander,785,114.5,95.8
+194,2020,All Other Causes,Female,Hispanic,1478,113.6,104.1
+195,2020,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Female,Hispanic,133,10.2,9.9
+196,2020,"Essential Hypertension and Renal Diseases (I10, I12, I15)",Female,Hispanic,181,13.9,12.4
+197,2020,Chronic Lower Respiratory Diseases (J40-J47),Female,Hispanic,190,14.6,13.3
+198,2020,Influenza (Flu) and Pneumonia (J09-J18),Female,Hispanic,223,17.1,15.5
+199,2020,Alzheimer's Disease (G30),Female,Hispanic,224,17.2,15.2
+200,2020,Diabetes Mellitus (E10-E14),Female,Hispanic,269,20.7,18.9
+201,2020,Cerebrovascular Disease (Stroke: I60-I69),Female,Hispanic,293,22.5,20.2
+202,2020,Malignant Neoplasms (Cancer: C00-C97),Female,Hispanic,1095,84.2,77.5
+203,2020,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Hispanic,1850,142.2,127.6
+204,2020,Covid-19,Female,Hispanic,2515,193.4,176.2
+205,2020,All Other Causes,Male,Not Stated/Unknown,199,,
+206,2020,Certain Conditions Originating in the Perinatal Period (P00-P96),Male,Not Stated/Unknown,19,,
+207,2020,Chronic Lower Respiratory Diseases (J40-J47),Male,Not Stated/Unknown,20,,
+208,2020,Cerebrovascular Disease (Stroke: I60-I69),Male,Not Stated/Unknown,23,,
+209,2020,"Essential Hypertension and Renal Diseases (I10, I12, I15)",Male,Not Stated/Unknown,24,,
+210,2020,Diabetes Mellitus (E10-E14),Male,Not Stated/Unknown,34,,
+211,2020,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Male,Not Stated/Unknown,36,,
+212,2020,Influenza (Flu) and Pneumonia (J09-J18),Male,Not Stated/Unknown,37,,
+213,2020,Malignant Neoplasms (Cancer: C00-C97),Male,Not Stated/Unknown,87,,
+214,2020,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Not Stated/Unknown,308,,
+215,2020,Covid-19,Male,Not Stated/Unknown,468,,
+216,2020,All Other Causes,Male,Other Race/ Ethnicity,100,,
+217,2020,Chronic Lower Respiratory Diseases (J40-J47),Male,Other Race/ Ethnicity,10,,
+218,2020,Influenza (Flu) and Pneumonia (J09-J18),Male,Other Race/ Ethnicity,11,,
+219,2020,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Male,Other Race/ Ethnicity,12,,
+220,2020,Mental and Behavioral Disorders due to Use of Alcohol (F10),Male,Other Race/ Ethnicity,13,,
+221,2020,Diabetes Mellitus (E10-E14),Male,Other Race/ Ethnicity,19,,
+222,2020,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Male,Other Race/ Ethnicity,21,,
+223,2020,Malignant Neoplasms (Cancer: C00-C97),Female,Non-Hispanic Black,1653,160.6,120.8
+224,2020,Cerebrovascular Disease (Stroke: I60-I69),Male,Other Race/ Ethnicity,23,,
+225,2020,Malignant Neoplasms (Cancer: C00-C97),Male,Other Race/ Ethnicity,55,,
+226,2020,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Other Race/ Ethnicity,107,,
+227,2020,Covid-19,Male,Other Race/ Ethnicity,159,,
+228,2020,All Other Causes,Male,Non-Hispanic Black,1884,216.7,215.4
+229,2020,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Male,Non-Hispanic Black,191,22,21.9
+230,2020,"Essential Hypertension and Renal Diseases (I10, I12, I15)",Male,Non-Hispanic Black,252,29,29.3
+231,2020,Influenza (Flu) and Pneumonia (J09-J18),Male,Non-Hispanic Black,253,29.1,28.9
+232,2020,"Assault (Homicide: U01-U02, Y87.1, X85-Y09)",Male,Non-Hispanic Black,281,32.3,33.1
+233,2020,Cerebrovascular Disease (Stroke: I60-I69),Male,Non-Hispanic Black,290,33.4,33.5
+234,2020,Diabetes Mellitus (E10-E14),Male,Non-Hispanic Black,395,45.4,44.8
+235,2020,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Male,Non-Hispanic Black,482,55.4,50.1
+236,2020,Malignant Neoplasms (Cancer: C00-C97),Male,Non-Hispanic Black,1283,147.6,144.3
+237,2020,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Non-Hispanic Black,3007,345.9,346.4
+238,2020,Covid-19,Male,Non-Hispanic Black,3288,378.2,372
+239,2020,All Other Causes,Male,Non-Hispanic White,2658,189.9,150.5
+240,2020,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Male,Non-Hispanic White,220,15.7,12.5
+241,2020,"Essential Hypertension and Renal Diseases (I10, I12, I15)",Male,Non-Hispanic White,220,15.7,11.9
+242,2020,Diabetes Mellitus (E10-E14),Male,Non-Hispanic White,285,20.4,15.9
+243,2020,Cerebrovascular Disease (Stroke: I60-I69),Male,Non-Hispanic White,312,22.3,16.9
+244,2020,Chronic Lower Respiratory Diseases (J40-J47),Male,Non-Hispanic White,349,24.9,18.7
+245,2020,Influenza (Flu) and Pneumonia (J09-J18),Male,Non-Hispanic White,390,27.9,21.1
+246,2020,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Male,Non-Hispanic White,566,40.4,37.1
+247,2020,Malignant Neoplasms (Cancer: C00-C97),Male,Non-Hispanic White,2480,177.2,137.6
+248,2020,Covid-19,Male,Non-Hispanic White,3297,235.6,178.9
+249,2020,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Non-Hispanic White,4339,310,234.2
+250,2020,All Other Causes,Male,Asian and Pacific Islander,633,100.8,100.3
+251,2020,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Male,Asian and Pacific Islander,50,8,7.8
+252,2020,"Intentional Self-Harm (Suicide: U03, X60-X84, Y87.0)",Male,Asian and Pacific Islander,55,8.8,8.3
+253,2020,"Essential Hypertension and Renal Diseases (I10, I12, I15)",Male,Asian and Pacific Islander,59,9.4,9.2
+254,2020,Chronic Lower Respiratory Diseases (J40-J47),Male,Asian and Pacific Islander,87,13.9,14.2
+255,2020,Cerebrovascular Disease (Stroke: I60-I69),Male,Asian and Pacific Islander,118,18.8,18.2
+256,2020,Diabetes Mellitus (E10-E14),Male,Asian and Pacific Islander,126,20.1,18.8
+257,2020,Influenza (Flu) and Pneumonia (J09-J18),Male,Asian and Pacific Islander,149,23.7,23.3
+258,2020,Malignant Neoplasms (Cancer: C00-C97),Male,Asian and Pacific Islander,710,113.1,104.1
+259,2020,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Asian and Pacific Islander,979,156,152.7
+260,2020,Covid-19,Male,Asian and Pacific Islander,1352,215.4,198.1
+261,2020,All Other Causes,Male,Hispanic,1796,146.2,176
+262,2020,Chronic Lower Respiratory Diseases (J40-J47),Male,Hispanic,173,14.1,17.9
+263,2020,"Chronic Liver Disease and Cirrhosis (K70, K73-K74)",Male,Hispanic,199,16.2,16.7
+264,2020,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Male,Hispanic,201,16.4,17.7
+265,2020,Influenza (Flu) and Pneumonia (J09-J18),Male,Hispanic,276,22.5,29.3
+266,2020,Diabetes Mellitus (E10-E14),Male,Hispanic,278,22.6,27.5
+267,2020,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Male,Hispanic,560,45.6,44.5
+268,2020,Malignant Neoplasms (Cancer: C00-C97),Male,Hispanic,1089,88.7,106.7
+269,2020,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Hispanic,1968,160.2,204.7
+270,2020,Covid-19,Male,Hispanic,4104,334.1,399.5
+271,2020,Covid-19,Female,Non-Hispanic Black,2700,262.4,191.4
+272,2019,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Male,Other Race/ Ethnicity,1,,
+273,2019,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Female,Not Stated/Unknown,9,9.949698745,12.73357975
+274,2019,"Essential Hypertension and Renal Diseases (I10, I12)",Female,Not Stated/Unknown,10,11.05522083,14.64331729
+275,2019,Cerebrovascular Disease (Stroke: I60-I69),Female,Not Stated/Unknown,11,12.16074291,15.98649499
+276,2019,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Male,Non-Hispanic White,418,31.89159908,28.91253713
+277,2019,Chronic Lower Respiratory Diseases (J40-J47),Female,Not Stated/Unknown,12,13.26626499,18.86074635
+278,2019,Diabetes Mellitus (E10-E14),Female,Not Stated/Unknown,15,16.58283124,21.71794941
+279,2019,Alzheimer's Disease (G30),Male,Asian and Pacific Islander,41,6.997052705,7.415199568
+280,2019,Malignant Neoplasms (Cancer: C00-C97),Female,Not Stated/Unknown,61,67.43684705,90.59242339
+281,2019,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Not Stated/Unknown,110,121.6074291,161.6351392
+282,2019,All Other Causes,Female,Other Race/ Ethnicity,17,,
+283,2019,Peptic Ulcer (K25-K28),Female,Other Race/ Ethnicity,1,,
+284,2019,Parkinson's Disease (G20),Female,Other Race/ Ethnicity,1,,
+285,2019,Cholelithiasis and Disorders of Gallbladder (K80-K82),Female,Other Race/ Ethnicity,1,,
+286,2019,Anemias (D50-D64),Female,Other Race/ Ethnicity,1,,
+287,2019,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Male,Hispanic,423,36.09960418,35.70789583
+288,2019,Septicemia (A40-A41),Female,Other Race/ Ethnicity,1,,
+289,2019,"Essential Hypertension and Renal Diseases (I10, I12)",Male,Other Race/ Ethnicity,1,,
+290,2019,"Congenital Malformations, Deformations, and Chromosomal Abnormalities (Q00-Q99)",Female,Other Race/ Ethnicity,1,,
+291,2019,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Female,Other Race/ Ethnicity,1,,
+292,2019,All Other Causes,Male,Asian and Pacific Islander,549,93.69224232,90.70089869
+293,2019,"Intentional Self-Harm (Suicide: U03, X60-X84, Y87.0)",Female,Other Race/ Ethnicity,1,,
+294,2019,Diabetes Mellitus (E10-E14),Female,Other Race/ Ethnicity,1,,
+295,2019,Mental and Behavioral Disorders due to Use of Alcohol (F10),Female,Other Race/ Ethnicity,1,,
+296,2019,"Complications of Medical and Surgical Care (Y40-Y84, Y88)",Male,Other Race/ Ethnicity,1,,
+297,2019,Malignant Neoplasms (Cancer: C00-C97),Male,Non-Hispanic White,2785,212.4835011,163.7927192
+298,2019,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Female,Other Race/ Ethnicity,1,,
+299,2019,"Nephritis, Nephrotic Syndrome and Nephrisis (N00-N07, N17-N19, N25-N27)",Female,Other Race/ Ethnicity,2,,
+300,2019,"Essential Hypertension and Renal Diseases (I10, I12)",Female,Other Race/ Ethnicity,2,,
+301,2019,Cerebrovascular Disease (Stroke: I60-I69),Female,Other Race/ Ethnicity,2,,
+302,2019,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Non-Hispanic White,4034,307.7768198,224.9990183
+303,2019,Chronic Lower Respiratory Diseases (J40-J47),Female,Other Race/ Ethnicity,2,,
+304,2019,Alzheimer's Disease (G30),Female,Other Race/ Ethnicity,3,,
+305,2019,Influenza (Flu) and Pneumonia (J09-J18),Female,Other Race/ Ethnicity,5,,
+306,2019,Malignant Neoplasms (Cancer: C00-C97),Female,Other Race/ Ethnicity,17,,
+307,2019,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Other Race/ Ethnicity,30,,
+308,2019,All Other Causes,Female,Other Race/ Ethnicity,28,,
+309,2019,Insitu or Benign / Uncertain Neoplasms (D00-D48),Female,Other Race/ Ethnicity,2,,
+310,2019,Influenza (Flu) and Pneumonia (J09-J18),Male,Asian and Pacific Islander,92,15.70070363,15.27352088
+311,2019,Septicemia (A40-A41),Female,Other Race/ Ethnicity,2,,
+312,2019,"Complications of Medical and Surgical Care (Y40-Y84, Y88)",Female,Other Race/ Ethnicity,2,,
+313,2019,Influenza (Flu) and Pneumonia (J09-J18),Female,Other Race/ Ethnicity,2,,
+314,2019,Mental and Behavioral Disorders due to Use of Alcohol (F10),Male,Other Race/ Ethnicity,1,,
+315,2019,Alzheimer's Disease (G30),Female,Other Race/ Ethnicity,3,,
+316,2019,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Female,Other Race/ Ethnicity,3,,
+317,2019,Cerebrovascular Disease (Stroke: I60-I69),Male,Asian and Pacific Islander,105,17.91928132,16.87065413
+318,2019,Septicemia (A40-A41),Male,Other Race/ Ethnicity,1,,
+319,2019,"Assault (Homicide: U01-U02, Y87.1, X85-Y09)",Female,Other Race/ Ethnicity,3,,
+320,2019,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Female,Other Race/ Ethnicity,3,,
+321,2019,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Male,Not Stated/Unknown,15,18.44882297,28.63593587
+322,2019,"Essential Hypertension and Renal Diseases (I10, I12)",Female,Other Race/ Ethnicity,5,,
+323,2019,Cerebrovascular Disease (Stroke: I60-I69),Female,Other Race/ Ethnicity,9,,
+324,2019,Diabetes Mellitus (E10-E14),Male,Hispanic,245,20.9087542,25.40934387
+325,2019,Diabetes Mellitus (E10-E14),Female,Other Race/ Ethnicity,14,,
+326,2019,Viral Hepatitis (B15-B19),Male,Other Race/ Ethnicity,1,,
+327,2019,Malignant Neoplasms (Cancer: C00-C97),Female,Other Race/ Ethnicity,35,,
+328,2019,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Other Race/ Ethnicity,39,,
+329,2019,All Other Causes,Female,Non-Hispanic Black,1578,158.2551418,123.7629009
+330,2019,"Intentional Self-Harm (Suicide: U03, X60-X84, Y87.0)",Male,Other Race/ Ethnicity,2,,
+331,2019,Aortic Aneurysm and Dissection (I71),Male,Other Race/ Ethnicity,2,,
+332,2019,"Nephritis, Nephrotic Syndrome and Nephrisis (N00-N07, N17-N19, N25-N27)",Female,Non-Hispanic Black,96,9.627689234,7.092763442
+333,2019,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Female,Non-Hispanic Black,120,12.03461154,10.40042785
+334,2019,Alzheimer's Disease (G30),Female,Non-Hispanic Black,171,17.14932145,10.82707992
+335,2019,"Assault (Homicide: U01-U02, Y87.1, X85-Y09)",Male,Other Race/ Ethnicity,2,,
+336,2019,Influenza (Flu) and Pneumonia (J09-J18),Female,Non-Hispanic Black,227,22.7654735,16.24829465
+337,2019,Influenza (Flu) and Pneumonia (J09-J18),Male,Hispanic,182,15.5322174,19.85821025
+338,2019,"Essential Hypertension and Renal Diseases (I10, I12)",Female,Non-Hispanic Black,290,29.08364456,20.45669126
+339,2019,"Congenital Malformations, Deformations, and Chromosomal Abnormalities (Q00-Q99)",Male,Other Race/ Ethnicity,3,,
+340,2019,Cerebrovascular Disease (Stroke: I60-I69),Female,Non-Hispanic Black,316,31.69114373,22.36321122
+341,2019,Diabetes Mellitus (E10-E14),Male,Other Race/ Ethnicity,3,,
+342,2019,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Male,Other Race/ Ethnicity,5,,
+343,2019,Diabetes Mellitus (E10-E14),Female,Non-Hispanic Black,383,38.41046851,27.78150486
+344,2019,Cerebrovascular Disease (Stroke: I60-I69),Male,Hispanic,182,15.5322174,19.55837808
+345,2019,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Male,Hispanic,174,14.84948257,16.10828575
+346,2019,Malignant Neoplasms (Cancer: C00-C97),Female,Non-Hispanic Black,1753,175.805617,132.4018003
+347,2019,Influenza (Flu) and Pneumonia (J09-J18),Male,Other Race/ Ethnicity,6,,
+348,2019,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Non-Hispanic Black,2483,249.0161705,173.1869461
+349,2019,All Other Causes,Female,Non-Hispanic White,2264,165.1004969,96.12840989
+350,2019,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Female,Non-Hispanic White,125,9.115530969,8.755260544
+351,2019,Influenza (Flu) and Pneumonia (J09-J18),Male,Not Stated/Unknown,14,17.21890143,28.51477435
+352,2019,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Female,Non-Hispanic White,167,12.17834937,7.049815954
+353,2019,Diabetes Mellitus (E10-E14),Female,Non-Hispanic White,197,14.36607681,8.62864342
+354,2019,"Essential Hypertension and Renal Diseases (I10, I12)",Female,Non-Hispanic White,228,16.62672849,8.218487701
+355,2019,Influenza (Flu) and Pneumonia (J09-J18),Female,Non-Hispanic White,308,22.46066831,11.14077883
+356,2019,Malignant Neoplasms (Cancer: C00-C97),Male,Other Race/ Ethnicity,15,,
+357,2019,Diabetes Mellitus (E10-E14),Male,Not Stated/Unknown,34,41.81733205,65.49320907
+358,2019,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Other Race/ Ethnicity,19,,
+359,2019,Alzheimer's Disease (G30),Female,Non-Hispanic White,341,24.86716848,10.50871683
+360,2019,All Other Causes,Male,Other Race/ Ethnicity,27,,
+361,2019,Cerebrovascular Disease (Stroke: I60-I69),Female,Non-Hispanic White,390,28.44045662,14.41986136
+362,2019,Chronic Lower Respiratory Diseases (J40-J47),Male,Asian and Pacific Islander,80,13.65278577,13.41842449
+363,2019,"Chronic Liver Disease and Cirrhosis (K70, K73-K74)",Male,Other Race/ Ethnicity,4,,
+364,2019,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Male,Not Stated/Unknown,17,20.90866603,27.20905858
+365,2019,Chronic Lower Respiratory Diseases (J40-J47),Female,Non-Hispanic White,480,35.00363892,19.22599409
+366,2019,Malignant Neoplasms (Cancer: C00-C97),Female,Non-Hispanic White,2655,193.6138778,124.3381382
+367,2019,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Non-Hispanic White,4001,291.7699153,141.5642319
+368,2019,All Other Causes,Female,Asian and Pacific Islander,401,61.91319492,53.34011786
+369,2019,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Female,Asian and Pacific Islander,40,6.175879793,5.373332294
+370,2019,Malignant Neoplasms (Cancer: C00-C97),Male,Not Stated/Unknown,75,92.24411483,146.1092186
+371,2019,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Male,Other Race/ Ethnicity,4,,
+372,2019,Mental and Behavioral Disorders due to Use of Alcohol (F10),Male,Other Race/ Ethnicity,4,,
+373,2019,"Intentional Self-Harm (Suicide: U03, X60-X84, Y87.0)",Female,Asian and Pacific Islander,40,6.175879793,5.346443053
+374,2019,"Chronic Liver Disease and Cirrhosis (K70, K73-K74)",Male,Hispanic,171,14.59345701,15.95641278
+375,2019,Chronic Lower Respiratory Diseases (J40-J47),Male,Hispanic,170,14.50811516,18.82042264
+376,2019,Chronic Lower Respiratory Diseases (J40-J47),Female,Asian and Pacific Islander,40,6.175879793,5.084314882
+377,2019,Alzheimer's Disease (G30),Female,Asian and Pacific Islander,50,7.719849741,6.207494885
+378,2019,"Essential Hypertension and Renal Diseases (I10, I12)",Female,Asian and Pacific Islander,66,10.19020166,8.354977901
+379,2019,Influenza (Flu) and Pneumonia (J09-J18),Female,Asian and Pacific Islander,67,10.34459865,8.518144202
+380,2019,Influenza (Flu) and Pneumonia (J09-J18),Male,Other Race/ Ethnicity,4,,
+381,2019,Chronic Lower Respiratory Diseases (J40-J47),Male,Other Race/ Ethnicity,4,,
+382,2019,Diabetes Mellitus (E10-E14),Female,Asian and Pacific Islander,78,12.0429656,9.944715133
+383,2019,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Male,Other Race/ Ethnicity,5,,
+384,2019,Cerebrovascular Disease (Stroke: I60-I69),Female,Asian and Pacific Islander,110,16.98366943,14.15550557
+385,2019,Malignant Neoplasms (Cancer: C00-C97),Female,Asian and Pacific Islander,582,89.85905098,75.79927081
+386,2019,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Asian and Pacific Islander,623,96.18932777,78.8163246
+387,2019,All Other Causes,Female,Hispanic,1279,102.1702593,93.37882892
+388,2019,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Not Stated/Unknown,193,237.3748555,414.5944733
+389,2019,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Female,Hispanic,98,7.828526512,7.322347649
+390,2019,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Female,Hispanic,104,8.307824053,8.039053498
+391,2019,"Essential Hypertension and Renal Diseases (I10, I12)",Female,Hispanic,151,12.06232146,10.7897817
+392,2019,"Essential Hypertension and Renal Diseases (I10, I12)",Male,Other Race/ Ethnicity,5,,
+393,2019,"Essential Hypertension and Renal Diseases (I10, I12)",Male,Hispanic,135,11.52115027,15.71279828
+394,2019,Influenza (Flu) and Pneumonia (J09-J18),Female,Hispanic,156,12.46173608,11.18444404
+395,2019,Cerebrovascular Disease (Stroke: I60-I69),Male,Other Race/ Ethnicity,8,,
+396,2019,Diabetes Mellitus (E10-E14),Male,Other Race/ Ethnicity,9,,
+397,2019,Chronic Lower Respiratory Diseases (J40-J47),Female,Hispanic,178,14.2191604,12.85579621
+398,2019,Diabetes Mellitus (E10-E14),Female,Hispanic,214,17.09494565,15.49801993
+399,2019,Alzheimer's Disease (G30),Female,Hispanic,231,18.45295535,15.93330728
+400,2019,All Other Causes,Male,Hispanic,1395,119.0518861,143.485633
+401,2019,Cerebrovascular Disease (Stroke: I60-I69),Female,Hispanic,249,19.89084797,17.65789189
+402,2019,Malignant Neoplasms (Cancer: C00-C97),Female,Hispanic,1182,94.42161568,87.06528773
+403,2019,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Hispanic,1574,125.7357217,111.7353368
+404,2019,All Other Causes,Male,Not Stated/Unknown,125,153.7401914,251.283561
+405,2019,"Chronic Liver Disease and Cirrhosis (K70, K73-K74)",Male,Not Stated/Unknown,14,17.21890143,24.15790476
+406,2019,Certain Conditions originating in the Perinatal Period (P00-P96),Male,Not Stated/Unknown,14,17.21890143,12.84231049
+407,2019,Diabetes Mellitus (E10-E14),Male,Asian and Pacific Islander,76,12.97014648,11.96179248
+408,2019,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Asian and Pacific Islander,731,124.7523299,119.3723376
+409,2019,All Other Causes,Male,Other Race/ Ethnicity,10,,
+410,2019,Mental and Behavioral Disorders due to Use of Alcohol (F10),Male,Not Stated/Unknown,14,17.21890143,21.0146938
+411,2019,"Intentional Self-Harm (Suicide: U03, X60-X84, Y87.0)",Male,Other Race/ Ethnicity,9,,
+412,2019,Malignant Neoplasms (Cancer: C00-C97),Male,Other Race/ Ethnicity,32,,
+413,2019,Cholelithiasis and Disorders of Gallbladder (K80-K82),Male,Other Race/ Ethnicity,1,,
+414,2019,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Other Race/ Ethnicity,66,,
+415,2019,All Other Causes,Male,Non-Hispanic Black,1507,181.8458256,182.6826072
+416,2019,"Essential Hypertension and Renal Diseases (I10, I12)",Male,Asian and Pacific Islander,56,9.556950036,9.228507274
+417,2019,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Male,Non-Hispanic Black,150,18.10011536,17.77687704
+418,2019,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Male,Asian and Pacific Islander,52,8.874310748,8.389708675
+419,2019,Alzheimer's Disease (G30),Male,Other Race/ Ethnicity,1,,
+420,2019,"Assault (Homicide: U01-U02, Y87.1, X85-Y09)",Male,Non-Hispanic Black,156,18.82411997,18.99230593
+421,2019,"Essential Hypertension and Renal Diseases (I10, I12)",Male,Non-Hispanic Black,185,22.32347561,22.76463114
+422,2019,Chronic Lower Respiratory Diseases (J40-J47),Male,Non-Hispanic Black,210,25.3401615,25.6023163
+423,2019,Human Immunodeficiency Virus Disease (HIV: B20-B24),Male,Other Race/ Ethnicity,1,,
+424,2019,Chronic Lower Respiratory Diseases (J40-J47),Female,Non-Hispanic Black,242,24.26979995,18.07759942
+425,2019,Cerebrovascular Disease (Stroke: I60-I69),Male,Other Race/ Ethnicity,1,,
+426,2019,"Intentional Self-Harm (Suicide: U03, X60-X84, Y87.0)",Male,Asian and Pacific Islander,48,8.191671459,7.848126622
+427,2019,Influenza (Flu) and Pneumonia (J09-J18),Male,Non-Hispanic Black,211,25.46082894,25.79699843
+428,2019,Cerebrovascular Disease (Stroke: I60-I69),Male,Non-Hispanic Black,228,27.51217534,27.14739223
+429,2019,Chronic Lower Respiratory Diseases (J40-J47),Male,Not Stated/Unknown,22,27.05827368,48.36535015
+430,2019,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Male,Non-Hispanic Black,294,35.4762261,32.35415157
+431,2019,Diabetes Mellitus (E10-E14),Male,Non-Hispanic Black,377,45.49162327,44.92295145
+432,2019,Malignant Neoplasms (Cancer: C00-C97),Male,Non-Hispanic Black,1421,171.4684262,168.4803046
+433,2019,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Non-Hispanic Black,2315,279.3451137,279.643801
+434,2019,All Other Causes,Male,Non-Hispanic White,2366,180.5156063,139.6400628
+435,2019,"Essential Hypertension and Renal Diseases (I10, I12)",Male,Non-Hispanic White,181,13.80952018,10.0100868
+436,2019,"Intentional Self-Harm (Suicide: U03, X60-X84, Y87.0)",Male,Non-Hispanic White,194,14.80136417,13.5805479
+437,2019,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Hispanic,1603,136.8029917,176.783287
+438,2019,Malignant Neoplasms (Cancer: C00-C97),Male,Asian and Pacific Islander,671,114.5127406,105.9242636
+439,2019,Diabetes Mellitus (E10-E14),Male,Non-Hispanic White,248,18.92133151,14.48032854
+440,2019,Cerebrovascular Disease (Stroke: I60-I69),Male,Non-Hispanic White,266,20.29465396,14.85203326
+441,2019,Malignant Neoplasms (Cancer: C00-C97),Male,Hispanic,1164,99.3379179,121.5817693
+442,2019,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Male,Non-Hispanic White,272,20.75242811,16.68493048
+443,2019,Influenza (Flu) and Pneumonia (J09-J18),Male,Non-Hispanic White,342,26.09312652,19.10848654
+444,2019,All Other Causes,Female,Not Stated/Unknown,64,70.7534133,88.7919256
+445,2019,"Intentional Self-Harm (Suicide: U03, X60-X84, Y87.0)",Female,Not Stated/Unknown,5,5.527610414,6.979219825
+446,2019,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Female,Not Stated/Unknown,5,5.527610414,6.724040882
+447,2019,Chronic Lower Respiratory Diseases (J40-J47),Male,Non-Hispanic White,373,28.45829296,20.77153997
+448,2019,Certain Conditions originating in the Perinatal Period (P00-P96),Female,Not Stated/Unknown,7,7.73865458,6.390793995
+449,2019,Influenza (Flu) and Pneumonia (J09-J18),Female,Not Stated/Unknown,8,8.844176662,12.14778648
+450,2018,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",F,Non-Hispanic White,177,12.843,8.085
+451,2018,"Chronic Liver Disease and Cirrhosis (K70, K73-K74)",F,Not Stated/Unknown,6,6.725,8.154
+452,2018,Diabetes Mellitus (E10-E14),M,Not Stated/Unknown,28,35.054,58.126
+453,2018,Chronic Lower Respiratory Diseases (J40-J47),F,Asian and Pacific Islander,40,6.159,5.366
+454,2018,Diabetes Mellitus (E10-E14),F,Other Race/ Ethnicity,10,,
+455,2018,Influenza (Flu) and Pneumonia (J09-J18),F,Other Race/ Ethnicity,9,,
+456,2018,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Non-Hispanic Black,2250,268.468,277.39
+457,2018,Chronic Lower Respiratory Diseases (J40-J47),F,Non-Hispanic White,477,34.611,18.793
+458,2018,Influenza (Flu) and Pneumonia (J09-J18),M,Non-Hispanic White,436,33.129,24.132
+459,2018,Cerebrovascular Disease (Stroke: I60-I69),F,Other Race/ Ethnicity,9,,
+460,2018,Malignant Neoplasms (Cancer: C00-C97),M,Non-Hispanic Black,1485,177.189,178.45
+461,2018,All Other Causes,M,Non-Hispanic White,2253,171.19,134.486
+462,2018,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",F,Hispanic,71,5.613,5.348
+463,2018,"Intentional Self-Harm (Suicide: U03, X60-X84, Y87.0)",M,Non-Hispanic White,208,15.805,14.184
+464,2018,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",M,Hispanic,392,33.093,32.997
+465,2018,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",M,Non-Hispanic Black,271,32.335,29.271
+466,2018,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",M,Non-Hispanic White,413,31.381,28.644
+467,2018,Alzheimer's Disease (G30),F,Asian and Pacific Islander,61,9.392,8.185
+468,2018,"Nephritis, Nephrotic Syndrome and Nephrisis (N00-N07, N17-N19, N25-N27)",M,Asian and Pacific Islander,30,5.107,5.115
+469,2018,Cerebrovascular Disease (Stroke: I60-I69),F,Non-Hispanic Black,299,29.575,21.7
+470,2018,Alzheimer's Disease (G30),F,Non-Hispanic Black,160,15.826,10.573
+471,2018,Alzheimer's Disease (G30),M,Asian and Pacific Islander,30,5.107,5.867
+472,2018,Cerebrovascular Disease (Stroke: I60-I69),F,Non-Hispanic White,403,29.241,14.666
+473,2018,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",M,Not Stated/Unknown,23,28.794,35.45
+474,2018,"Essential Hypertension and Renal Diseases (I10, I12)",F,Other Race/ Ethnicity,8,,
+475,2018,Parkinson's Disease (G20),M,Asian and Pacific Islander,30,5.107,5.318
+476,2018,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",F,Non-Hispanic Black,123,12.166,10.384
+477,2018,Influenza (Flu) and Pneumonia (J09-J18),M,Non-Hispanic Black,240,28.637,30.4
+478,2018,Diabetes Mellitus (E10-E14),F,Non-Hispanic White,180,13.061,7.485
+479,2018,"Intentional Self-Harm (Suicide: U03, X60-X84, Y87.0)",F,Asian and Pacific Islander,28,4.311,4.323
+480,2018,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",F,Asian and Pacific Islander,33,5.081,4.715
+481,2018,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Non-Hispanic Black,2552,252.426,181.358
+482,2018,All Other Causes,F,Non-Hispanic White,2354,170.805,98.051
+483,2018,Influenza (Flu) and Pneumonia (J09-J18),F,Non-Hispanic White,391,28.371,13.778
+484,2018,Chronic Lower Respiratory Diseases (J40-J47),M,Non-Hispanic White,364,27.658,20.577
+485,2018,Chronic Lower Respiratory Diseases (J40-J47),M,Not Stated/Unknown,22,27.542,47.183
+486,2018,Influenza (Flu) and Pneumonia (J09-J18),F,Non-Hispanic Black,276,27.3,19.885
+487,2018,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Not Stated/Unknown,145,162.529,226.995
+488,2018,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",F,Hispanic,107,8.459,8.153
+489,2018,Chronic Lower Respiratory Diseases (J40-J47),F,Other Race/ Ethnicity,3,,
+490,2018,Alzheimer's Disease (G30),F,Non-Hispanic White,369,26.774,11.344
+491,2018,"Essential Hypertension and Renal Diseases (I10, I12)",M,Not Stated/Unknown,13,16.275,29.377
+492,2018,Chronic Lower Respiratory Diseases (J40-J47),M,Hispanic,146,12.325,16.311
+493,2018,"Intentional Self-Harm (Suicide: U03, X60-X84, Y87.0)",F,Other Race/ Ethnicity,3,,
+494,2018,All Other Causes,F,Non-Hispanic Black,1541,152.425,119.799
+495,2018,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",M,Not Stated/Unknown,13,16.275,26.13
+496,2018,Cerebrovascular Disease (Stroke: I60-I69),M,Non-Hispanic Black,217,25.892,26.658
+497,2018,Chronic Lower Respiratory Diseases (J40-J47),F,Non-Hispanic Black,257,25.421,19.319
+498,2018,"Essential Hypertension and Renal Diseases (I10, I12)",F,Non-Hispanic Black,244,24.135,17.373
+499,2018,"Essential Hypertension and Renal Diseases (I10, I12)",M,Hispanic,110,9.286,12.626
+500,2018,All Other Causes,M,Not Stated/Unknown,105,131.452,213.777
+501,2018,Diabetes Mellitus (E10-E14),M,Non-Hispanic White,307,23.327,18.13
+502,2018,Influenza (Flu) and Pneumonia (J09-J18),F,Asian and Pacific Islander,79,12.163,10.757
+503,2018,Peptic Ulcer (K25-K28),F,Other Race/ Ethnicity,2,,
+504,2018,Influenza (Flu) and Pneumonia (J09-J18),M,Hispanic,193,16.293,22.46
+505,2018,"Nephritis, Nephrotic Syndrome and Nephrisis (N00-N07, N17-N19, N25-N27)",F,Non-Hispanic Black,80,7.913,5.807
+506,2018,Chronic Lower Respiratory Diseases (J40-J47),F,Hispanic,211,16.681,15.561
+507,2018,Diabetes Mellitus (E10-E14),M,Asian and Pacific Islander,99,16.855,16.778
+508,2018,Certain Conditions originating in the Perinatal Period (P00-P96),M,Not Stated/Unknown,18,22.535,16.87
+509,2018,Mental and Behavioral Disorders due to Use of Alcohol (F10),F,Other Race/ Ethnicity,2,,
+510,2018,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",M,Hispanic,200,16.884,18.663
+511,2018,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Hispanic,1480,124.942,168.275
+512,2018,Cerebrovascular Disease (Stroke: I60-I69),M,Non-Hispanic White,296,22.491,16.712
+513,2018,"Essential Hypertension and Renal Diseases (I10, I12)",F,Hispanic,152,12.017,11.109
+514,2018,Cerebrovascular Disease (Stroke: I60-I69),M,Not Stated/Unknown,17,21.283,34.048
+515,2018,Malignant Neoplasms (Cancer: C00-C97),M,Other Race/ Ethnicity,36,,
+516,2018,Certain Conditions originating in the Perinatal Period (P00-P96),F,Other Race/ Ethnicity,2,,
+517,2018,Malignant Neoplasms (Cancer: C00-C97),M,Non-Hispanic White,2834,215.337,167.441
+518,2018,"Essential Hypertension and Renal Diseases (I10, I12)",M,Non-Hispanic Black,176,21,21.851
+519,2018,Cerebrovascular Disease (Stroke: I60-I69),M,Asian and Pacific Islander,102,17.365,17.355
+520,2018,Chronic Lower Respiratory Diseases (J40-J47),M,Non-Hispanic Black,173,20.642,21.044
+521,2018,Cerebrovascular Disease (Stroke: I60-I69),F,Not Stated/Unknown,7,7.846,11.144
+522,2018,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",M,Other Race/ Ethnicity,13,,
+523,2018,Influenza (Flu) and Pneumonia (J09-J18),M,Not Stated/Unknown,16,20.031,32.541
+524,2018,Diabetes Mellitus (E10-E14),M,Hispanic,236,19.923,25.537
+525,2018,"Chronic Liver Disease and Cirrhosis (K70, K73-K74)",M,Not Stated/Unknown,14,17.527,23.942
+526,2018,Malignant Neoplasms (Cancer: C00-C97),M,Asian and Pacific Islander,711,121.047,116.072
+527,2018,Influenza (Flu) and Pneumonia (J09-J18),M,Asian and Pacific Islander,117,19.919,20.647
+528,2018,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Non-Hispanic White,4248,308.233,150.307
+529,2018,Malignant Neoplasms (Cancer: C00-C97),M,Not Stated/Unknown,96,120.185,198.075
+530,2018,Cerebrovascular Disease (Stroke: I60-I69),F,Asian and Pacific Islander,114,17.552,15.469
+531,2018,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Asian and Pacific Islander,700,119.174,120.436
+532,2018,Malignant Neoplasms (Cancer: C00-C97),F,Non-Hispanic White,2949,213.978,138.754
+533,2018,Alzheimer's Disease (G30),F,Other Race/ Ethnicity,2,,
+534,2018,Influenza (Flu) and Pneumonia (J09-J18),M,Other Race/ Ethnicity,11,,
+535,2018,Cerebrovascular Disease (Stroke: I60-I69),F,Hispanic,244,19.29,17.886
+536,2018,Cerebrovascular Disease (Stroke: I60-I69),M,Other Race/ Ethnicity,9,,
+537,2018,Alzheimer's Disease (G30),F,Hispanic,243,19.211,17.122
+538,2018,All Other Causes,F,Other Race/ Ethnicity,35,,
+539,2018,Diabetes Mellitus (E10-E14),F,Hispanic,236,18.658,17.558
+540,2018,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Hispanic,1493,118.033,109.083
+541,2018,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",M,Non-Hispanic White,244,18.54,14.777
+542,2018,"Essential Hypertension and Renal Diseases (I10, I12)",F,Non-Hispanic White,253,18.358,8.893
+543,2018,"Assault (Homicide: U01-U02, Y87.1, X85-Y09)",M,Non-Hispanic Black,152,18.136,18.171
+544,2018,Influenza (Flu) and Pneumonia (J09-J18),F,Hispanic,225,17.788,16.463
+545,2018,All Other Causes,M,Hispanic,1305,110.169,138.078
+546,2018,Malignant Neoplasms (Cancer: C00-C97),M,Hispanic,1230,103.837,132.164
+547,2018,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Asian and Pacific Islander,610,93.919,81.719
+548,2018,Diabetes Mellitus (E10-E14),F,Asian and Pacific Islander,85,13.087,11.467
+549,2018,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",M,Other Race/ Ethnicity,8,,
+550,2018,"Chronic Liver Disease and Cirrhosis (K70, K73-K74)",M,Hispanic,157,13.254,14.936
+551,2018,"Assault (Homicide: U01-U02, Y87.1, X85-Y09)",M,Other Race/ Ethnicity,7,,
+552,2018,All Other Causes,F,Hispanic,1182,93.446,87.445
+553,2018,"Intentional Self-Harm (Suicide: U03, X60-X84, Y87.0)",M,Asian and Pacific Islander,46,7.831,7.481
+554,2018,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Not Stated/Unknown,169,211.575,393.764
+555,2018,Malignant Neoplasms (Cancer: C00-C97),F,Hispanic,1157,91.47,86.722
+556,2018,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",F,Non-Hispanic White,120,8.707,8.385
+557,2018,Malignant Neoplasms (Cancer: C00-C97),F,Asian and Pacific Islander,590,90.84,79.168
+558,2018,All Other Causes,F,Not Stated/Unknown,68,76.22,100.491
+559,2018,Chronic Lower Respiratory Diseases (J40-J47),M,Asian and Pacific Islander,78,13.279,13.916
+560,2018,"Essential Hypertension and Renal Diseases (I10, I12)",M,Non-Hispanic White,177,13.449,9.853
+561,2018,Diabetes Mellitus (E10-E14),F,Not Stated/Unknown,12,13.451,18.98
+562,2018,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",M,Asian and Pacific Islander,84,14.301,14.166
+563,2018,All Other Causes,M,Asian and Pacific Islander,437,74.399,75.313
+564,2018,Cerebrovascular Disease (Stroke: I60-I69),M,Hispanic,171,14.436,18.949
+565,2018,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Other Race/ Ethnicity,82,,
+566,2018,Influenza (Flu) and Pneumonia (J09-J18),F,Not Stated/Unknown,11,12.33,17.636
+567,2018,"Intentional Self-Harm (Suicide: U03, X60-X84, Y87.0)",M,Other Race/ Ethnicity,6,,
+568,2018,Malignant Neoplasms (Cancer: C00-C97),F,Not Stated/Unknown,59,66.132,89.397
+569,2018,All Other Causes,F,Asian and Pacific Islander,428,65.897,60.058
+570,2018,Malignant Neoplasms (Cancer: C00-C97),F,Non-Hispanic Black,1858,183.781,140.841
+571,2018,Diabetes Mellitus (E10-E14),M,Non-Hispanic Black,357,42.597,43.077
+572,2018,All Other Causes,M,Non-Hispanic Black,1538,183.513,189.514
+573,2018,Certain Conditions originating in the Perinatal Period (P00-P96),F,Not Stated/Unknown,13,14.572,12.053
+574,2018,Diabetes Mellitus (E10-E14),F,Non-Hispanic Black,407,40.258,29.887
+575,2018,Alzheimer's Disease (G30),F,Not Stated/Unknown,6,6.725,9.553
+576,2018,Chronic Lower Respiratory Diseases (J40-J47),F,Not Stated/Unknown,6,6.725,9.138
+577,2018,"Essential Hypertension and Renal Diseases (I10, I12)",M,Other Race/ Ethnicity,6,,
+578,2018,"Essential Hypertension and Renal Diseases (I10, I12)",F,Asian and Pacific Islander,66,10.162,8.887
+579,2018,Diabetes Mellitus (E10-E14),M,Other Race/ Ethnicity,6,,
+580,2018,"Essential Hypertension and Renal Diseases (I10, I12)",F,Not Stated/Unknown,10,11.209,15.88
+581,2018,All Other Causes,M,Other Race/ Ethnicity,55,,
+582,2018,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Other Race/ Ethnicity,55,,
+583,2018,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Non-Hispanic White,3959,300.818,223.358
+584,2018,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",M,Non-Hispanic Black,129,15.392,15.436
+585,2018,Malignant Neoplasms (Cancer: C00-C97),F,Other Race/ Ethnicity,32,,
+586,2018,"Essential Hypertension and Renal Diseases (I10, I12)",M,Asian and Pacific Islander,57,9.704,10.106
+587,2017,Cerebrovascular Disease (Stroke: I60-I69),Male,Non-Hispanic White,266,19.80367559,14.88148486
+588,2017,Human Immunodeficiency Virus Disease (HIV: B20-B24),Female,Non-Hispanic Black,77,7.395874255,6.5007516
+589,2017,All Other Causes,Female,Non-Hispanic Black,1438,138.120353,112.6678171
+590,2017,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Non-Hispanic White,4279,303.9127254,147.830847
+591,2017,Malignant Neoplasms (Cancer: C00-C97),Female,Non-Hispanic White,2983,211.8653096,138.5518594
+592,2017,Chronic Lower Respiratory Diseases (J40-J47),Female,Non-Hispanic White,502,35.65416877,19.59631066
+593,2017,Influenza (Flu) and Pneumonia (J09-J18),Female,Non-Hispanic White,418,29.68813256,14.83712019
+594,2017,Cerebrovascular Disease (Stroke: I60-I69),Female,Non-Hispanic White,404,28.69379319,14.22720739
+595,2017,Alzheimer's Disease (G30),Female,Non-Hispanic White,378,26.84716294,11.63305384
+596,2017,"Essential Hypertension and Renal Diseases (I10, I12)",Female,Non-Hispanic White,231,16.40659957,7.87079199
+597,2017,Diabetes Mellitus (E10-E14),Female,Non-Hispanic White,192,13.63665419,8.1484191
+598,2017,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Female,Non-Hispanic White,164,11.64797545,6.803385457
+599,2017,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Female,Non-Hispanic White,119,8.451884628,8.170656665
+600,2017,All Other Causes,Female,Non-Hispanic White,2349,166.8359411,96.33488708
+601,2017,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Not Stated/Unknown,142,,
+602,2017,Malignant Neoplasms (Cancer: C00-C97),Female,Not Stated/Unknown,80,,
+603,2017,Influenza (Flu) and Pneumonia (J09-J18),Female,Not Stated/Unknown,15,,
+604,2017,Diabetes Mellitus (E10-E14),Female,Not Stated/Unknown,12,,
+605,2017,Chronic Lower Respiratory Diseases (J40-J47),Female,Not Stated/Unknown,11,,
+606,2017,"Essential Hypertension and Renal Diseases (I10, I12)",Female,Not Stated/Unknown,11,,
+607,2017,Cerebrovascular Disease (Stroke: I60-I69),Female,Not Stated/Unknown,10,,
+608,2017,Certain Conditions originating in the Perinatal Period (P00-P96),Female,Not Stated/Unknown,9,,
+609,2017,Alzheimer's Disease (G30),Female,Not Stated/Unknown,6,,
+610,2017,"Chronic Liver Disease and Cirrhosis (K70, K73-K74)",Female,Not Stated/Unknown,5,,
+611,2017,All Other Causes,Female,Not Stated/Unknown,99,,
+612,2017,Malignant Neoplasms (Cancer: C00-C97),Female,Other Race/ Ethnicity,16,,
+613,2017,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Other Race/ Ethnicity,13,,
+614,2017,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Female,Other Race/ Ethnicity,3,,
+615,2017,"Chronic Liver Disease and Cirrhosis (K70, K73-K74)",Female,Other Race/ Ethnicity,2,,
+616,2017,Cerebrovascular Disease (Stroke: I60-I69),Female,Other Race/ Ethnicity,2,,
+617,2017,"Congenital Malformations, Deformations, and Chromosomal Abnormalities (Q00-Q99)",Female,Other Race/ Ethnicity,2,,
+618,2017,Alzheimer's Disease (G30),Female,Other Race/ Ethnicity,2,,
+619,2017,Chronic Lower Respiratory Diseases (J40-J47),Female,Other Race/ Ethnicity,1,,
+620,2017,Diabetes Mellitus (E10-E14),Female,Other Race/ Ethnicity,1,,
+621,2017,"Essential Hypertension and Renal Diseases (I10, I12)",Female,Other Race/ Ethnicity,1,,
+622,2017,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Female,Other Race/ Ethnicity,1,,
+623,2017,Anemias (D50-D64),Female,Other Race/ Ethnicity,1,,
+624,2017,Septicemia (A40-A41),Female,Other Race/ Ethnicity,1,,
+625,2017,"Pregnancy, Childbirth and the Puerperium (O00-O09)",Female,Other Race/ Ethnicity,1,,
+626,2017,All Other Causes,Female,Other Race/ Ethnicity,9,,
+627,2017,Malignant Neoplasms (Cancer: C00-C97),Male,Asian and Pacific Islander,770,126.3658176,126.1026052
+628,2017,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Asian and Pacific Islander,684,112.2522327,120.8258868
+629,2017,Cerebrovascular Disease (Stroke: I60-I69),Male,Asian and Pacific Islander,97,15.91881078,17.03312447
+630,2017,Influenza (Flu) and Pneumonia (J09-J18),Male,Asian and Pacific Islander,93,15.26236498,17.19356222
+631,2017,Diabetes Mellitus (E10-E14),Male,Asian and Pacific Islander,93,15.26236498,15.52791828
+632,2017,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Male,Asian and Pacific Islander,77,12.63658176,13.00239592
+633,2017,Chronic Lower Respiratory Diseases (J40-J47),Male,Asian and Pacific Islander,76,12.4724703,14.02388248
+634,2017,"Essential Hypertension and Renal Diseases (I10, I12)",Male,Asian and Pacific Islander,46,7.549126763,8.151400495
+635,2017,"Intentional Self-Harm (Suicide: U03, X60-X84, Y87.0)",Male,Asian and Pacific Islander,38,6.236235152,5.897274644
+636,2017,Alzheimer's Disease (G30),Male,Asian and Pacific Islander,29,4.75923209,5.727588815
+637,2017,All Other Causes,Male,Asian and Pacific Islander,493,80.90694553,86.27791648
+638,2017,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Hispanic,1427,116.8997562,163.5081075
+639,2017,Malignant Neoplasms (Cancer: C00-C97),Male,Hispanic,1192,97.64857001,130.0964331
+640,2017,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Male,Hispanic,394,32.27645686,32.19910605
+641,2017,Diabetes Mellitus (E10-E14),Male,Hispanic,235,19.2511862,25.71802372
+642,2017,Cerebrovascular Disease (Stroke: I60-I69),Male,Hispanic,191,15.64670878,20.75817127
+643,2017,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Male,Hispanic,190,15.56478884,17.5606497
+644,2017,Influenza (Flu) and Pneumonia (J09-J18),Male,Hispanic,183,14.99134925,21.36762608
+645,2017,"Chronic Liver Disease and Cirrhosis (K70, K73-K74)",Male,Hispanic,158,12.94335072,14.49100393
+646,2017,Chronic Lower Respiratory Diseases (J40-J47),Male,Hispanic,140,11.46879178,16.08616952
+647,2017,"Essential Hypertension and Renal Diseases (I10, I12)",Male,Hispanic,124,10.15807272,14.73859073
+648,2017,All Other Causes,Male,Hispanic,1275,104.4479251,134.3808504
+649,2017,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Non-Hispanic Black,2143,248.9391336,265.0627457
+650,2017,Malignant Neoplasms (Cancer: C00-C97),Male,Non-Hispanic Black,1508,175.175088,181.0742183
+651,2017,Diabetes Mellitus (E10-E14),Male,Non-Hispanic Black,347,40.30885645,41.42455738
+652,2017,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Male,Non-Hispanic Black,309,35.89463009,33.14996692
+653,2017,Cerebrovascular Disease (Stroke: I60-I69),Male,Non-Hispanic Black,242,28.11165205,29.72449098
+654,2017,Influenza (Flu) and Pneumonia (J09-J18),Male,Non-Hispanic Black,229,26.60152198,29.47499299
+655,2017,"Essential Hypertension and Renal Diseases (I10, I12)",Male,Non-Hispanic Black,186,21.60647637,23.51131496
+656,2017,Chronic Lower Respiratory Diseases (J40-J47),Male,Non-Hispanic Black,165,19.16703549,20.1329842
+657,2017,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Male,Non-Hispanic Black,138,16.0306115,16.20741687
+658,2017,"Assault (Homicide: U01-U02, Y87.1, X85-Y09)",Male,Non-Hispanic Black,133,15.44979224,15.64836771
+659,2017,All Other Causes,Male,Non-Hispanic Black,1413,164.1395221,170.9339179
+660,2017,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Non-Hispanic White,4082,303.9045254,227.6290645
+661,2017,Malignant Neoplasms (Cancer: C00-C97),Male,Non-Hispanic White,3017,224.6153732,176.0842435
+662,2017,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Male,Non-Hispanic White,451,33.57690862,30.9764218
+663,2017,Influenza (Flu) and Pneumonia (J09-J18),Male,Non-Hispanic White,409,30.45001247,22.39997988
+664,2017,Chronic Lower Respiratory Diseases (J40-J47),Male,Non-Hispanic White,374,27.84426568,20.87486657
+665,2017,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Male,Non-Hispanic White,290,21.59047339,18.0514756
+666,2017,Diabetes Mellitus (E10-E14),Male,Non-Hispanic White,238,17.71907816,13.95170168
+667,2017,"Intentional Self-Harm (Suicide: U03, X60-X84, Y87.0)",Male,Non-Hispanic White,194,14.4432822,12.95228637
+668,2017,"Essential Hypertension and Renal Diseases (I10, I12)",Male,Non-Hispanic White,172,12.80538422,9.466142728
+669,2017,All Other Causes,Male,Non-Hispanic White,2167,161.3329512,127.5532876
+670,2017,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Not Stated/Unknown,193,,
+671,2017,Malignant Neoplasms (Cancer: C00-C97),Male,Not Stated/Unknown,120,,
+672,2017,Diabetes Mellitus (E10-E14),Male,Not Stated/Unknown,29,,
+673,2017,Chronic Lower Respiratory Diseases (J40-J47),Male,Not Stated/Unknown,23,,
+674,2017,Cerebrovascular Disease (Stroke: I60-I69),Male,Not Stated/Unknown,20,,
+675,2017,Influenza (Flu) and Pneumonia (J09-J18),Male,Not Stated/Unknown,19,,
+676,2017,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Male,Not Stated/Unknown,17,,
+677,2017,"Essential Hypertension and Renal Diseases (I10, I12)",Male,Not Stated/Unknown,16,,
+678,2017,"Chronic Liver Disease and Cirrhosis (K70, K73-K74)",Male,Not Stated/Unknown,14,,
+679,2017,Certain Conditions originating in the Perinatal Period (P00-P96),Male,Not Stated/Unknown,13,,
+680,2017,All Other Causes,Male,Not Stated/Unknown,137,,
+681,2017,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Other Race/ Ethnicity,21,,
+682,2017,Malignant Neoplasms (Cancer: C00-C97),Male,Other Race/ Ethnicity,15,,
+683,2017,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Male,Other Race/ Ethnicity,5,,
+684,2017,Cerebrovascular Disease (Stroke: I60-I69),Male,Other Race/ Ethnicity,4,,
+685,2017,Diabetes Mellitus (E10-E14),Male,Other Race/ Ethnicity,3,,
+686,2017,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Male,Other Race/ Ethnicity,3,,
+687,2017,"Chronic Liver Disease and Cirrhosis (K70, K73-K74)",Male,Other Race/ Ethnicity,2,,
+688,2017,Aortic Aneurysm and Dissection (I71),Male,Other Race/ Ethnicity,2,,
+689,2017,Alzheimer's Disease (G30),Male,Other Race/ Ethnicity,2,,
+690,2017,Septicemia (A40-A41),Male,Other Race/ Ethnicity,2,,
+691,2017,All Other Causes,Male,Other Race/ Ethnicity,16,,
+692,2017,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Female,Non-Hispanic Black,118,11.33393717,9.911482893
+693,2017,Alzheimer's Disease (G30),Female,Non-Hispanic Black,159,15.27200009,10.42353363
+694,2017,"Essential Hypertension and Renal Diseases (I10, I12)",Female,Non-Hispanic Black,238,22.85997497,16.75836686
+695,2017,Chronic Lower Respiratory Diseases (J40-J47),Female,Non-Hispanic Black,251,24.10862906,18.59385437
+696,2017,Influenza (Flu) and Pneumonia (J09-J18),Female,Non-Hispanic Black,277,26.60593725,19.9860311
+697,2017,Cerebrovascular Disease (Stroke: I60-I69),Female,Non-Hispanic Black,326,31.31240269,23.37422711
+698,2017,Diabetes Mellitus (E10-E14),Female,Non-Hispanic Black,389,37.36357253,28.69050724
+699,2017,Malignant Neoplasms (Cancer: C00-C97),Female,Non-Hispanic Black,1775,170.4893091,134.1835172
+700,2017,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Non-Hispanic Black,2486,238.7810831,177.1404332
+701,2017,All Other Causes,Female,Hispanic,1157,89.22477781,86.29230224
+702,2017,"Chronic Liver Disease and Cirrhosis (K70, K73-K74)",Female,Hispanic,83,6.400740327,6.198230018
+703,2017,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Female,Hispanic,86,6.632092387,6.434677656
+704,2017,"Essential Hypertension and Renal Diseases (I10, I12)",Female,Hispanic,131,10.10237329,9.723480285
+705,2017,Chronic Lower Respiratory Diseases (J40-J47),Female,Hispanic,183,14.11247566,13.64133857
+706,2017,Alzheimer's Disease (G30),Female,Hispanic,187,14.42094507,13.51501134
+707,2017,Diabetes Mellitus (E10-E14),Female,Hispanic,190,14.65229713,14.24277952
+708,2017,Influenza (Flu) and Pneumonia (J09-J18),Female,Hispanic,222,17.12005244,16.40073827
+709,2017,Cerebrovascular Disease (Stroke: I60-I69),Female,Hispanic,247,19.04798627,18.32890793
+710,2017,Malignant Neoplasms (Cancer: C00-C97),Female,Hispanic,1205,92.92641077,90.60874652
+711,2017,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Hispanic,1437,110.8176367,106.2815974
+712,2017,All Other Causes,Female,Asian and Pacific Islander,366,54.2530862,52.64725741
+713,2017,"Intentional Self-Harm (Suicide: U03, X60-X84, Y87.0)",Female,Asian and Pacific Islander,24,3.557579423,3.369561421
+714,2017,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Female,Asian and Pacific Islander,36,5.336369134,5.135702802
+715,2017,Chronic Lower Respiratory Diseases (J40-J47),Female,Asian and Pacific Islander,38,5.632834086,5.28311676
+716,2017,"Essential Hypertension and Renal Diseases (I10, I12)",Female,Asian and Pacific Islander,60,8.893948557,8.273324365
+717,2017,Alzheimer's Disease (G30),Female,Asian and Pacific Islander,69,10.22804084,9.392883983
+718,2017,Diabetes Mellitus (E10-E14),Female,Asian and Pacific Islander,73,10.82097075,9.943976124
+719,2017,Influenza (Flu) and Pneumonia (J09-J18),Female,Asian and Pacific Islander,78,11.56213313,10.77197111
+720,2017,Cerebrovascular Disease (Stroke: I60-I69),Female,Asian and Pacific Islander,92,13.63738779,12.57924223
+721,2017,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Asian and Pacific Islander,583,86.41953348,80.49134035
+722,2017,Malignant Neoplasms (Cancer: C00-C97),Female,Asian and Pacific Islander,609,90.27357786,82.30850182
+723,2016,Diabetes Mellitus (E10-E14),Male,Hispanic,217,17.96686314,25.75616003
+724,2016,Influenza (Flu) and Pneumonia (J09-J18),Male,Hispanic,191,15.81415143,24.90027602
+725,2016,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Male,Hispanic,177,14.65499897,16.44043314
+726,2016,"Congenital Malformations, Deformations, and Chromosomal Abnormalities (Q00-Q99)",Female,Not Stated/Unknown,7,,
+727,2016,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Female,Non-Hispanic White,156,11.13464932,7.233652029
+728,2016,Cerebrovascular Disease (Stroke: I60-I69),Male,Hispanic,170,14.07542274,19.74241396
+729,2016,"Chronic Liver Disease and Cirrhosis (K70, K73-K74)",Male,Hispanic,146,12.08830423,13.88284218
+730,2016,Chronic Lower Respiratory Diseases (J40-J47),Male,Hispanic,146,12.08830423,18.43554247
+731,2016,"Essential Hypertension and Renal Diseases (I10, I12)",Male,Hispanic,99,8.19686383,13.14920356
+732,2016,All Other Causes,Male,Hispanic,1233,102.0882132,135.7393671
+733,2016,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Female,Non-Hispanic White,138,9.849882087,9.375124053
+734,2016,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Non-Hispanic Black,2106,244.9495155,271.1314782
+735,2016,Viral Hepatitis (B15-B19),Female,Not Stated/Unknown,7,,
+736,2016,Malignant Neoplasms (Cancer: C00-C97),Male,Non-Hispanic Black,1611,187.3759114,199.6463403
+737,2016,Cerebrovascular Disease (Stroke: I60-I69),Female,Non-Hispanic White,404,28.83588669,15.15839983
+738,2016,Alzheimer's Disease (G30),Female,Non-Hispanic White,361,25.76672053,11.75716207
+739,2016,Chronic Lower Respiratory Diseases (J40-J47),Female,Asian and Pacific Islander,39,5.966860972,6.110399071
+740,2016,Influenza (Flu) and Pneumonia (J09-J18),Female,Non-Hispanic White,450,32.11918072,17.14918671
+741,2016,All Other Causes,Male,Non-Hispanic Black,1375,159.926678,170.4808293
+742,2016,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Female,Asian and Pacific Islander,43,6.578846713,6.500594799
+743,2016,Influenza (Flu) and Pneumonia (J09-J18),Female,Not Stated/Unknown,18,,
+744,2016,Chronic Lower Respiratory Diseases (J40-J47),Female,Non-Hispanic White,471,33.61807582,19.4792023
+745,2016,Malignant Neoplasms (Cancer: C00-C97),Female,Non-Hispanic White,3102,221.4082191,149.0134479
+746,2016,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Non-Hispanic White,4306,307.3448715,156.2653333
+747,2016,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Non-Hispanic White,4054,303.4133629,239.2846987
+748,2016,Malignant Neoplasms (Cancer: C00-C97),Female,Other Race/ Ethnicity,8,,
+749,2016,Malignant Neoplasms (Cancer: C00-C97),Male,Non-Hispanic White,3090,231.2647487,188.0725927
+750,2016,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Male,Non-Hispanic White,482,36.07430709,33.2779384
+751,2016,Alzheimer's Disease (G30),Female,Asian and Pacific Islander,49,7.496825324,7.742782355
+752,2016,Influenza (Flu) and Pneumonia (J09-J18),Male,Non-Hispanic White,461,34.50260491,26.72651668
+753,2016,Cerebrovascular Disease (Stroke: I60-I69),Female,Not Stated/Unknown,18,,
+754,2016,All Other Causes,Female,Non-Hispanic Black,1585,152.461019,127.8374258
+755,2016,All Other Causes,Male,Non-Hispanic White,2381,178.2010896,146.4506378
+756,2016,"Essential Hypertension and Renal Diseases (I10, I12)",Female,Asian and Pacific Islander,58,8.873793241,9.168902731
+757,2016,Human Immunodeficiency Virus Disease (HIV: B20-B24),Female,Non-Hispanic Black,91,8.753282481,7.844402169
+758,2016,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Female,Non-Hispanic Black,101,9.715181655,8.590203518
+759,2016,Chronic Lower Respiratory Diseases (J40-J47),Male,Non-Hispanic White,332,24.84786297,19.76084897
+760,2016,Diabetes Mellitus (E10-E14),Female,Asian and Pacific Islander,73,11.16873977,11.23352605
+761,2016,Alzheimer's Disease (G30),Female,Non-Hispanic Black,158,15.19800695,11.06038529
+762,2016,Alzheimer's Disease (G30),Female,Not Stated/Unknown,9,,
+763,2016,Cerebrovascular Disease (Stroke: I60-I69),Male,Non-Hispanic White,317,23.72521856,18.56215081
+764,2016,Influenza (Flu) and Pneumonia (J09-J18),Female,Non-Hispanic Black,212,20.39226248,16.05381107
+765,2016,Chronic Lower Respiratory Diseases (J40-J47),Female,Not Stated/Unknown,16,,
+766,2016,Influenza (Flu) and Pneumonia (J09-J18),Female,Asian and Pacific Islander,92,14.07567204,14.45947024
+767,2016,Certain Conditions originating in the Perinatal Period (P00-P96),Female,Not Stated/Unknown,15,,
+768,2016,Chronic Lower Respiratory Diseases (J40-J47),Female,Non-Hispanic Black,218,20.96940199,16.84913651
+769,2016,"Essential Hypertension and Renal Diseases (I10, I12)",Female,Non-Hispanic White,219,15.63133462,8.211295014
+770,2016,"Essential Hypertension and Renal Diseases (I10, I12)",Female,Not Stated/Unknown,13,,
+771,2016,"Essential Hypertension and Renal Diseases (I10, I12)",Female,Non-Hispanic Black,226,21.73892133,16.68683358
+772,2016,Diabetes Mellitus (E10-E14),Male,Non-Hispanic White,252,18.86042611,15.40377959
+773,2016,All Other Causes,Female,Not Stated/Unknown,105,,
+774,2016,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Other Race/ Ethnicity,30,,
+775,2016,"Essential Hypertension and Renal Diseases (I10, I12)",Male,Non-Hispanic White,151,11.30128707,8.859843879
+776,2016,Cerebrovascular Disease (Stroke: I60-I69),Female,Non-Hispanic Black,276,26.5484172,20.69501247
+777,2016,"Intentional Self-Harm (Suicide: U03, X60-X84, Y87.0)",Male,Non-Hispanic White,176,13.17236109,11.70338615
+778,2016,Cerebrovascular Disease (Stroke: I60-I69),Female,Asian and Pacific Islander,118,18.05357935,18.25067486
+779,2016,Diabetes Mellitus (E10-E14),Female,Non-Hispanic Black,399,38.37977703,30.80757937
+780,2016,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Asian and Pacific Islander,530,81.08811065,82.62828747
+781,2016,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Male,Non-Hispanic White,244,18.26168243,15.8762575
+782,2016,Malignant Neoplasms (Cancer: C00-C97),Female,Non-Hispanic Black,1864,179.298006,145.0408052
+783,2016,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Non-Hispanic Black,2303,221.5253797,171.0996617
+784,2016,All Other Causes,Female,Hispanic,1147,89.51775917,91.93898635
+785,2016,Malignant Neoplasms (Cancer: C00-C97),Female,Asian and Pacific Islander,565,86.44298588,83.07445561
+786,2016,All Other Causes,Male,Other Race/ Ethnicity,10,,
+787,2016,Certain Conditions originating in the Perinatal Period (P00-P96),Male,Other Race/ Ethnicity,1,,
+788,2016,"Essential Hypertension and Renal Diseases (I10, I12)",Male,Other Race/ Ethnicity,1,,
+789,2016,"Chronic Liver Disease and Cirrhosis (K70, K73-K74)",Female,Hispanic,59,4.604662416,4.685157203
+790,2016,Diabetes Mellitus (E10-E14),Male,Other Race/ Ethnicity,1,,
+791,2016,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Female,Hispanic,90,7.024061312,6.855455606
+792,2016,"Assault (Homicide: U01-U02, Y87.1, X85-Y09)",Male,Other Race/ Ethnicity,1,,
+793,2016,"Essential Hypertension and Renal Diseases (I10, I12)",Female,Hispanic,131,10.22391147,10.49061675
+794,2016,Chronic Lower Respiratory Diseases (J40-J47),Female,Hispanic,168,13.11158112,13.56240301
+795,2016,Cerebrovascular Disease (Stroke: I60-I69),Male,Other Race/ Ethnicity,1,,
+796,2016,Chronic Lower Respiratory Diseases (J40-J47),Male,Other Race/ Ethnicity,1,,
+797,2016,Peptic Ulcer (K25-K28),Male,Other Race/ Ethnicity,1,,
+798,2016,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Male,Other Race/ Ethnicity,2,,
+799,2016,Influenza (Flu) and Pneumonia (J09-J18),Female,Hispanic,195,15.21879951,15.84054835
+800,2016,Mental and Behavioral Disorders due to Use of Alcohol (F10),Male,Other Race/ Ethnicity,2,,
+801,2016,Influenza (Flu) and Pneumonia (J09-J18),Male,Other Race/ Ethnicity,2,,
+802,2016,"Chronic Liver Disease and Cirrhosis (K70, K73-K74)",Male,Other Race/ Ethnicity,2,,
+803,2016,Alzheimer's Disease (G30),Male,Other Race/ Ethnicity,3,,
+804,2016,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Male,Other Race/ Ethnicity,3,,
+805,2016,Malignant Neoplasms (Cancer: C00-C97),Male,Other Race/ Ethnicity,11,,
+806,2016,Alzheimer's Disease (G30),Female,Hispanic,203,15.84316052,16.48011249
+807,2016,Cerebrovascular Disease (Stroke: I60-I69),Female,Hispanic,204,15.92120564,16.42843847
+808,2016,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Other Race/ Ethnicity,19,,
+809,2016,All Other Causes,Male,Not Stated/Unknown,158,,
+810,2016,"Chronic Liver Disease and Cirrhosis (K70, K73-K74)",Male,Not Stated/Unknown,14,,
+811,2016,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Male,Not Stated/Unknown,16,,
+812,2016,Chronic Lower Respiratory Diseases (J40-J47),Male,Not Stated/Unknown,17,,
+813,2016,"Essential Hypertension and Renal Diseases (I10, I12)",Male,Not Stated/Unknown,18,,
+814,2016,Cerebrovascular Disease (Stroke: I60-I69),Male,Not Stated/Unknown,18,,
+815,2016,Human Immunodeficiency Virus Disease (HIV: B20-B24),Male,Not Stated/Unknown,20,,
+816,2016,Influenza (Flu) and Pneumonia (J09-J18),Male,Not Stated/Unknown,22,,
+817,2016,Diabetes Mellitus (E10-E14),Male,Not Stated/Unknown,23,,
+818,2016,Diabetes Mellitus (E10-E14),Female,Hispanic,231,18.02842404,18.56131955
+819,2016,Malignant Neoplasms (Cancer: C00-C97),Male,Not Stated/Unknown,119,,
+820,2016,All Other Causes,Female,Non-Hispanic White,2416,172.4443125,102.399688
+821,2016,Diabetes Mellitus (E10-E14),Male,Non-Hispanic Black,313,36.40512742,39.87933242
+822,2016,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Male,Non-Hispanic Black,258,30.00806031,27.58845554
+823,2016,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Not Stated/Unknown,126,,
+824,2016,Influenza (Flu) and Pneumonia (J09-J18),Male,Non-Hispanic Black,258,30.00806031,34.46182956
+825,2016,Cerebrovascular Disease (Stroke: I60-I69),Male,Non-Hispanic Black,220,25.58826848,28.56164123
+826,2016,Malignant Neoplasms (Cancer: C00-C97),Female,Hispanic,1162,90.68843605,93.11168514
+827,2016,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Hispanic,1485,115.8970117,120.3153112
+828,2016,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Not Stated/Unknown,179,,
+829,2016,All Other Causes,Female,Asian and Pacific Islander,385,58.90362755,60.88457225
+830,2016,Chronic Lower Respiratory Diseases (J40-J47),Male,Non-Hispanic Black,183,21.28478696,23.53449215
+831,2016,Malignant Neoplasms (Cancer: C00-C97),Female,Not Stated/Unknown,81,,
+832,2016,Diabetes Mellitus (E10-E14),Female,Not Stated/Unknown,24,,
+833,2016,"Assault (Homicide: U01-U02, Y87.1, X85-Y09)",Male,Non-Hispanic Black,168,19.54013229,19.68635499
+834,2016,"Essential Hypertension and Renal Diseases (I10, I12)",Male,Non-Hispanic Black,161,18.72596011,20.83380942
+835,2016,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Male,Non-Hispanic Black,153,17.79547762,18.3791371
+836,2016,"Intentional Self-Harm (Suicide: U03, X60-X84, Y87.0)",Female,Asian and Pacific Islander,29,4.43689662,4.149747806
+837,2016,Mental and Behavioral Disorders due to Use of Alcohol (F10),Female,Other Race/ Ethnicity,1,,
+838,2016,Cerebrovascular Disease (Stroke: I60-I69),Female,Other Race/ Ethnicity,1,,
+839,2016,"Assault (Homicide: U01-U02, Y87.1, X85-Y09)",Female,Other Race/ Ethnicity,1,,
+840,2016,"Essential Hypertension and Renal Diseases (I10, I12)",Female,Other Race/ Ethnicity,1,,
+841,2016,"Intentional Self-Harm (Suicide: U03, X60-X84, Y87.0)",Female,Other Race/ Ethnicity,1,,
+842,2016,Human Immunodeficiency Virus Disease (HIV: B20-B24),Female,Other Race/ Ethnicity,1,,
+843,2016,Chronic Lower Respiratory Diseases (J40-J47),Female,Other Race/ Ethnicity,1,,
+844,2016,Certain Conditions originating in the Perinatal Period (P00-P96),Female,Other Race/ Ethnicity,2,,
+845,2016,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Female,Other Race/ Ethnicity,1,,
+846,2016,"Congenital Malformations, Deformations, and Chromosomal Abnormalities (Q00-Q99)",Female,Other Race/ Ethnicity,1,,
+847,2016,Alzheimer's Disease (G30),Female,Other Race/ Ethnicity,3,,
+848,2016,Septicemia (A40-A41),Female,Other Race/ Ethnicity,1,,
+849,2016,"Nephritis, Nephrotic Syndrome and Nephrisis (N00-N07, N17-N19, N25-N27)",Female,Other Race/ Ethnicity,1,,
+850,2016,All Other Causes,Female,Other Race/ Ethnicity,13,,
+851,2016,Malignant Neoplasms (Cancer: C00-C97),Male,Asian and Pacific Islander,683,115.0085288,121.0785368
+852,2016,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Asian and Pacific Islander,603,101.5375445,117.7796652
+853,2016,Influenza (Flu) and Pneumonia (J09-J18),Male,Asian and Pacific Islander,113,19.02776538,22.91632756
+854,2016,Diabetes Mellitus (E10-E14),Female,Other Race/ Ethnicity,3,,
+855,2016,Cerebrovascular Disease (Stroke: I60-I69),Male,Asian and Pacific Islander,95,15.99679391,18.07142432
+856,2016,Diabetes Mellitus (E10-E14),Male,Asian and Pacific Islander,76,12.79743513,14.19434714
+857,2016,Chronic Lower Respiratory Diseases (J40-J47),Male,Asian and Pacific Islander,75,12.62904782,15.58055641
+858,2016,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Male,Asian and Pacific Islander,60,10.10323826,11.08229029
+859,2016,"Essential Hypertension and Renal Diseases (I10, I12)",Male,Asian and Pacific Islander,48,8.082590605,9.834246016
+860,2016,Alzheimer's Disease (G30),Male,Asian and Pacific Islander,37,6.230330258,9.068703397
+861,2016,"Intentional Self-Harm (Suicide: U03, X60-X84, Y87.0)",Male,Asian and Pacific Islander,32,5.388393737,5.364178546
+862,2016,All Other Causes,Male,Asian and Pacific Islander,449,75.60589962,85.10910189
+863,2016,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Hispanic,1418,117.405585,174.6356781
+864,2016,Malignant Neoplasms (Cancer: C00-C97),Male,Hispanic,1224,101.3430437,143.7156708
+865,2016,Influenza (Flu) and Pneumonia (J09-J18),Female,Other Race/ Ethnicity,4,,
+866,2016,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Male,Hispanic,369,30.551947,30.48654556
+867,2016,Diabetes Mellitus (E10-E14),Female,Non-Hispanic White,183,13.06180016,8.011416512
+868,2015,Malignant Neoplasms (Cancer: C00-C97),Female,Non-Hispanic Black,1872,179.0816898,148.0974577
+869,2015,Malignant Neoplasms (Cancer: C00-C97),Female,Asian and Pacific Islander,515,79.72666911,78.86538643
+870,2015,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Asian and Pacific Islander,498,77.09491499,81.60513144
+871,2015,Cerebrovascular Disease (Stroke: I60-I69),Female,Asian and Pacific Islander,95,14.70686129,15.33793056
+872,2015,Influenza (Flu) and Pneumonia (J09-J18),Female,Asian and Pacific Islander,89,13.7780069,14.70636233
+873,2015,Diabetes Mellitus (E10-E14),Female,Asian and Pacific Islander,71,10.9914437,11.53739676
+874,2015,Alzheimer's Disease (G30),Female,Asian and Pacific Islander,50,7.740453312,8.416912976
+875,2015,Chronic Lower Respiratory Diseases (J40-J47),Female,Asian and Pacific Islander,41,6.347171716,6.670309854
+876,2015,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",Female,Asian and Pacific Islander,36,5.573126385,5.35087695
+877,2015,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Female,Asian and Pacific Islander,34,5.263508252,5.395702872
+878,2015,"Essential Hypertension and Renal Diseases (I10, I12)",Female,Asian and Pacific Islander,30,4.644271987,4.907297396
+879,2015,All Other Causes,Female,Asian and Pacific Islander,345,53.40912785,56.25492343
+880,2015,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Hispanic,1361,106.4840243,113.3767005
+881,2015,Malignant Neoplasms (Cancer: C00-C97),Female,Hispanic,1193,93.33978027,97.35036105
+882,2015,Influenza (Flu) and Pneumonia (J09-J18),Female,Hispanic,208,16.2738259,17.33532827
+883,2015,Cerebrovascular Disease (Stroke: I60-I69),Female,Hispanic,197,15.41319088,16.31823026
+884,2015,Diabetes Mellitus (E10-E14),Female,Hispanic,196,15.33495133,16.26295404
+885,2015,Chronic Lower Respiratory Diseases (J40-J47),Female,Hispanic,183,14.31783721,15.12410083
+886,2015,Alzheimer's Disease (G30),Female,Hispanic,176,13.77016038,14.8206693
+887,2015,"Essential Hypertension and Renal Diseases (I10, I12)",Female,Hispanic,98,7.667475664,8.161639387
+888,2015,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Female,Hispanic,78,6.102684712,5.954788137
+889,2015,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Female,Hispanic,65,5.085570593,5.288640978
+890,2015,All Other Causes,Female,Hispanic,1184,92.63562434,97.01350898
+891,2015,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Non-Hispanic Black,2344,224.2347654,177.654028
+892,2015,Diabetes Mellitus (E10-E14),Female,Non-Hispanic Black,392,37.50001196,30.4625241
+893,2015,Cerebrovascular Disease (Stroke: I60-I69),Female,Non-Hispanic Black,307,29.36863181,23.55431196
+894,2015,Influenza (Flu) and Pneumonia (J09-J18),Female,Non-Hispanic Black,261,24.96812021,19.69028909
+895,2015,"Essential Hypertension and Renal Diseases (I10, I12)",Female,Non-Hispanic Black,232,22.19388463,17.54759229
+896,2015,Chronic Lower Respiratory Diseases (J40-J47),Female,Non-Hispanic Black,223,21.33291497,17.5841515
+897,2015,Alzheimer's Disease (G30),Female,Non-Hispanic Black,147,14.06250448,10.66446919
+898,2015,Human Immunodeficiency Virus Disease (HIV: B20-B24),Female,Non-Hispanic Black,92,8.801023215,7.819361946
+899,2015,"Nephritis, Nephrotic Syndrome and Nephrisis (N00-N07, N17-N19, N25-N27)",Female,Non-Hispanic Black,79,7.557400369,6.188226927
+900,2015,All Other Causes,Female,Non-Hispanic Black,1599,152.96561,129.5125713
+901,2015,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Non-Hispanic White,4494,317.9607495,161.7714355
+902,2015,Malignant Neoplasms (Cancer: C00-C97),Female,Non-Hispanic White,3130,221.4546386,149.8877873
+903,2015,Influenza (Flu) and Pneumonia (J09-J18),Female,Non-Hispanic White,521,36.86193825,19.31988482
+904,2015,Chronic Lower Respiratory Diseases (J40-J47),Female,Non-Hispanic White,503,35.58839719,20.68637768
+905,2015,Cerebrovascular Disease (Stroke: I60-I69),Female,Non-Hispanic White,422,29.85746246,15.52110044
+906,2015,Alzheimer's Disease (G30),Female,Non-Hispanic White,378,26.74436211,11.92414204
+907,2015,Diabetes Mellitus (E10-E14),Female,Non-Hispanic White,239,16.90979509,10.43698457
+908,2015,"Essential Hypertension and Renal Diseases (I10, I12)",Female,Non-Hispanic White,226,15.99001544,8.588294713
+909,2015,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Female,Non-Hispanic White,191,13.51368561,8.932653057
+910,2015,Septicemia (A40-A41),Female,Non-Hispanic White,127,8.985539649,5.233240258
+911,2015,All Other Causes,Female,Non-Hispanic White,2489,176.1024267,108.5748389
+912,2015,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Not Stated/Unknown,137,,
+913,2015,Malignant Neoplasms (Cancer: C00-C97),Female,Not Stated/Unknown,92,,
+914,2015,Diabetes Mellitus (E10-E14),Female,Not Stated/Unknown,25,,
+915,2015,Influenza (Flu) and Pneumonia (J09-J18),Female,Not Stated/Unknown,16,,
+916,2015,Chronic Lower Respiratory Diseases (J40-J47),Female,Not Stated/Unknown,15,,
+917,2015,Cerebrovascular Disease (Stroke: I60-I69),Female,Not Stated/Unknown,15,,
+918,2015,Certain Conditions originating in the Perinatal Period (P00-P96),Female,Not Stated/Unknown,14,,
+919,2015,Alzheimer's Disease (G30),Female,Not Stated/Unknown,14,,
+920,2015,"Essential Hypertension and Renal Diseases (I10, I12)",Female,Not Stated/Unknown,11,,
+921,2015,"Chronic Liver Disease and Cirrhosis (K70, K73)",Female,Not Stated/Unknown,8,,
+922,2015,All Other Causes,Female,Not Stated/Unknown,92,,
+923,2015,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Female,Other Race/ Ethnicity,22,,
+924,2015,Malignant Neoplasms (Cancer: C00-C97),Female,Other Race/ Ethnicity,12,,
+925,2015,"Essential Hypertension and Renal Diseases (I10, I12)",Female,Other Race/ Ethnicity,4,,
+926,2015,Cerebrovascular Disease (Stroke: I60-I69),Female,Other Race/ Ethnicity,3,,
+927,2015,"Congenital Malformations, Deformations, and Chromosomal Abnormalities (Q00-Q99)",Female,Other Race/ Ethnicity,3,,
+928,2015,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Female,Other Race/ Ethnicity,1,,
+929,2015,Chronic Lower Respiratory Diseases (J40-J47),Female,Other Race/ Ethnicity,1,,
+930,2015,Influenza (Flu) and Pneumonia (J09-J18),Female,Other Race/ Ethnicity,1,,
+931,2015,Atherosclerosis (I70),Female,Other Race/ Ethnicity,1,,
+932,2015,Septicemia (A40-A41),Female,Other Race/ Ethnicity,1,,
+933,2015,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Female,Other Race/ Ethnicity,1,,
+934,2015,Alzheimer's Disease (G30),Female,Other Race/ Ethnicity,1,,
+935,2015,"Nephritis, Nephrotic Syndrome and Nephrisis (N00-N07, N17-N19, N25-N27)",Female,Other Race/ Ethnicity,1,,
+936,2015,All Other Causes,Female,Other Race/ Ethnicity,13,,
+937,2015,Malignant Neoplasms (Cancer: C00-C97),Male,Asian and Pacific Islander,668,113.0404323,123.1364913
+938,2015,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Asian and Pacific Islander,610,103.2255444,122.8168795
+939,2015,Influenza (Flu) and Pneumonia (J09-J18),Male,Asian and Pacific Islander,108,18.27599803,23.15967226
+940,2015,Cerebrovascular Disease (Stroke: I60-I69),Male,Asian and Pacific Islander,90,15.22999836,17.23906364
+941,2015,Diabetes Mellitus (E10-E14),Male,Asian and Pacific Islander,85,14.38388734,16.44749382
+942,2015,Chronic Lower Respiratory Diseases (J40-J47),Male,Asian and Pacific Islander,76,12.8608875,16.27740405
+943,2015,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Male,Asian and Pacific Islander,64,10.83022106,12.33810732
+944,2015,"Essential Hypertension and Renal Diseases (I10, I12)",Male,Asian and Pacific Islander,50,8.461110199,10.330991
+945,2015,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",Male,Asian and Pacific Islander,39,6.599665955,6.544212148
+946,2015,Parkinson's Disease (G20),Male,Asian and Pacific Islander,30,5.07666612,6.634861041
+947,2015,All Other Causes,Male,Asian and Pacific Islander,454,76.82688061,90.92796488
+948,2015,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Hispanic,1410,116.8186552,181.971046
+949,2015,Malignant Neoplasms (Cancer: C00-C97),Male,Hispanic,1175,97.34887933,140.8760087
+950,2015,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Male,Hispanic,261,21.62387873,21.73428863
+951,2015,Diabetes Mellitus (E10-E14),Male,Hispanic,225,18.64127477,26.20634599
+952,2015,Influenza (Flu) and Pneumonia (J09-J18),Male,Hispanic,196,16.23862157,26.14814004
+953,2015,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Male,Hispanic,178,14.74731959,17.15582828
+954,2015,Cerebrovascular Disease (Stroke: I60-I69),Male,Hispanic,178,14.74731959,22.15024169
+955,2015,"Chronic Liver Disease and Cirrhosis (K70, K73)",Male,Hispanic,166,13.75311827,17.08787142
+956,2015,Chronic Lower Respiratory Diseases (J40-J47),Male,Hispanic,153,12.67606684,20.01130536
+957,2015,"Essential Hypertension and Renal Diseases (I10, I12)",Male,Hispanic,105,8.699261557,13.40089579
+958,2015,All Other Causes,Male,Hispanic,1196,99.08873164,135.8319701
+959,2015,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Non-Hispanic Black,2033,235.6896502,265.8655733
+960,2015,Malignant Neoplasms (Cancer: C00-C97),Male,Non-Hispanic Black,1523,176.5643567,194.0654914
+961,2015,Diabetes Mellitus (E10-E14),Male,Non-Hispanic Black,345,39.99652204,44.69450045
+962,2015,Influenza (Flu) and Pneumonia (J09-J18),Male,Non-Hispanic Black,225,26.08468829,31.08022426
+963,2015,Cerebrovascular Disease (Stroke: I60-I69),Male,Non-Hispanic Black,206,23.88198128,26.13409005
+964,2015,"Assault (Homicide: Y87.1, X85-Y09)",Male,Non-Hispanic Black,196,22.7226618,22.97255292
+965,2015,Human Immunodeficiency Virus Disease (HIV: B20-B24),Male,Non-Hispanic Black,185,21.44741037,20.65947882
+966,2015,Chronic Lower Respiratory Diseases (J40-J47),Male,Non-Hispanic Black,177,20.51995479,23.20274539
+967,2015,"Essential Hypertension and Renal Diseases (I10, I12)",Male,Non-Hispanic Black,167,19.36063531,22.38618645
+968,2015,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Male,Non-Hispanic Black,155,17.96945193,16.62784848
+969,2015,All Other Causes,Male,Non-Hispanic Black,1418,164.3915022,182.7179393
+970,2015,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Non-Hispanic White,4015,298.4528768,239.2238059
+971,2015,Malignant Neoplasms (Cancer: C00-C97),Male,Non-Hispanic White,3020,224.4900842,186.1282035
+972,2015,Influenza (Flu) and Pneumonia (J09-J18),Male,Non-Hispanic White,449,33.37617476,26.60340598
+973,2015,Chronic Lower Respiratory Diseases (J40-J47),Male,Non-Hispanic White,364,27.05774524,21.84095138
+974,2015,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Male,Non-Hispanic White,342,25.42238701,23.63655961
+975,2015,Cerebrovascular Disease (Stroke: I60-I69),Male,Non-Hispanic White,316,23.48969093,18.81115282
+976,2015,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Male,Non-Hispanic White,287,21.33399144,18.28609368
+977,2015,Diabetes Mellitus (E10-E14),Male,Non-Hispanic White,246,18.28627838,15.00551901
+978,2015,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",Male,Non-Hispanic White,181,13.45453816,11.93684097
+979,2015,Alzheimer's Disease (G30),Male,Non-Hispanic White,170,12.63685904,9.626592641
+980,2015,"Essential Hypertension and Renal Diseases (I10, I12)",Male,Non-Hispanic White,170,12.63685904,9.967782918
+981,2015,All Other Causes,Male,Non-Hispanic White,2288,170.0772558,142.327895
+982,2015,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Not Stated/Unknown,174,,
+983,2015,Malignant Neoplasms (Cancer: C00-C97),Male,Not Stated/Unknown,94,,
+984,2015,Diabetes Mellitus (E10-E14),Male,Not Stated/Unknown,25,,
+985,2015,Chronic Lower Respiratory Diseases (J40-J47),Male,Not Stated/Unknown,21,,
+986,2015,Influenza (Flu) and Pneumonia (J09-J18),Male,Not Stated/Unknown,19,,
+987,2015,Cerebrovascular Disease (Stroke: I60-I69),Male,Not Stated/Unknown,18,,
+988,2015,"Chronic Liver Disease and Cirrhosis (K70, K73)",Male,Not Stated/Unknown,17,,
+989,2015,Human Immunodeficiency Virus Disease (HIV: B20-B24),Male,Not Stated/Unknown,16,,
+990,2015,Certain Conditions originating in the Perinatal Period (P00-P96),Male,Not Stated/Unknown,16,,
+991,2015,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Male,Not Stated/Unknown,11,,
+992,2015,All Other Causes,Male,Not Stated/Unknown,127,,
+993,2015,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",Male,Other Race/ Ethnicity,26,,
+994,2015,Malignant Neoplasms (Cancer: C00-C97),Male,Other Race/ Ethnicity,15,,
+995,2015,Chronic Lower Respiratory Diseases (J40-J47),Male,Other Race/ Ethnicity,4,,
+996,2015,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",Male,Other Race/ Ethnicity,3,,
+997,2015,Diabetes Mellitus (E10-E14),Male,Other Race/ Ethnicity,3,,
+998,2015,"Assault (Homicide: Y87.1, X85-Y09)",Male,Other Race/ Ethnicity,3,,
+999,2015,Viral Hepatitis (B15-B19),Male,Other Race/ Ethnicity,2,,
+1000,2015,"Essential Hypertension and Renal Diseases (I10, I12)",Male,Other Race/ Ethnicity,2,,
+1001,2015,"Meningitis (G00, G03)",Male,Other Race/ Ethnicity,1,,
+1002,2015,Influenza (Flu) and Pneumonia (J09-J18),Male,Other Race/ Ethnicity,1,,
+1003,2015,Mental and Behavioral Disorders due to Use of Alcohol (F10),Male,Other Race/ Ethnicity,1,,
+1004,2015,Human Immunodeficiency Virus Disease (HIV: B20-B24),Male,Other Race/ Ethnicity,1,,
+1005,2015,"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",Male,Other Race/ Ethnicity,1,,
+1006,2015,"Congenital Malformations, Deformations, and Chromosomal Abnormalities (Q00-Q99)",Male,Other Race/ Ethnicity,1,,
+1007,2015,"Nephritis, Nephrotic Syndrome and Nephrisis (N00-N07, N17-N19, N25-N27)",Male,Other Race/ Ethnicity,1,,
+1008,2015,All Other Causes,Male,Other Race/ Ethnicity,7,,
+1009,2014,"Essential Hypertension and Renal Diseases (I10, I12)",F,Hispanic,116,9.2,10.1
+1010,2014,Diabetes Mellitus (E10-E14),M,Hispanic,186,15.6,23.2
+1011,2014,Diabetes Mellitus (E10-E14),F,Hispanic,209,16.5,17.9
+1012,2014,"Congenital Malformations, Deformations, and Chromosomal Abnormalities (Q00-Q99)",F,Other Race/ Ethnicity,.,.,.
+1013,2014,Septicemia (A40-A41),M,Not Stated/Unknown,8,.,.
+1014,2014,All Other Causes,F,Other Race/ Ethnicity,59,.,.
+1015,2014,Malignant Neoplasms (Cancer: C00-C97),F,Other Race/ Ethnicity,66,.,.
+1016,2014,Influenza (Flu) and Pneumonia (J09-J18),F,Black Non-Hispanic,266,25.3,20.6
+1017,2014,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Asian and Pacific Islander,554,96.5,118.5
+1018,2014,Alzheimer's Disease (G30),F,Not Stated/Unknown,.,.,.
+1019,2014,All Other Causes,M,Other Race/ Ethnicity,74,.,.
+1020,2014,Human Immunodeficiency Virus Disease (HIV: B20-B24),F,Black Non-Hispanic,102,9.7,8.5
+1021,2014,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Not Stated/Unknown,115,.,.
+1022,2014,Diabetes Mellitus (E10-E14),M,Not Stated/Unknown,8,.,.
+1023,2014,Cerebrovascular Disease (Stroke: I60-I69),M,Other Race/ Ethnicity,7,.,.
+1024,2014,"Essential Hypertension and Renal Diseases (I10, I12)",F,Asian and Pacific Islander,29,4.6,5.1
+1025,2014,Chronic Lower Respiratory Diseases (J40-J47),F,Not Stated/Unknown,12,.,.
+1026,2014,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Hispanic,1230,97.1,106.7
+1027,2014,"Essential Hypertension and Renal Diseases (I10, I12)",F,Other Race/ Ethnicity,.,.,.
+1028,2014,"Chronic Liver Disease and Cirrhosis (K70, K73)",M,Hispanic,164,13.7,16.7
+1029,2014,Chronic Lower Respiratory Diseases (J40-J47),M,Asian and Pacific Islander,95,16.6,22.9
+1030,2014,Cerebrovascular Disease (Stroke: I60-I69),M,Not Stated/Unknown,8,.,.
+1031,2014,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Asian and Pacific Islander,462,73.8,81.1
+1032,2014,Chronic Lower Respiratory Diseases (J40-J47),M,White Non-Hispanic,399,29.7,24
+1033,2014,"Chronic Liver Disease and Cirrhosis (K70, K73)",F,Not Stated/Unknown,.,.,.
+1034,2014,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Other Race/ Ethnicity,63,.,.
+1035,2014,Influenza (Flu) and Pneumonia (J09-J18),M,Other Race/ Ethnicity,11,.,.
+1036,2014,All Other Causes,F,Black Non-Hispanic,1536,146.4,126.4
+1037,2014,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Black Non-Hispanic,1958,226.8,264.7
+1038,2014,Diabetes Mellitus (E10-E14),F,White Non-Hispanic,228,16.1,10
+1039,2014,Cerebrovascular Disease (Stroke: I60-I69),F,Other Race/ Ethnicity,8,.,.
+1040,2014,Influenza (Flu) and Pneumonia (J09-J18),F,Not Stated/Unknown,11,.,.
+1041,2014,Influenza (Flu) and Pneumonia (J09-J18),M,Asian and Pacific Islander,105,18.3,25
+1042,2014,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",F,Hispanic,64,5.1,5.4
+1043,2014,Cerebrovascular Disease (Stroke: I60-I69),M,Hispanic,165,13.8,20.4
+1044,2014,"Nephritis, Nephrotic Syndrome and Nephrisis (N00-N07, N17-N19, N25-N27)",F,Black Non-Hispanic,90,8.6,7.1
+1045,2014,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",F,Other Race/ Ethnicity,5,.,.
+1046,2014,Diabetes Mellitus (E10-E14),M,Asian and Pacific Islander,71,12.4,14.2
+1047,2014,Cerebrovascular Disease (Stroke: I60-I69),M,Asian and Pacific Islander,91,15.9,19.3
+1048,2014,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",F,Not Stated/Unknown,6,.,.
+1049,2014,Influenza (Flu) and Pneumonia (J09-J18),M,Black Non-Hispanic,242,28,33.9
+1050,2014,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Black Non-Hispanic,148,17.1,17.7
+1051,2014,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Black Non-Hispanic,2194,209.1,169.1
+1052,2014,All Other Causes,M,Not Stated/Unknown,96,.,.
+1053,2014,"Chronic Liver Disease and Cirrhosis (K70, K73)",M,Asian and Pacific Islander,31,5.4,5.3
+1054,2014,"Nephritis, Nephrotic Syndrome and Nephrisis (N00-N07, N17-N19, N25-N27)",M,Asian and Pacific Islander,28,4.9,5.8
+1055,2014,Certain Conditions originating in the Perinatal Period (P00-P96),M,Not Stated/Unknown,25,.,.
+1056,2014,All Other Causes,M,Asian and Pacific Islander,424,73.9,90.4
+1057,2014,All Other Causes,F,Asian and Pacific Islander,339,54.2,59
+1058,2014,Chronic Lower Respiratory Diseases (J40-J47),M,Black Non-Hispanic,186,21.5,25.4
+1059,2014,All Other Causes,M,Hispanic,1195,100.1,143.3
+1060,2014,Diabetes Mellitus (E10-E14),M,White Non-Hispanic,292,21.7,18.1
+1061,2014,Influenza (Flu) and Pneumonia (J09-J18),M,Hispanic,199,16.7,26.6
+1062,2014,Diabetes Mellitus (E10-E14),F,Black Non-Hispanic,398,37.9,31.6
+1063,2014,Cerebrovascular Disease (Stroke: I60-I69),F,White Non-Hispanic,418,29.5,15.6
+1064,2014,All Other Causes,M,White Non-Hispanic,2275,169.4,141.3
+1065,2014,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",M,Other Race/ Ethnicity,12,.,.
+1066,2014,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",F,Asian and Pacific Islander,42,6.7,6.9
+1067,2014,Cerebrovascular Disease (Stroke: I60-I69),F,Black Non-Hispanic,274,26.1,21.4
+1068,2014,Diabetes Mellitus (E10-E14),M,Black Non-Hispanic,318,36.8,42.2
+1069,2014,Cerebrovascular Disease (Stroke: I60-I69),F,Not Stated/Unknown,10,.,.
+1070,2014,Cerebrovascular Disease (Stroke: I60-I69),F,Asian and Pacific Islander,112,17.9,19.1
+1071,2014,Alzheimer's Disease (G30),F,Black Non-Hispanic,123,11.7,9.2
+1072,2014,Influenza (Flu) and Pneumonia (J09-J18),F,White Non-Hispanic,563,39.7,20.4
+1073,2014,Cerebrovascular Disease (Stroke: I60-I69),F,Hispanic,220,17.4,19
+1074,2014,"Essential Hypertension and Renal Diseases (I10, I12)",F,Black Non-Hispanic,207,19.7,15.9
+1075,2014,Malignant Neoplasms (Cancer: C00-C97),F,Not Stated/Unknown,50,.,.
+1076,2014,Chronic Lower Respiratory Diseases (J40-J47),F,White Non-Hispanic,515,36.3,21
+1077,2014,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Asian and Pacific Islander,68,11.9,13.3
+1078,2014,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Other Race/ Ethnicity,68,.,.
+1079,2014,Diabetes Mellitus (E10-E14),F,Not Stated/Unknown,9,.,.
+1080,2014,"Congenital Malformations, Deformations, and Chromosomal Abnormalities (Q00-Q99)",F,Not Stated/Unknown,.,.,.
+1081,2014,All Other Causes,F,Not Stated/Unknown,48,.,.
+1082,2014,Malignant Neoplasms (Cancer: C00-C97),M,Asian and Pacific Islander,657,114.5,129.5
+1083,2014,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Other Race/ Ethnicity,12,.,.
+1084,2014,"Essential Hypertension and Renal Diseases (I10, I12)",M,Not Stated/Unknown,9,.,.
+1085,2014,Cerebrovascular Disease (Stroke: I60-I69),M,White Non-Hispanic,277,20.6,16.8
+1086,2014,Malignant Neoplasms (Cancer: C00-C97),F,White Non-Hispanic,3153,222.5,150.2
+1087,2014,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",M,Asian and Pacific Islander,50,8.7,8.7
+1088,2014,"Chronic Liver Disease and Cirrhosis (K70, K73)",M,Other Race/ Ethnicity,10,.,.
+1089,2014,Malignant Neoplasms (Cancer: C00-C97),F,Hispanic,1154,91.1,97.4
+1090,2014,Certain Conditions originating in the Perinatal Period (P00-P96),M,Other Race/ Ethnicity,8,.,.
+1091,2014,Influenza (Flu) and Pneumonia (J09-J18),M,White Non-Hispanic,502,37.4,29.7
+1092,2014,Human Immunodeficiency Virus Disease (HIV: B20-B24),M,Black Non-Hispanic,196,22.7,21.7
+1093,2014,Diabetes Mellitus (E10-E14),F,Asian and Pacific Islander,50,8,8.5
+1094,2014,Certain Conditions originating in the Perinatal Period (P00-P96),F,Not Stated/Unknown,10,.,.
+1095,2014,"Assault (Homicide: Y87.1, X85-Y09)",M,Black Non-Hispanic,186,21.5,21.5
+1096,2014,Diabetes Mellitus (E10-E14),F,Other Race/ Ethnicity,11,.,.
+1097,2014,Malignant Neoplasms (Cancer: C00-C97),F,Black Non-Hispanic,1852,176.5,148.4
+1098,2014,Malignant Neoplasms (Cancer: C00-C97),M,Hispanic,1146,96,143.5
+1099,2014,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",F,Asian and Pacific Islander,28,4.5,4.2
+1100,2014,Malignant Neoplasms (Cancer: C00-C97),M,Not Stated/Unknown,73,.,.
+1101,2014,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Hispanic,1281,107.3,170.5
+1102,2014,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Not Stated/Unknown,95,.,.
+1103,2014,Malignant Neoplasms (Cancer: C00-C97),M,Black Non-Hispanic,1532,177.5,199.6
+1104,2014,All Other Causes,F,White Non-Hispanic,2578,181.9,110.7
+1105,2014,Alzheimer's Disease (G30),F,White Non-Hispanic,276,19.5,8.6
+1106,2014,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Hispanic,176,14.7,16.9
+1107,2014,All Other Causes,F,Hispanic,1135,89.6,96
+1108,2014,"Essential Hypertension and Renal Diseases (I10, I12)",F,White Non-Hispanic,180,12.7,6.7
+1109,2014,Malignant Neoplasms (Cancer: C00-C97),M,Other Race/ Ethnicity,50,.,.
+1110,2014,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",M,White Non-Hispanic,204,15.2,13.4
+1111,2014,Human Immunodeficiency Virus Disease (HIV: B20-B24),M,Not Stated/Unknown,10,.,.
+1112,2014,Malignant Neoplasms (Cancer: C00-C97),M,White Non-Hispanic,3142,234,195.1
+1113,2014,Human Immunodeficiency Virus Disease (HIV: B20-B24),F,Not Stated/Unknown,7,.,.
+1114,2014,Influenza (Flu) and Pneumonia (J09-J18),F,Hispanic,218,17.2,18.8
+1115,2014,Cerebrovascular Disease (Stroke: I60-I69),M,Black Non-Hispanic,197,22.8,26.4
+1116,2014,Influenza (Flu) and Pneumonia (J09-J18),F,Asian and Pacific Islander,80,12.8,14.1
+1117,2014,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,White Non-Hispanic,4507,318,161
+1118,2014,Chronic Lower Respiratory Diseases (J40-J47),M,Not Stated/Unknown,14,.,.
+1119,2014,All Other Causes,M,Black Non-Hispanic,1375,159.3,177.8
+1120,2014,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,White Non-Hispanic,258,19.2,16.4
+1121,2014,Septicemia (A40-A41),F,White Non-Hispanic,118,8.3,4.7
+1122,2014,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",F,White Non-Hispanic,169,11.9,7.4
+1123,2014,Influenza (Flu) and Pneumonia (J09-J18),F,Other Race/ Ethnicity,9,.,.
+1124,2014,Human Immunodeficiency Virus Disease (HIV: B20-B24),M,Other Race/ Ethnicity,10,.,.
+1125,2014,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",M,White Non-Hispanic,314,23.4,21.4
+1126,2014,Diabetes Mellitus (E10-E14),M,Other Race/ Ethnicity,18,.,.
+1127,2014,Chronic Lower Respiratory Diseases (J40-J47),F,Asian and Pacific Islander,36,5.8,6.3
+1128,2014,Malignant Neoplasms (Cancer: C00-C97),F,Asian and Pacific Islander,502,80.2,80.6
+1129,2014,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",F,Not Stated/Unknown,.,.,.
+1130,2014,Chronic Lower Respiratory Diseases (J40-J47),F,Hispanic,193,15.2,16.8
+1131,2014,Chronic Lower Respiratory Diseases (J40-J47),F,Other Race/ Ethnicity,6,.,.
+1132,2014,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",M,Hispanic,191,16,16.6
+1133,2014,"Essential Hypertension and Renal Diseases (I10, I12)",F,Not Stated/Unknown,.,.,.
+1134,2014,Chronic Lower Respiratory Diseases (J40-J47),F,Black Non-Hispanic,220,21,17.9
+1135,2014,Alzheimer's Disease (G30),F,Hispanic,142,11.2,12.5
+1136,2014,"Essential Hypertension and Renal Diseases (I10, I12)",M,Black Non-Hispanic,155,18,21.6
+1137,2014,Alzheimer's Disease (G30),F,Asian and Pacific Islander,26,4.2,4.7
+1138,2014,Human Immunodeficiency Virus Disease (HIV: B20-B24),M,Hispanic,92,7.7,8.7
+1139,2014,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,White Non-Hispanic,3990,297.1,238.4
+1140,2014,Chronic Lower Respiratory Diseases (J40-J47),M,Hispanic,145,12.1,19.3
+1141,2014,"Chronic Liver Disease and Cirrhosis (K70, K73)",F,Hispanic,66,5.2,5.4
+1142,2014,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",F,Other Race/ Ethnicity,6,.,.
+1143,2014,"Essential Hypertension and Renal Diseases (I10, I12)",M,White Non-Hispanic,175,13,10.5
+1144,2014,Influenza (Flu) and Pneumonia (J09-J18),M,Not Stated/Unknown,14,.,.
+1145,2013,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",M,Not Stated/Unknown,17,.,.
+1146,2013,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Hispanic,189,16,19
+1147,2013,All Other Causes,M,Asian and Pacific Islander,395,71.3,89.8
+1148,2013,Diabetes Mellitus (E10-E14),M,Asian and Pacific Islander,96,17.3,21.1
+1149,2013,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Not Stated/Unknown,151,.,.
+1150,2013,Septicemia (A40-A41),F,Asian and Pacific Islander,16,2.7,2.9
+1151,2013,Chronic Lower Respiratory Diseases (J40-J47),F,Asian and Pacific Islander,27,4.5,5.2
+1152,2013,Chronic Lower Respiratory Diseases (J40-J47),M,White Non-Hispanic,437,32.5,26.4
+1153,2013,Cerebrovascular Disease (Stroke: I60-I69),F,Not Stated/Unknown,14,.,.
+1154,2013,"Essential Hypertension and Renal Diseases (I10, I12)",F,Black Non-Hispanic,240,23,18.9
+1155,2013,Certain Conditions originating in the Perinatal Period (P00-P96),F,Other Race/ Ethnicity,.,.,.
+1156,2013,Malignant Neoplasms (Cancer: C00-C97),M,Black Non-Hispanic,1592,185.5,212.8
+1157,2013,Malignant Neoplasms (Cancer: C00-C97),M,Hispanic,1146,97.1,148.5
+1158,2013,Chronic Lower Respiratory Diseases (J40-J47),F,White Non-Hispanic,521,36.6,21.6
+1159,2013,Alzheimer's Disease (G30),F,Hispanic,120,9.6,11
+1160,2013,All Other Causes,M,White Non-Hispanic,2293,170.3,143.3
+1161,2013,Malignant Neoplasms (Cancer: C00-C97),F,Hispanic,1149,92.1,99.9
+1162,2013,Influenza (Flu) and Pneumonia (J09-J18),M,White Non-Hispanic,618,45.9,36.7
+1163,2013,"Essential Hypertension and Renal Diseases (I10, I12)",F,White Non-Hispanic,206,14.5,7.5
+1164,2013,Diabetes Mellitus (E10-E14),M,White Non-Hispanic,265,19.7,16.4
+1165,2013,"Nephritis, Nephrotic Syndrome and Nephrisis (N00-N07, N17-N19, N25-N27)",F,Other Race/ Ethnicity,.,.,.
+1166,2013,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Other Race/ Ethnicity,41,.,.
+1167,2013,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Hispanic,1307,110.7,183.3
+1168,2013,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Asian and Pacific Islander,437,72.8,81.8
+1169,2013,Malignant Neoplasms (Cancer: C00-C97),F,Not Stated/Unknown,94,.,.
+1170,2013,Malignant Neoplasms (Cancer: C00-C97),M,White Non-Hispanic,3132,232.7,194.5
+1171,2013,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Asian and Pacific Islander,63,11.4,12.8
+1172,2013,Diabetes Mellitus (E10-E14),M,Black Non-Hispanic,300,35,41.1
+1173,2013,Alzheimer's Disease (G30),F,White Non-Hispanic,263,18.5,8.4
+1174,2013,Certain Conditions originating in the Perinatal Period (P00-P96),F,Not Stated/Unknown,9,.,.
+1175,2013,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Black Non-Hispanic,1868,217.7,258.5
+1176,2013,Cerebrovascular Disease (Stroke: I60-I69),M,White Non-Hispanic,249,18.5,15.1
+1177,2013,All Other Causes,F,Not Stated/Unknown,79,.,.
+1178,2013,Alzheimer's Disease (G30),F,Black Non-Hispanic,106,10.1,8
+1179,2013,Malignant Neoplasms (Cancer: C00-C97),M,Other Race/ Ethnicity,32,.,.
+1180,2013,Influenza (Flu) and Pneumonia (J09-J18),F,Other Race/ Ethnicity,6,.,.
+1181,2013,Viral Hepatitis (B15-B19),F,Asian and Pacific Islander,15,2.5,2.5
+1182,2013,Influenza (Flu) and Pneumonia (J09-J18),F,Not Stated/Unknown,18,.,.
+1183,2013,Influenza (Flu) and Pneumonia (J09-J18),F,Hispanic,204,16.3,18.5
+1184,2013,Malignant Neoplasms (Cancer: C00-C97),F,Asian and Pacific Islander,467,77.8,79.6
+1185,2013,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",M,Hispanic,188,15.9,16.6
+1186,2013,"Essential Hypertension and Renal Diseases (I10, I12)",M,Asian and Pacific Islander,33,6,8.4
+1187,2013,All Other Causes,F,Asian and Pacific Islander,320,53.3,59
+1188,2013,Influenza (Flu) and Pneumonia (J09-J18),M,Hispanic,233,19.7,33.1
+1189,2013,Diabetes Mellitus (E10-E14),M,Hispanic,192,16.3,24.9
+1190,2013,"Essential Hypertension and Renal Diseases (I10, I12)",M,Other Race/ Ethnicity,5,.,.
+1191,2013,Chronic Lower Respiratory Diseases (J40-J47),M,Not Stated/Unknown,15,.,.
+1192,2013,Diabetes Mellitus (E10-E14),F,White Non-Hispanic,238,16.7,10.4
+1193,2013,Diabetes Mellitus (E10-E14),M,Not Stated/Unknown,19,.,.
+1194,2013,"Chronic Liver Disease and Cirrhosis (K70, K73)",M,Other Race/ Ethnicity,.,.,.
+1195,2013,"Essential Hypertension and Renal Diseases (I10, I12)",F,Not Stated/Unknown,7,.,.
+1196,2013,Cerebrovascular Disease (Stroke: I60-I69),M,Hispanic,158,13.4,20.8
+1197,2013,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Black Non-Hispanic,2365,226.4,187.3
+1198,2013,Malignant Neoplasms (Cancer: C00-C97),M,Not Stated/Unknown,99,.,.
+1199,2013,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",M,White Non-Hispanic,286,21.2,19.5
+1200,2013,Certain Conditions originating in the Perinatal Period (P00-P96),M,Not Stated/Unknown,25,.,.
+1201,2013,Chronic Lower Respiratory Diseases (J40-J47),M,Black Non-Hispanic,184,21.4,26.1
+1202,2013,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Asian and Pacific Islander,531,95.8,123.7
+1203,2013,Alzheimer's Disease (G30),M,Other Race/ Ethnicity,.,.,.
+1204,2013,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",M,Not Stated/Unknown,21,.,.
+1205,2013,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",M,White Non-Hispanic,204,15.2,13.6
+1206,2013,Influenza (Flu) and Pneumonia (J09-J18),M,Black Non-Hispanic,274,31.9,40
+1207,2013,"Nephritis, Nephrotic Syndrome and Nephrisis (N00-N07, N17-N19, N25-N27)",F,Black Non-Hispanic,93,8.9,7.6
+1208,2013,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",F,Not Stated/Unknown,6,.,.
+1209,2013,"Essential Hypertension and Renal Diseases (I10, I12)",F,Hispanic,103,8.3,9.3
+1210,2013,Diabetes Mellitus (E10-E14),F,Asian and Pacific Islander,60,10,10.9
+1211,2013,Cerebrovascular Disease (Stroke: I60-I69),M,Black Non-Hispanic,191,22.3,25
+1212,2013,All Other Causes,F,Other Race/ Ethnicity,39,.,.
+1213,2013,All Other Causes,M,Other Race/ Ethnicity,42,.,.
+1214,2013,Malignant Neoplasms (Cancer: C00-C97),F,Black Non-Hispanic,1784,170.8,145.5
+1215,2013,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Other Race/ Ethnicity,72,.,.
+1216,2013,Cerebrovascular Disease (Stroke: I60-I69),F,White Non-Hispanic,427,30,16.4
+1217,2013,Malignant Neoplasms (Cancer: C00-C97),F,White Non-Hispanic,3187,224.2,153.3
+1218,2013,Diabetes Mellitus (E10-E14),F,Not Stated/Unknown,15,.,.
+1219,2013,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",F,White Non-Hispanic,166,11.7,8.1
+1220,2013,Influenza (Flu) and Pneumonia (J09-J18),M,Other Race/ Ethnicity,8,.,.
+1221,2013,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",M,Asian and Pacific Islander,41,7.4,7.2
+1222,2013,Diabetes Mellitus (E10-E14),M,Other Race/ Ethnicity,17,.,.
+1223,2013,Influenza (Flu) and Pneumonia (J09-J18),M,Asian and Pacific Islander,102,18.4,26.8
+1224,2013,Cerebrovascular Disease (Stroke: I60-I69),F,Asian and Pacific Islander,80,13.3,14.4
+1225,2013,Malignant Neoplasms (Cancer: C00-C97),M,Asian and Pacific Islander,633,114.2,130.9
+1226,2013,"Essential Hypertension and Renal Diseases (I10, I12)",F,Asian and Pacific Islander,50,8.3,9.3
+1227,2013,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Hispanic,1261,101,113.6
+1228,2013,"Chronic Liver Disease and Cirrhosis (K70, K73)",M,Not Stated/Unknown,16,.,.
+1229,2013,Chronic Lower Respiratory Diseases (J40-J47),M,Asian and Pacific Islander,72,13,18.5
+1230,2013,All Other Causes,F,White Non-Hispanic,2595,182.5,111.1
+1231,2013,Alzheimer's Disease (G30),F,Not Stated/Unknown,8,.,.
+1232,2013,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Not Stated/Unknown,106,.,.
+1233,2013,Cerebrovascular Disease (Stroke: I60-I69),F,Other Race/ Ethnicity,7,.,.
+1234,2013,Diabetes Mellitus (E10-E14),F,Other Race/ Ethnicity,10,.,.
+1235,2013,Chronic Lower Respiratory Diseases (J40-J47),F,Hispanic,168,13.5,14.8
+1236,2013,All Other Causes,F,Black Non-Hispanic,1557,149.1,129.5
+1237,2013,"Essential Hypertension and Renal Diseases (I10, I12)",F,Other Race/ Ethnicity,8,.,.
+1238,2013,Cerebrovascular Disease (Stroke: I60-I69),M,Asian and Pacific Islander,71,12.8,16.1
+1239,2013,"Essential Hypertension and Renal Diseases (I10, I12)",M,Not Stated/Unknown,15,.,.
+1240,2013,Cerebrovascular Disease (Stroke: I60-I69),M,Other Race/ Ethnicity,10,.,.
+1241,2013,All Other Causes,F,Hispanic,1082,86.7,94
+1242,2013,Septicemia (A40-A41),F,White Non-Hispanic,135,9.5,5
+1243,2013,Influenza (Flu) and Pneumonia (J09-J18),F,Black Non-Hispanic,285,27.3,22.5
+1244,2013,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Other Race/ Ethnicity,5,.,.
+1245,2013,"Assault (Homicide: Y87.1, X85-Y09)",M,Black Non-Hispanic,174,20.3,20.6
+1246,2013,All Other Causes,M,Hispanic,1193,101,146.4
+1247,2013,"Essential Hypertension and Renal Diseases (I10, I12)",M,Black Non-Hispanic,148,17.2,20.9
+1248,2013,Human Immunodeficiency Virus Disease (HIV: B20-B24),M,Black Non-Hispanic,204,23.8,23.2
+1249,2013,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",F,Other Race/ Ethnicity,5,.,.
+1250,2013,Human Immunodeficiency Virus Disease (HIV: B20-B24),F,Black Non-Hispanic,107,10.2,8.7
+1251,2013,Influenza (Flu) and Pneumonia (J09-J18),M,Not Stated/Unknown,24,.,.
+1252,2013,Influenza (Flu) and Pneumonia (J09-J18),F,Asian and Pacific Islander,78,13,14.6
+1253,2013,Chronic Lower Respiratory Diseases (J40-J47),F,Not Stated/Unknown,9,.,.
+1254,2013,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,White Non-Hispanic,4085,303.5,244.3
+1255,2013,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",F,Asian and Pacific Islander,35,5.8,6.3
+1256,2013,All Other Causes,M,Not Stated/Unknown,139,.,.
+1257,2013,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",F,Other Race/ Ethnicity,.,.,.
+1258,2013,All Other Causes,M,Black Non-Hispanic,1341,156.3,175.7
+1259,2013,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",F,Hispanic,63,5,4.9
+1260,2013,Chronic Lower Respiratory Diseases (J40-J47),M,Other Race/ Ethnicity,.,.,.
+1261,2013,Cerebrovascular Disease (Stroke: I60-I69),F,Hispanic,222,17.8,19.8
+1262,2013,Cerebrovascular Disease (Stroke: I60-I69),F,Black Non-Hispanic,271,25.9,21.7
+1263,2013,"Essential Hypertension and Renal Diseases (I10, I12)",M,White Non-Hispanic,156,11.6,9.3
+1264,2013,"Chronic Liver Disease and Cirrhosis (K70, K73)",M,Asian and Pacific Islander,29,5.2,5.4
+1265,2013,Chronic Lower Respiratory Diseases (J40-J47),M,Hispanic,142,12,20
+1266,2013,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,White Non-Hispanic,4535,319,160.6
+1267,2013,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,White Non-Hispanic,271,20.1,17.9
+1268,2013,Malignant Neoplasms (Cancer: C00-C97),F,Other Race/ Ethnicity,43,.,.
+1269,2013,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",M,Other Race/ Ethnicity,6,.,.
+1270,2013,"Chronic Liver Disease and Cirrhosis (K70, K73)",M,Hispanic,149,12.6,15.7
+1271,2013,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",F,Hispanic,60,4.8,5.1
+1272,2013,Diabetes Mellitus (E10-E14),F,Black Non-Hispanic,410,39.3,33.1
+1273,2013,Influenza (Flu) and Pneumonia (J09-J18),F,White Non-Hispanic,622,43.7,22.1
+1274,2013,Chronic Lower Respiratory Diseases (J40-J47),F,Black Non-Hispanic,258,24.7,20.8
+1275,2013,Human Immunodeficiency Virus Disease (HIV: B20-B24),M,Hispanic,122,10.3,11.3
+1276,2013,Diabetes Mellitus (E10-E14),F,Hispanic,221,17.7,19.6
+1277,2013,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Black Non-Hispanic,159,18.5,19.1
+1278,2012,Aortic Aneurysm and Dissection (I71),F,Other Race/ Ethnicity,.,.,.
+1279,2012,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",M,White Non-Hispanic,199,14.9,13.6
+1280,2012,Malignant Neoplasms (Cancer: C00-C97),F,Other Race/ Ethnicity,29,.,.
+1281,2012,Influenza (Flu) and Pneumonia (J09-J18),F,Asian and Pacific Islander,74,12.7,15.1
+1282,2012,Diabetes Mellitus (E10-E14),F,White Non-Hispanic,240,16.9,10.3
+1283,2012,All Other Causes,F,Not Stated/Unknown,53,.,.
+1284,2012,All Other Causes,F,Black Non-Hispanic,1483,141.9,127.3
+1285,2012,Malignant Neoplasms (Cancer: C00-C97),F,Black Non-Hispanic,1912,182.9,159.1
+1286,2012,Chronic Lower Respiratory Diseases (J40-J47),M,Black Non-Hispanic,184,21.5,27.3
+1287,2012,Influenza (Flu) and Pneumonia (J09-J18),F,White Non-Hispanic,576,40.6,20.2
+1288,2012,Chronic Lower Respiratory Diseases (J40-J47),M,Not Stated/Unknown,11,.,.
+1289,2012,"Congenital Malformations, Deformations, and Chromosomal Abnormalities (Q00-Q99)",F,Not Stated/Unknown,8,.,.
+1290,2012,"Essential Hypertension and Renal Diseases (I10, I12)",F,Not Stated/Unknown,5,.,.
+1291,2012,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,White Non-Hispanic,4156,310.3,252.4
+1292,2012,Certain Conditions originating in the Perinatal Period (P00-P96),M,Other Race/ Ethnicity,.,.,.
+1293,2012,Human Immunodeficiency Virus Disease (HIV: B20-B24),F,Black Non-Hispanic,136,13,11.6
+1294,2012,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Asian and Pacific Islander,402,68.8,81.2
+1295,2012,"Essential Hypertension and Renal Diseases (I10, I12)",F,Hispanic,101,8.2,9.5
+1296,2012,Malignant Neoplasms (Cancer: C00-C97),M,Asian and Pacific Islander,622,115.1,138.4
+1297,2012,Cerebrovascular Disease (Stroke: I60-I69),M,Black Non-Hispanic,170,19.9,23.3
+1298,2012,Diabetes Mellitus (E10-E14),F,Hispanic,200,16.1,18.4
+1299,2012,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Black Non-Hispanic,152,17.8,18.6
+1300,2012,Influenza (Flu) and Pneumonia (J09-J18),F,Not Stated/Unknown,6,.,.
+1301,2012,"Congenital Malformations, Deformations, and Chromosomal Abnormalities (Q00-Q99)",F,Other Race/ Ethnicity,.,.,.
+1302,2012,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",F,Asian and Pacific Islander,34,5.8,6.4
+1303,2012,Cerebrovascular Disease (Stroke: I60-I69),M,White Non-Hispanic,285,21.3,17.6
+1304,2012,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Black Non-Hispanic,2269,217.1,183.9
+1305,2012,Septicemia (A40-A41),F,White Non-Hispanic,113,8,4.2
+1306,2012,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",M,Not Stated/Unknown,7,.,.
+1307,2012,Influenza (Flu) and Pneumonia (J09-J18),M,Other Race/ Ethnicity,.,.,.
+1308,2012,Alzheimer's Disease (G30),F,White Non-Hispanic,222,15.7,7.2
+1309,2012,Cerebrovascular Disease (Stroke: I60-I69),F,Black Non-Hispanic,271,25.9,22.1
+1310,2012,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",F,Other Race/ Ethnicity,.,.,.
+1311,2012,"Nephritis, Nephrotic Syndrome and Nephrisis (N00-N07, N17-N19, N25-N27)",F,Asian and Pacific Islander,22,3.8,4.3
+1312,2012,Chronic Lower Respiratory Diseases (J40-J47),F,Black Non-Hispanic,204,19.5,16.9
+1313,2012,Septicemia (A40-A41),F,Other Race/ Ethnicity,.,.,.
+1314,2012,Human Immunodeficiency Virus Disease (HIV: B20-B24),M,Black Non-Hispanic,223,26.1,25.8
+1315,2012,"Assault (Homicide: Y87.1, X85-Y09)",F,Other Race/ Ethnicity,.,.,.
+1316,2012,Influenza (Flu) and Pneumonia (J09-J18),M,White Non-Hispanic,540,40.3,32.3
+1317,2012,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,White Non-Hispanic,4719,332.7,167.7
+1318,2012,All Other Causes,M,White Non-Hispanic,2316,172.9,145.7
+1319,2012,Cerebrovascular Disease (Stroke: I60-I69),F,White Non-Hispanic,416,29.3,15.4
+1320,2012,Influenza (Flu) and Pneumonia (J09-J18),F,Black Non-Hispanic,295,28.2,24.1
+1321,2012,All Other Causes,F,White Non-Hispanic,2444,172.3,105.1
+1322,2012,Influenza (Flu) and Pneumonia (J09-J18),M,Black Non-Hispanic,242,28.3,37.4
+1323,2012,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",M,Not Stated/Unknown,8,.,.
+1324,2012,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Not Stated/Unknown,99,.,.
+1325,2012,"Essential Hypertension and Renal Diseases (I10, I12)",M,Black Non-Hispanic,143,16.7,21.3
+1326,2012,"Nephritis, Nephrotic Syndrome and Nephrisis (N00-N07, N17-N19, N25-N27)",F,Black Non-Hispanic,76,7.3,6.3
+1327,2012,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Other Race/ Ethnicity,48,.,.
+1328,2012,Alzheimer's Disease (G30),F,Black Non-Hispanic,115,11,8.9
+1329,2012,Chronic Lower Respiratory Diseases (J40-J47),F,Asian and Pacific Islander,39,6.7,8
+1330,2012,All Other Causes,F,Asian and Pacific Islander,327,56,65
+1331,2012,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Hispanic,1251,107.1,182.5
+1332,2012,"Essential Hypertension and Renal Diseases (I10, I12)",F,Black Non-Hispanic,214,20.5,17.4
+1333,2012,Diabetes Mellitus (E10-E14),M,Asian and Pacific Islander,76,14.1,18
+1334,2012,"Chronic Liver Disease and Cirrhosis (K70, K73)",M,Asian and Pacific Islander,20,3.7,4.1
+1335,2012,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Black Non-Hispanic,1940,226.8,280.7
+1336,2012,Chronic Lower Respiratory Diseases (J40-J47),F,Not Stated/Unknown,8,.,.
+1337,2012,"Chronic Liver Disease and Cirrhosis (K70, K73)",F,Hispanic,54,4.4,4.6
+1338,2012,Diabetes Mellitus (E10-E14),F,Not Stated/Unknown,15,.,.
+1339,2012,All Other Causes,M,Hispanic,1199,102.6,150.5
+1340,2012,Certain Conditions originating in the Perinatal Period (P00-P96),M,Not Stated/Unknown,17,.,.
+1341,2012,Malignant Neoplasms (Cancer: C00-C97),M,Not Stated/Unknown,53,.,.
+1342,2012,"Essential Hypertension and Renal Diseases (I10, I12)",M,White Non-Hispanic,153,11.4,9.3
+1343,2012,Malignant Neoplasms (Cancer: C00-C97),M,Other Race/ Ethnicity,34,.,.
+1344,2012,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",F,White Non-Hispanic,177,12.5,8.5
+1345,2012,Diabetes Mellitus (E10-E14),F,Asian and Pacific Islander,57,9.8,11.4
+1346,2012,Alzheimer's Disease (G30),F,Other Race/ Ethnicity,.,.,.
+1347,2012,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Hispanic,1263,102,118.4
+1348,2012,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Hispanic,191,16.3,19.7
+1349,2012,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",F,Not Stated/Unknown,.,.,.
+1350,2012,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",M,Asian and Pacific Islander,40,7.4,7.3
+1351,2012,Cerebrovascular Disease (Stroke: I60-I69),M,Other Race/ Ethnicity,7,.,.
+1352,2012,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Other Race/ Ethnicity,39,.,.
+1353,2012,Cerebrovascular Disease (Stroke: I60-I69),F,Asian and Pacific Islander,102,17.5,20.7
+1354,2012,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Asian and Pacific Islander,56,10.4,12
+1355,2012,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,White Non-Hispanic,286,21.4,18.8
+1356,2012,All Other Causes,M,Not Stated/Unknown,78,.,.
+1357,2012,Chronic Lower Respiratory Diseases (J40-J47),M,White Non-Hispanic,352,26.3,21.8
+1358,2012,Cerebrovascular Disease (Stroke: I60-I69),F,Other Race/ Ethnicity,8,.,.
+1359,2012,"Assault (Homicide: Y87.1, X85-Y09)",M,Other Race/ Ethnicity,.,.,.
+1360,2012,Cerebrovascular Disease (Stroke: I60-I69),F,Not Stated/Unknown,9,.,.
+1361,2012,Diabetes Mellitus (E10-E14),M,White Non-Hispanic,292,21.8,18.1
+1362,2012,Human Immunodeficiency Virus Disease (HIV: B20-B24),M,Hispanic,103,8.8,10.1
+1363,2012,Malignant Neoplasms (Cancer: C00-C97),M,Black Non-Hispanic,1563,182.7,215.3
+1364,2012,Cerebrovascular Disease (Stroke: I60-I69),F,Hispanic,169,13.6,15.7
+1365,2012,Malignant Neoplasms (Cancer: C00-C97),M,Hispanic,1126,96.4,151
+1366,2012,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Asian and Pacific Islander,469,86.8,116.9
+1367,2012,Cerebrovascular Disease (Stroke: I60-I69),M,Hispanic,129,11,17.2
+1368,2012,Cerebrovascular Disease (Stroke: I60-I69),M,Asian and Pacific Islander,70,13,17.5
+1369,2012,Diabetes Mellitus (E10-E14),M,Other Race/ Ethnicity,8,.,.
+1370,2012,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",M,Other Race/ Ethnicity,.,.,.
+1371,2012,Septicemia (A40-A41),M,Other Race/ Ethnicity,6,.,.
+1372,2012,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Other Race/ Ethnicity,5,.,.
+1373,2012,Diabetes Mellitus (E10-E14),F,Other Race/ Ethnicity,9,.,.
+1374,2012,Influenza (Flu) and Pneumonia (J09-J18),M,Not Stated/Unknown,11,.,.
+1375,2012,Malignant Neoplasms (Cancer: C00-C97),F,Hispanic,1125,90.8,100.5
+1376,2012,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Not Stated/Unknown,76,.,.
+1377,2012,Certain Conditions originating in the Perinatal Period (P00-P96),F,Not Stated/Unknown,11,.,.
+1378,2012,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",M,White Non-Hispanic,272,20.3,18.7
+1379,2012,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",F,Hispanic,60,4.8,5.2
+1380,2012,Chronic Lower Respiratory Diseases (J40-J47),F,White Non-Hispanic,507,35.7,21.4
+1381,2012,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",F,Asian and Pacific Islander,33,5.6,5.8
+1382,2012,Influenza (Flu) and Pneumonia (J09-J18),M,Hispanic,205,17.5,31.5
+1383,2012,"Chronic Liver Disease and Cirrhosis (K70, K73)",M,Hispanic,143,12.2,15
+1384,2012,Malignant Neoplasms (Cancer: C00-C97),F,Asian and Pacific Islander,461,78.9,83.8
+1385,2012,Diabetes Mellitus (E10-E14),F,Black Non-Hispanic,409,39.1,33.8
+1386,2012,Influenza (Flu) and Pneumonia (J09-J18),F,Hispanic,209,16.9,19.6
+1387,2012,Diabetes Mellitus (E10-E14),M,Hispanic,194,16.6,26.1
+1388,2012,All Other Causes,M,Other Race/ Ethnicity,24,.,.
+1389,2012,"Essential Hypertension and Renal Diseases (I10, I12)",F,Other Race/ Ethnicity,.,.,.
+1390,2012,All Other Causes,M,Asian and Pacific Islander,333,61.6,79.7
+1391,2012,Chronic Lower Respiratory Diseases (J40-J47),M,Hispanic,132,11.3,19.2
+1392,2012,Malignant Neoplasms (Cancer: C00-C97),F,White Non-Hispanic,3256,229.6,157.3
+1393,2012,Diabetes Mellitus (E10-E14),M,Black Non-Hispanic,308,36,42.9
+1394,2012,All Other Causes,M,Black Non-Hispanic,1320,154.3,175
+1395,2012,Malignant Neoplasms (Cancer: C00-C97),F,Not Stated/Unknown,36,.,.
+1396,2012,All Other Causes,F,Hispanic,1109,89.5,98.8
+1397,2012,Influenza (Flu) and Pneumonia (J09-J18),F,Other Race/ Ethnicity,6,.,.
+1398,2012,Chronic Lower Respiratory Diseases (J40-J47),M,Asian and Pacific Islander,55,10.2,15.1
+1399,2012,Influenza (Flu) and Pneumonia (J09-J18),M,Asian and Pacific Islander,76,14.1,20.9
+1400,2012,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Not Stated/Unknown,11,.,.
+1401,2012,Chronic Lower Respiratory Diseases (J40-J47),F,Hispanic,158,12.8,14.6
+1402,2012,Malignant Neoplasms (Cancer: C00-C97),M,White Non-Hispanic,3184,237.7,200.7
+1403,2012,All Other Causes,F,Other Race/ Ethnicity,22,.,.
+1404,2012,Human Immunodeficiency Virus Disease (HIV: B20-B24),M,Not Stated/Unknown,9,.,.
+1405,2012,Cerebrovascular Disease (Stroke: I60-I69),M,Not Stated/Unknown,10,.,.
+1406,2012,"Essential Hypertension and Renal Diseases (I10, I12)",F,White Non-Hispanic,199,14,7.2
+1407,2012,"Essential Hypertension and Renal Diseases (I10, I12)",M,Asian and Pacific Islander,39,7.2,10.8
+1408,2012,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",M,Hispanic,173,14.8,15.5
+1409,2012,Alzheimer's Disease (G30),F,Hispanic,126,10.2,12.2
+1410,2012,"Essential Hypertension and Renal Diseases (I10, I12)",F,Asian and Pacific Islander,39,6.7,7.8
+1411,2012,"Assault (Homicide: Y87.1, X85-Y09)",M,Black Non-Hispanic,235,27.5,27.6
+1412,2011,Chronic Lower Respiratory Diseases (J40-J47),F,Not Stated/Unknown,5,.,.
+1413,2011,Influenza (Flu) and Pneumonia (J09-J18),M,Not Stated/Unknown,8,.,.
+1414,2011,Diabetes Mellitus (E10-E14),F,Asian and Pacific Islander,51,8.9,10.7
+1415,2011,Diabetes Mellitus (E10-E14),F,Not Stated/Unknown,6,.,.
+1416,2011,Malignant Neoplasms (Cancer: C00-C97),M,Black Non-Hispanic,1590,186.4,224.4
+1417,2011,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",F,Asian and Pacific Islander,43,7.5,8.5
+1418,2011,All Other Causes,F,Asian and Pacific Islander,278,48.7,57.4
+1419,2011,Certain Conditions originating in the Perinatal Period (P00-P96),M,Other Race/ Ethnicity,.,.,.
+1420,2011,All Other Causes,M,Hispanic,1207,104.7,151.1
+1421,2011,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",F,White Non-Hispanic,88,6.2,6.1
+1422,2011,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Asian and Pacific Islander,452,85.5,117.8
+1423,2011,"Essential Hypertension and Renal Diseases (I10, I12)",M,Asian and Pacific Islander,37,7,10.5
+1424,2011,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Hispanic,1201,104.2,180.8
+1425,2011,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Not Stated/Unknown,43,.,.
+1426,2011,Certain Conditions originating in the Perinatal Period (P00-P96),F,Not Stated/Unknown,14,.,.
+1427,2011,"Essential Hypertension and Renal Diseases (I10, I12)",F,Not Stated/Unknown,.,.,.
+1428,2011,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",M,White Non-Hispanic,177,13.3,12
+1429,2011,Certain Conditions originating in the Perinatal Period (P00-P96),M,Asian and Pacific Islander,19,3.6,4.2
+1430,2011,Influenza (Flu) and Pneumonia (J09-J18),F,Asian and Pacific Islander,83,14.5,17.8
+1431,2011,"Nephritis, Nephrotic Syndrome and Nephrisis (N00-N07, N17-N19, N25-N27)",F,Not Stated/Unknown,.,.,.
+1432,2011,Cerebrovascular Disease (Stroke: I60-I69),F,Asian and Pacific Islander,98,17.2,20.6
+1433,2011,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",F,Other Race/ Ethnicity,.,.,.
+1434,2011,Malignant Neoplasms (Cancer: C00-C97),F,Hispanic,1085,88.6,99.6
+1435,2011,Chronic Lower Respiratory Diseases (J40-J47),M,Hispanic,123,10.7,19.2
+1436,2011,Influenza (Flu) and Pneumonia (J09-J18),F,White Non-Hispanic,696,49.1,25.4
+1437,2011,"Essential Hypertension and Renal Diseases (I10, I12)",F,Asian and Pacific Islander,46,8.1,10.2
+1438,2011,Cerebrovascular Disease (Stroke: I60-I69),F,Other Race/ Ethnicity,5,.,.
+1439,2011,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Hispanic,180,15.6,18.9
+1440,2011,Parkinson's Disease (G20),F,Not Stated/Unknown,.,.,.
+1441,2011,Alzheimer's Disease (G30),F,Not Stated/Unknown,.,.,.
+1442,2011,Malignant Neoplasms (Cancer: C00-C97),F,Other Race/ Ethnicity,33,.,.
+1443,2011,Diabetes Mellitus (E10-E14),M,Not Stated/Unknown,7,.,.
+1444,2011,Diabetes Mellitus (E10-E14),F,Hispanic,196,16,18.5
+1445,2011,"Congenital Malformations, Deformations, and Chromosomal Abnormalities (Q00-Q99)",M,Not Stated/Unknown,.,.,.
+1446,2011,Human Immunodeficiency Virus Disease (HIV: B20-B24),F,Hispanic,70,5.7,5.7
+1447,2011,Cerebrovascular Disease (Stroke: I60-I69),M,Asian and Pacific Islander,79,15,18.5
+1448,2011,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Other Race/ Ethnicity,31,.,.
+1449,2011,All Other Causes,F,Not Stated/Unknown,14,.,.
+1450,2011,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Not Stated/Unknown,62,.,.
+1451,2011,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",M,White Non-Hispanic,254,19,17.3
+1452,2011,Influenza (Flu) and Pneumonia (J09-J18),M,White Non-Hispanic,646,48.4,39.3
+1453,2011,Influenza (Flu) and Pneumonia (J09-J18),M,Asian and Pacific Islander,94,17.8,28.7
+1454,2011,Malignant Neoplasms (Cancer: C00-C97),F,Asian and Pacific Islander,451,79.1,86.1
+1455,2011,Alzheimer's Disease (G30),F,White Non-Hispanic,231,16.3,7.2
+1456,2011,Chronic Lower Respiratory Diseases (J40-J47),F,Other Race/ Ethnicity,.,.,.
+1457,2011,"Essential Hypertension and Renal Diseases (I10, I12)",F,Black Non-Hispanic,225,21.5,18.7
+1458,2011,"Assault (Homicide: Y87.1, X85-Y09)",M,Other Race/ Ethnicity,.,.,.
+1459,2011,All Other Causes,F,Other Race/ Ethnicity,38,.,.
+1460,2011,Human Immunodeficiency Virus Disease (HIV: B20-B24),M,Black Non-Hispanic,277,32.5,31.8
+1461,2011,Chronic Lower Respiratory Diseases (J40-J47),M,Other Race/ Ethnicity,.,.,.
+1462,2011,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",M,Hispanic,145,12.6,13
+1463,2011,Chronic Lower Respiratory Diseases (J40-J47),M,Asian and Pacific Islander,73,13.8,22
+1464,2011,Influenza (Flu) and Pneumonia (J09-J18),F,Hispanic,218,17.8,21.5
+1465,2011,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Hispanic,1348,110,131.8
+1466,2011,Cerebrovascular Disease (Stroke: I60-I69),F,White Non-Hispanic,466,32.9,17.6
+1467,2011,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",F,Asian and Pacific Islander,21,3.7,3.7
+1468,2011,Malignant Neoplasms (Cancer: C00-C97),M,Hispanic,1144,99.2,157.7
+1469,2011,Malignant Neoplasms (Cancer: C00-C97),M,Other Race/ Ethnicity,36,.,.
+1470,2011,Chronic Lower Respiratory Diseases (J40-J47),F,White Non-Hispanic,510,36,21
+1471,2011,Influenza (Flu) and Pneumonia (J09-J18),F,Other Race/ Ethnicity,6,.,.
+1472,2011,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Asian and Pacific Islander,402,70.5,86.1
+1473,2011,Malignant Neoplasms (Cancer: C00-C97),M,White Non-Hispanic,3222,241.6,206.1
+1474,2011,"Essential Hypertension and Renal Diseases (I10, I12)",F,Hispanic,83,6.8,8.1
+1475,2011,"Essential Hypertension and Renal Diseases (I10, I12)",F,White Non-Hispanic,199,14,6.8
+1476,2011,All Other Causes,M,White Non-Hispanic,2165,162.3,139.5
+1477,2011,Alzheimer's Disease (G30),F,Hispanic,90,7.3,9.1
+1478,2011,Cerebrovascular Disease (Stroke: I60-I69),F,Not Stated/Unknown,.,.,.
+1479,2011,Cerebrovascular Disease (Stroke: I60-I69),M,Hispanic,147,12.8,20.9
+1480,2011,Diabetes Mellitus (E10-E14),M,Hispanic,200,17.3,29.2
+1481,2011,Chronic Lower Respiratory Diseases (J40-J47),M,Not Stated/Unknown,.,.,.
+1482,2011,Influenza (Flu) and Pneumonia (J09-J18),F,Black Non-Hispanic,273,26.1,22.8
+1483,2011,Certain Conditions originating in the Perinatal Period (P00-P96),M,Not Stated/Unknown,10,.,.
+1484,2011,Influenza (Flu) and Pneumonia (J09-J18),M,Black Non-Hispanic,243,28.5,38
+1485,2011,All Other Causes,M,Asian and Pacific Islander,340,64.3,85.1
+1486,2011,Human Immunodeficiency Virus Disease (HIV: B20-B24),M,Hispanic,162,14.1,16.2
+1487,2011,Chronic Lower Respiratory Diseases (J40-J47),M,White Non-Hispanic,444,33.3,27.8
+1488,2011,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",M,Not Stated/Unknown,5,.,.
+1489,2011,All Other Causes,M,Not Stated/Unknown,38,.,.
+1490,2011,Cerebrovascular Disease (Stroke: I60-I69),F,Hispanic,179,14.6,17.3
+1491,2011,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",M,Other Race/ Ethnicity,5,.,.
+1492,2011,Diabetes Mellitus (E10-E14),F,Black Non-Hispanic,410,39.2,34.7
+1493,2011,"Essential Hypertension and Renal Diseases (I10, I12)",F,Other Race/ Ethnicity,.,.,.
+1494,2011,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Black Non-Hispanic,1840,215.7,268.3
+1495,2011,All Other Causes,F,White Non-Hispanic,2445,172.6,105.4
+1496,2011,"Chronic Liver Disease and Cirrhosis (K70, K73)",M,Other Race/ Ethnicity,5,.,.
+1497,2011,"Essential Hypertension and Renal Diseases (I10, I12)",M,Black Non-Hispanic,154,18.1,21.7
+1498,2011,"Essential Hypertension and Renal Diseases (I10, I12)",M,Not Stated/Unknown,.,.,.
+1499,2011,Human Immunodeficiency Virus Disease (HIV: B20-B24),F,Not Stated/Unknown,.,.,.
+1500,2011,Influenza (Flu) and Pneumonia (J09-J18),M,Hispanic,209,18.1,34.4
+1501,2011,Alzheimer's Disease (G30),F,Asian and Pacific Islander,24,4.2,5.4
+1502,2011,Viral Hepatitis (B15-B19),M,Not Stated/Unknown,.,.,.
+1503,2011,Diabetes Mellitus (E10-E14),M,Asian and Pacific Islander,60,11.4,14.3
+1504,2011,Alzheimer's Disease (G30),F,Black Non-Hispanic,90,8.6,7.4
+1505,2011,Cerebrovascular Disease (Stroke: I60-I69),M,White Non-Hispanic,290,21.7,18.2
+1506,2011,Malignant Neoplasms (Cancer: C00-C97),F,White Non-Hispanic,3371,238,161.1
+1507,2011,Chronic Lower Respiratory Diseases (J40-J47),F,Hispanic,156,12.7,15
+1508,2011,Cerebrovascular Disease (Stroke: I60-I69),F,Black Non-Hispanic,281,26.8,23.6
+1509,2011,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",F,Other Race/ Ethnicity,.,.,.
+1510,2011,Alzheimer's Disease (G30),F,Other Race/ Ethnicity,.,.,.
+1511,2011,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",M,Asian and Pacific Islander,49,9.3,9.4
+1512,2011,All Other Causes,F,Black Non-Hispanic,1473,140.7,128.8
+1513,2011,"Nephritis, Nephrotic Syndrome and Nephrisis (N00-N07, N17-N19, N25-N27)",F,Black Non-Hispanic,83,7.9,6.9
+1514,2011,All Other Causes,F,Hispanic,1025,83.7,94.8
+1515,2011,Diabetes Mellitus (E10-E14),M,Other Race/ Ethnicity,14,.,.
+1516,2011,"Assault (Homicide: Y87.1, X85-Y09)",M,Black Non-Hispanic,266,31.2,31.5
+1517,2011,Chronic Lower Respiratory Diseases (J40-J47),M,Black Non-Hispanic,200,23.4,29.1
+1518,2011,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,White Non-Hispanic,5016,354.1,179.8
+1519,2011,Cerebrovascular Disease (Stroke: I60-I69),M,Black Non-Hispanic,200,23.4,28.1
+1520,2011,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,White Non-Hispanic,272,20.4,18.1
+1521,2011,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,White Non-Hispanic,4220,316.4,260.2
+1522,2011,Chronic Lower Respiratory Diseases (J40-J47),F,Asian and Pacific Islander,30,5.3,6.6
+1523,2011,Diabetes Mellitus (E10-E14),F,White Non-Hispanic,253,17.9,11.1
+1524,2011,Diabetes Mellitus (E10-E14),F,Other Race/ Ethnicity,8,.,.
+1525,2011,Diabetes Mellitus (E10-E14),M,Black Non-Hispanic,307,36,43.9
+1526,2011,Influenza (Flu) and Pneumonia (J09-J18),M,Other Race/ Ethnicity,7,.,.
+1527,2011,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",F,Hispanic,56,4.6,4.5
+1528,2011,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Asian and Pacific Islander,61,11.5,14.8
+1529,2011,All Other Causes,M,Other Race/ Ethnicity,27,.,.
+1530,2011,Malignant Neoplasms (Cancer: C00-C97),F,Black Non-Hispanic,1918,183.2,163.3
+1531,2011,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Not Stated/Unknown,.,.,.
+1532,2011,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",M,Black Non-Hispanic,135,15.8,14.8
+1533,2011,"Assault (Homicide: Y87.1, X85-Y09)",F,Not Stated/Unknown,.,.,.
+1534,2011,Chronic Lower Respiratory Diseases (J40-J47),F,Black Non-Hispanic,221,21.1,18.6
+1535,2011,Malignant Neoplasms (Cancer: C00-C97),F,Not Stated/Unknown,11,.,.
+1536,2011,"Chronic Liver Disease and Cirrhosis (K70, K73)",M,Hispanic,167,14.5,18.8
+1537,2011,"Essential Hypertension and Renal Diseases (I10, I12)",M,White Non-Hispanic,142,10.6,8.8
+1538,2011,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",F,Not Stated/Unknown,.,.,.
+1539,2011,All Other Causes,M,Black Non-Hispanic,1337,156.7,181.7
+1540,2011,Influenza (Flu) and Pneumonia (J09-J18),F,Not Stated/Unknown,8,.,.
+1541,2011,Diabetes Mellitus (E10-E14),M,White Non-Hispanic,258,19.3,16.3
+1542,2011,Human Immunodeficiency Virus Disease (HIV: B20-B24),F,Black Non-Hispanic,144,13.8,12.4
+1543,2011,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",M,Not Stated/Unknown,.,.,.
+1544,2011,Septicemia (A40-A41),F,Not Stated/Unknown,.,.,.
+1545,2011,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Black Non-Hispanic,2243,214.3,186.7
+1546,2011,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",F,White Non-Hispanic,184,13,8.2
+1547,2011,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Other Race/ Ethnicity,10,.,.
+1548,2011,Malignant Neoplasms (Cancer: C00-C97),M,Not Stated/Unknown,27,.,.
+1549,2011,Human Immunodeficiency Virus Disease (HIV: B20-B24),M,Not Stated/Unknown,10,.,.
+1550,2011,Malignant Neoplasms (Cancer: C00-C97),M,Asian and Pacific Islander,550,104.1,130.4
+1551,2011,Tuberculosis (A16-A19),F,Not Stated/Unknown,.,.,.
+1552,2011,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Other Race/ Ethnicity,42,.,.
+1553,2010,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",F,Other Race/ Ethnicity,.,.,.
+1554,2010,Malignant Neoplasms (Cancer: C00-C97),M,White Non-Hispanic,3408,254.1,216.6
+1555,2010,All Other Causes,M,Other Race/ Ethnicity,25,.,.
+1556,2010,Chronic Lower Respiratory Diseases (J40-J47),F,Hispanic,156,12.8,15.4
+1557,2010,Diabetes Mellitus (E10-E14),M,Asian and Pacific Islander,64,12.3,15.5
+1558,2010,Insitu or Benign / Uncertain Neoplasms (D00-D48),F,Other Race/ Ethnicity,.,.,.
+1559,2010,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,White Non-Hispanic,4495,335.1,277
+1560,2010,Cerebrovascular Disease (Stroke: I60-I69),M,Not Stated/Unknown,.,.,.
+1561,2010,Influenza (Flu) and Pneumonia (J09-J18),F,Black Non-Hispanic,275,26.2,23.6
+1562,2010,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Hispanic,1354,118.5,215.5
+1563,2010,Cerebrovascular Disease (Stroke: I60-I69),M,Hispanic,140,12.3,21.4
+1564,2010,Malignant Neoplasms (Cancer: C00-C97),F,White Non-Hispanic,3438,240.4,163
+1565,2010,"Essential Hypertension and Renal Diseases (I10, I12)",F,Black Non-Hispanic,252,24,21.4
+1566,2010,Human Immunodeficiency Virus Disease (HIV: B20-B24),M,Not Stated/Unknown,8,.,.
+1567,2010,"Chronic Liver Disease and Cirrhosis (K70, K73)",M,Other Race/ Ethnicity,.,.,.
+1568,2010,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",F,Not Stated/Unknown,.,.,.
+1569,2010,All Other Causes,F,Black Non-Hispanic,1326,126.5,117.4
+1570,2010,Cerebrovascular Disease (Stroke: I60-I69),F,Hispanic,168,13.8,16.7
+1571,2010,Human Immunodeficiency Virus Disease (HIV: B20-B24),M,Black Non-Hispanic,297,34.9,34
+1572,2010,"Essential Hypertension and Renal Diseases (I10, I12)",F,Not Stated/Unknown,5,.,.
+1573,2010,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",M,Hispanic,138,12.1,12.9
+1574,2010,Viral Hepatitis (B15-B19),M,Not Stated/Unknown,.,.,.
+1575,2010,Chronic Lower Respiratory Diseases (J40-J47),M,Not Stated/Unknown,12,.,.
+1576,2010,Diabetes Mellitus (E10-E14),F,Other Race/ Ethnicity,7,.,.
+1577,2010,All Other Causes,F,White Non-Hispanic,2140,149.7,93.9
+1578,2010,Cerebrovascular Disease (Stroke: I60-I69),M,Other Race/ Ethnicity,.,.,.
+1579,2010,Influenza (Flu) and Pneumonia (J09-J18),F,Other Race/ Ethnicity,.,.,.
+1580,2010,Malignant Neoplasms (Cancer: C00-C97),M,Not Stated/Unknown,46,.,.
+1581,2010,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Hispanic,132,11.6,13.9
+1582,2010,Diabetes Mellitus (E10-E14),M,White Non-Hispanic,245,18.3,15.6
+1583,2010,"Essential Hypertension and Renal Diseases (I10, I12)",F,Hispanic,95,7.8,9.5
+1584,2010,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",M,Not Stated/Unknown,.,.,.
+1585,2010,Diabetes Mellitus (E10-E14),M,Not Stated/Unknown,7,.,.
+1586,2010,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,White Non-Hispanic,5351,374.2,189.2
+1587,2010,Cerebrovascular Disease (Stroke: I60-I69),F,White Non-Hispanic,382,26.7,14.1
+1588,2010,Mental and Behavioral Disorders due to Use of Alcohol (F10),M,Other Race/ Ethnicity,.,.,.
+1589,2010,Certain Conditions originating in the Perinatal Period (P00-P96),M,Not Stated/Unknown,6,.,.
+1590,2010,"Chronic Liver Disease and Cirrhosis (K70, K73)",M,Hispanic,150,13.1,17.6
+1591,2010,Chronic Lower Respiratory Diseases (J40-J47),F,White Non-Hispanic,501,35,20.7
+1592,2010,Influenza (Flu) and Pneumonia (J09-J18),F,Not Stated/Unknown,.,.,.
+1593,2010,All Other Causes,F,Other Race/ Ethnicity,27,.,.
+1594,2010,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",F,Hispanic,58,4.8,5.2
+1595,2010,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Not Stated/Unknown,70,.,.
+1596,2010,Septicemia (A40-A41),F,White Non-Hispanic,107,7.5,4.3
+1597,2010,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Not Stated/Unknown,10,.,.
+1598,2010,Cerebrovascular Disease (Stroke: I60-I69),M,White Non-Hispanic,276,20.6,17.2
+1599,2010,Chronic Lower Respiratory Diseases (J40-J47),M,Black Non-Hispanic,202,23.7,30.9
+1600,2010,Viral Hepatitis (B15-B19),F,Not Stated/Unknown,.,.,.
+1601,2010,All Other Causes,F,Not Stated/Unknown,18,.,.
+1602,2010,"Essential Hypertension and Renal Diseases (I10, I12)",F,White Non-Hispanic,219,15.3,7.7
+1603,2010,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",M,White Non-Hispanic,182,13.6,12.3
+1604,2010,Influenza (Flu) and Pneumonia (J09-J18),F,Asian and Pacific Islander,74,13.2,16.9
+1605,2010,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",F,White Non-Hispanic,163,11.4,7.8
+1606,2010,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Asian and Pacific Islander,394,70.1,89.7
+1607,2010,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Black Non-Hispanic,147,17.3,18.3
+1608,2010,Influenza (Flu) and Pneumonia (J09-J18),M,Asian and Pacific Islander,108,20.7,31.7
+1609,2010,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Black Non-Hispanic,2015,236.7,307.7
+1610,2010,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Not Stated/Unknown,70,.,.
+1611,2010,Influenza (Flu) and Pneumonia (J09-J18),M,Other Race/ Ethnicity,6,.,.
+1612,2010,Influenza (Flu) and Pneumonia (J09-J18),F,White Non-Hispanic,707,49.4,24.8
+1613,2010,Chronic Lower Respiratory Diseases (J40-J47),M,Asian and Pacific Islander,61,11.7,17.8
+1614,2010,"Assault (Homicide: Y87.1, X85-Y09)",M,Other Race/ Ethnicity,.,.,.
+1615,2010,Certain Conditions originating in the Perinatal Period (P00-P96),F,Not Stated/Unknown,5,.,.
+1616,2010,Malignant Neoplasms (Cancer: C00-C97),M,Asian and Pacific Islander,526,101,124.5
+1617,2010,Human Immunodeficiency Virus Disease (HIV: B20-B24),M,Hispanic,189,16.5,18.4
+1618,2010,Septicemia (A40-A41),F,Not Stated/Unknown,.,.,.
+1619,2010,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Hispanic,1316,108.1,133.2
+1620,2010,Cerebrovascular Disease (Stroke: I60-I69),F,Asian and Pacific Islander,89,15.8,19.2
+1621,2010,Diabetes Mellitus (E10-E14),M,Black Non-Hispanic,279,32.8,41
+1622,2010,Diabetes Mellitus (E10-E14),F,Hispanic,219,18,21.5
+1623,2010,Chronic Lower Respiratory Diseases (J40-J47),F,Black Non-Hispanic,206,19.6,17.7
+1624,2010,Alzheimer's Disease (G30),F,Hispanic,71,5.8,7.5
+1625,2010,Malignant Neoplasms (Cancer: C00-C97),F,Not Stated/Unknown,29,.,.
+1626,2010,Influenza (Flu) and Pneumonia (J09-J18),M,Black Non-Hispanic,201,23.6,31.8
+1627,2010,Chronic Lower Respiratory Diseases (J40-J47),F,Asian and Pacific Islander,28,5,6.7
+1628,2010,Alzheimer's Disease (G30),F,Black Non-Hispanic,88,8.4,7.3
+1629,2010,Diabetes Mellitus (E10-E14),M,Other Race/ Ethnicity,5,.,.
+1630,2010,Human Immunodeficiency Virus Disease (HIV: B20-B24),F,Hispanic,79,6.5,6.5
+1631,2010,Malignant Neoplasms (Cancer: C00-C97),F,Asian and Pacific Islander,414,73.6,79.9
+1632,2010,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",F,Asian and Pacific Islander,17,3,2.9
+1633,2010,Cerebrovascular Disease (Stroke: I60-I69),M,Asian and Pacific Islander,83,15.9,21.3
+1634,2010,All Other Causes,M,Black Non-Hispanic,1230,144.5,166.2
+1635,2010,"Assault (Homicide: Y87.1, X85-Y09)",M,Black Non-Hispanic,299,35.1,35.5
+1636,2010,Chronic Lower Respiratory Diseases (J40-J47),M,Hispanic,149,13,23.9
+1637,2010,Diabetes Mellitus (E10-E14),M,Hispanic,187,16.4,27.3
+1638,2010,Malignant Neoplasms (Cancer: C00-C97),M,Other Race/ Ethnicity,25,.,.
+1639,2010,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",M,Asian and Pacific Islander,46,8.8,8.7
+1640,2010,All Other Causes,M,Asian and Pacific Islander,308,59.2,77.2
+1641,2010,"Essential Hypertension and Renal Diseases (I10, I12)",M,White Non-Hispanic,153,11.4,9.4
+1642,2010,Cerebrovascular Disease (Stroke: I60-I69),F,Other Race/ Ethnicity,.,.,.
+1643,2010,All Other Causes,F,Asian and Pacific Islander,238,42.3,51.6
+1644,2010,Chronic Lower Respiratory Diseases (J40-J47),F,Not Stated/Unknown,6,.,.
+1645,2010,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Other Race/ Ethnicity,50,.,.
+1646,2010,All Other Causes,M,White Non-Hispanic,2034,151.6,130.9
+1647,2010,Cerebrovascular Disease (Stroke: I60-I69),F,Not Stated/Unknown,.,.,.
+1648,2010,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",M,Not Stated/Unknown,6,.,.
+1649,2010,All Other Causes,F,Hispanic,1007,82.7,94.6
+1650,2010,Diabetes Mellitus (E10-E14),F,Black Non-Hispanic,384,36.6,33
+1651,2010,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",M,White Non-Hispanic,211,15.7,14.5
+1652,2010,Diabetes Mellitus (E10-E14),F,Not Stated/Unknown,5,.,.
+1653,2010,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Other Race/ Ethnicity,5,.,.
+1654,2010,Certain Conditions originating in the Perinatal Period (P00-P96),F,Asian and Pacific Islander,18,3.2,4
+1655,2010,Influenza (Flu) and Pneumonia (J09-J18),M,White Non-Hispanic,614,45.8,37.6
+1656,2010,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",M,Other Race/ Ethnicity,.,.,.
+1657,2010,Influenza (Flu) and Pneumonia (J09-J18),F,Hispanic,228,18.7,23.1
+1658,2010,Human Immunodeficiency Virus Disease (HIV: B20-B24),F,Black Non-Hispanic,152,14.5,12.9
+1659,2010,Diabetes Mellitus (E10-E14),F,Asian and Pacific Islander,51,9.1,11.3
+1660,2010,Insitu or Benign / Uncertain Neoplasms (D00-D48),F,Not Stated/Unknown,.,.,.
+1661,2010,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Black Non-Hispanic,2282,217.7,194.2
+1662,2010,"Nephritis, Nephrotic Syndrome and Nephrisis (N00-N07, N17-N19, N25-N27)",F,Black Non-Hispanic,86,8.2,7.4
+1663,2010,Chronic Lower Respiratory Diseases (J40-J47),M,White Non-Hispanic,388,28.9,24.2
+1664,2010,Malignant Neoplasms (Cancer: C00-C97),M,Hispanic,1057,92.5,150
+1665,2010,"Essential Hypertension and Renal Diseases (I10, I12)",F,Asian and Pacific Islander,33,5.9,7.1
+1666,2010,Alzheimer's Disease (G30),F,White Non-Hispanic,247,17.3,7.5
+1667,2010,"Essential Hypertension and Renal Diseases (I10, I12)",F,Other Race/ Ethnicity,.,.,.
+1668,2010,Influenza (Flu) and Pneumonia (J09-J18),M,Not Stated/Unknown,.,.,.
+1669,2010,Malignant Neoplasms (Cancer: C00-C97),M,Black Non-Hispanic,1540,180.9,224.1
+1670,2010,All Other Causes,M,Not Stated/Unknown,32,.,.
+1671,2010,Atherosclerosis (I70),F,Not Stated/Unknown,.,.,.
+1672,2010,Malignant Neoplasms (Cancer: C00-C97),F,Black Non-Hispanic,1768,168.6,151.8
+1673,2010,Cerebrovascular Disease (Stroke: I60-I69),M,Black Non-Hispanic,171,20.1,23.9
+1674,2010,"Essential Hypertension and Renal Diseases (I10, I12)",M,Black Non-Hispanic,178,20.9,27.7
+1675,2010,"Chronic Liver Disease and Cirrhosis (K70, K73)",M,Asian and Pacific Islander,18,3.5,3.1
+1676,2010,"Essential Hypertension and Renal Diseases (I10, I12)",M,Asian and Pacific Islander,30,5.8,8.7
+1677,2010,Malignant Neoplasms (Cancer: C00-C97),F,Hispanic,1045,85.9,98.5
+1678,2010,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",F,Other Race/ Ethnicity,.,.,.
+1679,2010,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",F,Other Race/ Ethnicity,5,.,.
+1680,2010,Chronic Lower Respiratory Diseases (J40-J47),M,Other Race/ Ethnicity,5,.,.
+1681,2010,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,White Non-Hispanic,271,20.2,18.4
+1682,2010,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",F,Asian and Pacific Islander,25,4.4,5.1
+1683,2010,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Asian and Pacific Islander,478,91.8,130
+1684,2010,Cerebrovascular Disease (Stroke: I60-I69),F,Black Non-Hispanic,259,24.7,22.2
+1685,2010,Malignant Neoplasms (Cancer: C00-C97),F,Other Race/ Ethnicity,34,.,.
+1686,2010,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Other Race/ Ethnicity,52,.,.
+1687,2010,Diabetes Mellitus (E10-E14),F,White Non-Hispanic,258,18,11.1
+1688,2010,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Asian and Pacific Islander,54,10.4,13.7
+1689,2010,All Other Causes,M,Hispanic,1167,102.1,150
+1690,2010,Influenza (Flu) and Pneumonia (J09-J18),M,Hispanic,235,20.6,38.9
+1691,2009,"Nephritis, Nephrotic Syndrome and Nephrisis (N00-N07, N17-N19, N25-N27)",F,Other Race/ Ethnicity,.,.,.
+1692,2009,Diabetes Mellitus (E10-E14),M,Asian and Pacific Islander,48,9.4,13.3
+1693,2009,Alzheimer's Disease (G30),F,Black Non-Hispanic,79,7.5,6.8
+1694,2009,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",F,White Non-Hispanic,75,5.2,5.1
+1695,2009,Cerebrovascular Disease (Stroke: I60-I69),M,Black Non-Hispanic,154,18.1,22.8
+1696,2009,Chronic Lower Respiratory Diseases (J40-J47),F,Other Race/ Ethnicity,.,.,.
+1697,2009,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,White Non-Hispanic,5168,384.2,319.8
+1698,2009,All Other Causes,M,Black Non-Hispanic,1246,146.7,167.7
+1699,2009,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",M,Not Stated/Unknown,7,.,.
+1700,2009,Cerebrovascular Disease (Stroke: I60-I69),F,Not Stated/Unknown,5,.,.
+1701,2009,Malignant Neoplasms (Cancer: C00-C97),M,Black Non-Hispanic,1557,183.4,228.8
+1702,2009,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Asian and Pacific Islander,55,10.8,12.3
+1703,2009,All Other Causes,F,Not Stated/Unknown,26,.,.
+1704,2009,"Essential Hypertension and Renal Diseases (I10, I12)",F,Other Race/ Ethnicity,.,.,.
+1705,2009,Influenza (Flu) and Pneumonia (J09-J18),F,Hispanic,216,18,22.8
+1706,2009,Influenza (Flu) and Pneumonia (J09-J18),F,Asian and Pacific Islander,83,15.1,20.3
+1707,2009,Alzheimer's Disease (G30),F,Other Race/ Ethnicity,.,.,.
+1708,2009,Alzheimer's Disease (G30),F,White Non-Hispanic,205,14.3,6.5
+1709,2009,Influenza (Flu) and Pneumonia (J09-J18),M,Not Stated/Unknown,14,.,.
+1710,2009,"Congenital Malformations, Deformations, and Chromosomal Abnormalities (Q00-Q99)",F,Other Race/ Ethnicity,.,.,.
+1711,2009,Alzheimer's Disease (G30),F,Hispanic,56,4.7,6.2
+1712,2009,Cerebrovascular Disease (Stroke: I60-I69),M,Hispanic,143,12.7,21.1
+1713,2009,Cerebrovascular Disease (Stroke: I60-I69),F,White Non-Hispanic,390,27.1,15.2
+1714,2009,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Other Race/ Ethnicity,40,.,.
+1715,2009,"Chronic Liver Disease and Cirrhosis (K70, K73)",M,Hispanic,119,10.6,14.1
+1716,2009,Diabetes Mellitus (E10-E14),F,Other Race/ Ethnicity,.,.,.
+1717,2009,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Hispanic,170,15.1,17.9
+1718,2009,Influenza (Flu) and Pneumonia (J09-J18),F,Black Non-Hispanic,281,26.8,24.5
+1719,2009,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",M,Hispanic,145,12.9,13.5
+1720,2009,All Other Causes,M,Other Race/ Ethnicity,18,.,.
+1721,2009,All Other Causes,M,Not Stated/Unknown,55,.,.
+1722,2009,Chronic Lower Respiratory Diseases (J40-J47),F,Black Non-Hispanic,188,18,16.4
+1723,2009,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",F,Asian and Pacific Islander,37,6.7,8
+1724,2009,Influenza (Flu) and Pneumonia (J09-J18),F,White Non-Hispanic,629,43.8,23.1
+1725,2009,Diabetes Mellitus (E10-E14),F,White Non-Hispanic,229,15.9,9.5
+1726,2009,Chronic Lower Respiratory Diseases (J40-J47),M,Asian and Pacific Islander,51,10,16.9
+1727,2009,Diabetes Mellitus (E10-E14),F,Asian and Pacific Islander,55,10,12.7
+1728,2009,Cerebrovascular Disease (Stroke: I60-I69),M,Asian and Pacific Islander,58,11.4,15.5
+1729,2009,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Asian and Pacific Islander,554,108.5,158.8
+1730,2009,Certain Conditions originating in the Perinatal Period (P00-P96),F,Other Race/ Ethnicity,.,.,.
+1731,2009,Chronic Lower Respiratory Diseases (J40-J47),F,Hispanic,155,12.9,16
+1732,2009,Certain Conditions originating in the Perinatal Period (P00-P96),F,Not Stated/Unknown,.,.,.
+1733,2009,Human Immunodeficiency Virus Disease (HIV: B20-B24),M,Black Non-Hispanic,329,38.7,38.5
+1734,2009,Atherosclerosis (I70),F,Other Race/ Ethnicity,.,.,.
+1735,2009,Chronic Lower Respiratory Diseases (J40-J47),F,Asian and Pacific Islander,30,5.5,7.4
+1736,2009,Malignant Neoplasms (Cancer: C00-C97),F,Asian and Pacific Islander,398,72.5,83.5
+1737,2009,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",M,White Non-Hispanic,221,16.4,14.8
+1738,2009,"Chronic Liver Disease and Cirrhosis (K70, K73)",F,Not Stated/Unknown,.,.,.
+1739,2009,Malignant Neoplasms (Cancer: C00-C97),M,Other Race/ Ethnicity,12,.,.
+1740,2009,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,White Non-Hispanic,279,20.7,18.7
+1741,2009,All Other Causes,F,White Non-Hispanic,1684,117.2,77.2
+1742,2009,"Essential Hypertension and Renal Diseases (I10, I12)",F,Black Non-Hispanic,227,21.7,19.6
+1743,2009,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",F,Hispanic,57,4.8,4.7
+1744,2009,"Essential Hypertension and Renal Diseases (I10, I12)",F,Asian and Pacific Islander,18,3.3,4.6
+1745,2009,Cerebrovascular Disease (Stroke: I60-I69),F,Asian and Pacific Islander,61,11.1,14.1
+1746,2009,Influenza (Flu) and Pneumonia (J09-J18),M,Asian and Pacific Islander,84,16.5,26.1
+1747,2009,Human Immunodeficiency Virus Disease (HIV: B20-B24),F,Not Stated/Unknown,.,.,.
+1748,2009,Malignant Neoplasms (Cancer: C00-C97),M,Asian and Pacific Islander,506,99.1,127
+1749,2009,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Other Race/ Ethnicity,38,.,.
+1750,2009,Certain Conditions originating in the Perinatal Period (P00-P96),M,Other Race/ Ethnicity,.,.,.
+1751,2009,All Other Causes,M,White Non-Hispanic,1818,135.1,118.5
+1752,2009,Cerebrovascular Disease (Stroke: I60-I69),M,White Non-Hispanic,227,16.9,14.2
+1753,2009,"Essential Hypertension and Renal Diseases (I10, I12)",F,Hispanic,84,7,8.8
+1754,2009,Malignant Neoplasms (Cancer: C00-C97),F,Other Race/ Ethnicity,19,.,.
+1755,2009,"Chronic Liver Disease and Cirrhosis (K70, K73)",M,Not Stated/Unknown,10,.,.
+1756,2009,Influenza (Flu) and Pneumonia (J09-J18),F,Not Stated/Unknown,17,.,.
+1757,2009,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,White Non-Hispanic,6297,438.3,226.2
+1758,2009,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",F,White Non-Hispanic,178,12.4,8.3
+1759,2009,Human Immunodeficiency Virus Disease (HIV: B20-B24),M,Not Stated/Unknown,8,.,.
+1760,2009,All Other Causes,M,Hispanic,1067,95,138.1
+1761,2009,Diabetes Mellitus (E10-E14),M,White Non-Hispanic,290,21.6,18.2
+1762,2009,Chronic Lower Respiratory Diseases (J40-J47),F,Not Stated/Unknown,7,.,.
+1763,2009,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Hispanic,1382,123.1,227.9
+1764,2009,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",F,Asian and Pacific Islander,17,3.1,3.1
+1765,2009,Malignant Neoplasms (Cancer: C00-C97),F,Hispanic,1097,91.6,107.2
+1766,2009,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Hispanic,1349,112.7,143.8
+1767,2009,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Black Non-Hispanic,2068,243.5,318.9
+1768,2009,Certain Conditions originating in the Perinatal Period (P00-P96),M,Not Stated/Unknown,8,.,.
+1769,2009,Septicemia (A40-A41),F,Not Stated/Unknown,.,.,.
+1770,2009,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Black Non-Hispanic,134,15.8,16.8
+1771,2009,Chronic Lower Respiratory Diseases (J40-J47),M,Not Stated/Unknown,6,.,.
+1772,2009,"Nephritis, Nephrotic Syndrome and Nephrisis (N00-N07, N17-N19, N25-N27)",F,Black Non-Hispanic,75,7.2,6.7
+1773,2009,Malignant Neoplasms (Cancer: C00-C97),F,Not Stated/Unknown,41,.,.
+1774,2009,"Essential Hypertension and Renal Diseases (I10, I12)",M,Other Race/ Ethnicity,.,.,.
+1775,2009,Alzheimer's Disease (G30),F,Not Stated/Unknown,.,.,.
+1776,2009,All Other Causes,F,Hispanic,775,64.7,75.3
+1777,2009,Diabetes Mellitus (E10-E14),F,Black Non-Hispanic,384,36.7,33.7
+1778,2009,Chronic Lower Respiratory Diseases (J40-J47),F,White Non-Hispanic,458,31.9,19.1
+1779,2009,Influenza (Flu) and Pneumonia (J09-J18),M,Hispanic,183,16.3,30.9
+1780,2009,Alzheimer's Disease (G30),F,Asian and Pacific Islander,14,2.5,3.6
+1781,2009,Cerebrovascular Disease (Stroke: I60-I69),M,Other Race/ Ethnicity,.,.,.
+1782,2009,Malignant Neoplasms (Cancer: C00-C97),F,Black Non-Hispanic,1735,165.7,151.1
+1783,2009,Malignant Neoplasms (Cancer: C00-C97),M,Hispanic,1180,105.1,172.2
+1784,2009,Diabetes Mellitus (E10-E14),M,Other Race/ Ethnicity,.,.,.
+1785,2009,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",F,Hispanic,56,4.7,5.3
+1786,2009,Cerebrovascular Disease (Stroke: I60-I69),F,Hispanic,154,12.9,16
+1787,2009,Diabetes Mellitus (E10-E14),F,Hispanic,215,18,22.2
+1788,2009,Diabetes Mellitus (E10-E14),M,Black Non-Hispanic,285,33.6,41.4
+1789,2009,Malignant Neoplasms (Cancer: C00-C97),M,White Non-Hispanic,3236,240.5,205.6
+1790,2009,Human Immunodeficiency Virus Disease (HIV: B20-B24),F,Hispanic,96,8,8.1
+1791,2009,Influenza (Flu) and Pneumonia (J09-J18),F,Other Race/ Ethnicity,5,.,.
+1792,2009,Malignant Neoplasms (Cancer: C00-C97),F,White Non-Hispanic,3346,232.9,159
+1793,2009,Chronic Lower Respiratory Diseases (J40-J47),M,White Non-Hispanic,371,27.6,23.3
+1794,2009,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",M,White Non-Hispanic,191,14.2,13
+1795,2009,"Essential Hypertension and Renal Diseases (I10, I12)",M,White Non-Hispanic,148,11,9.1
+1796,2009,"Nephritis, Nephrotic Syndrome and Nephrisis (N00-N07, N17-N19, N25-N27)",M,Other Race/ Ethnicity,.,.,.
+1797,2009,Cerebrovascular Disease (Stroke: I60-I69),F,Other Race/ Ethnicity,.,.,.
+1798,2009,Influenza (Flu) and Pneumonia (J09-J18),M,White Non-Hispanic,555,41.3,34.3
+1799,2009,Chronic Lower Respiratory Diseases (J40-J47),M,Hispanic,111,9.9,18.3
+1800,2009,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Not Stated/Unknown,111,.,.
+1801,2009,Influenza (Flu) and Pneumonia (J09-J18),M,Other Race/ Ethnicity,.,.,.
+1802,2009,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",M,Asian and Pacific Islander,35,6.9,6.7
+1803,2009,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Other Race/ Ethnicity,.,.,.
+1804,2009,"Chronic Liver Disease and Cirrhosis (K70, K73)",M,Asian and Pacific Islander,17,3.3,3.5
+1805,2009,"Assault (Homicide: Y87.1, X85-Y09)",M,Not Stated/Unknown,7,.,.
+1806,2009,All Other Causes,M,Asian and Pacific Islander,220,43.1,56.1
+1807,2009,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",M,Other Race/ Ethnicity,.,.,.
+1808,2009,Cerebrovascular Disease (Stroke: I60-I69),F,Black Non-Hispanic,245,23.4,21.3
+1809,2009,Influenza (Flu) and Pneumonia (J09-J18),M,Black Non-Hispanic,207,24.4,33.3
+1810,2009,Malignant Neoplasms (Cancer: C00-C97),M,Not Stated/Unknown,47,.,.
+1811,2009,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Black Non-Hispanic,2535,242.1,220.9
+1812,2009,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Not Stated/Unknown,94,.,.
+1813,2009,All Other Causes,F,Black Non-Hispanic,1305,124.6,117.3
+1814,2009,Human Immunodeficiency Virus Disease (HIV: B20-B24),M,Hispanic,196,17.5,20
+1815,2009,"Assault (Homicide: Y87.1, X85-Y09)",M,Black Non-Hispanic,255,30,30
+1816,2009,Diabetes Mellitus (E10-E14),M,Hispanic,172,15.3,25.4
+1817,2009,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Asian and Pacific Islander,448,81.6,108.7
+1818,2009,"Essential Hypertension and Renal Diseases (I10, I12)",M,Black Non-Hispanic,131,15.4,19
+1819,2009,"Essential Hypertension and Renal Diseases (I10, I12)",M,Asian and Pacific Islander,26,5.1,7.2
+1820,2009,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Not Stated/Unknown,16,.,.
+1821,2009,Chronic Lower Respiratory Diseases (J40-J47),M,Black Non-Hispanic,147,17.3,22.6
+1822,2009,"Essential Hypertension and Renal Diseases (I10, I12)",F,White Non-Hispanic,215,15,7.8
+1823,2009,All Other Causes,F,Asian and Pacific Islander,220,40.1,48.9
+1824,2009,Human Immunodeficiency Virus Disease (HIV: B20-B24),F,Black Non-Hispanic,208,19.9,17.9
+1825,2009,All Other Causes,F,Other Race/ Ethnicity,11,.,.
+1826,2008,Cerebrovascular Disease (Stroke: I60-I69),F,Not Stated/Unknown,13,.,.
+1827,2008,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",F,Asian and Pacific Islander,36,6.8,8.5
+1828,2008,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",M,Other Race/ Ethnicity,.,.,.
+1829,2008,Influenza (Flu) and Pneumonia (J09-J18),F,Black Non-Hispanic,318,30.4,28.6
+1830,2008,"Essential Hypertension and Renal Diseases (I10, I12)",F,Hispanic,104,8.8,11.4
+1831,2008,"Essential Hypertension and Renal Diseases (I10, I12)",F,Black Non-Hispanic,192,18.3,17.1
+1832,2008,Certain Conditions originating in the Perinatal Period (P00-P96),M,Not Stated/Unknown,6,.,.
+1833,2008,Insitu or Benign / Uncertain Neoplasms (D00-D48),F,Not Stated/Unknown,5,.,.
+1834,2008,"Chronic Liver Disease and Cirrhosis (K70, K73)",F,Not Stated/Unknown,.,.,.
+1835,2008,Influenza (Flu) and Pneumonia (J09-J18),M,Asian and Pacific Islander,90,18.1,30.2
+1836,2008,"Essential Hypertension and Renal Diseases (I10, I12)",M,Other Race/ Ethnicity,.,.,.
+1837,2008,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",M,Asian and Pacific Islander,30,6,6.3
+1838,2008,All Other Causes,F,Not Stated/Unknown,42,.,.
+1839,2008,Malignant Neoplasms (Cancer: C00-C97),F,Hispanic,1046,88.5,104.7
+1840,2008,Malignant Neoplasms (Cancer: C00-C97),F,Asian and Pacific Islander,344,64.6,73.8
+1841,2008,Certain Conditions originating in the Perinatal Period (P00-P96),F,Other Race/ Ethnicity,.,.,.
+1842,2008,Diabetes Mellitus (E10-E14),M,Black Non-Hispanic,265,31.2,40.2
+1843,2008,Influenza (Flu) and Pneumonia (J09-J18),M,Other Race/ Ethnicity,5,.,.
+1844,2008,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Black Non-Hispanic,2725,260.1,243.6
+1845,2008,Chronic Lower Respiratory Diseases (J40-J47),F,Other Race/ Ethnicity,.,.,.
+1846,2008,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Black Non-Hispanic,146,17.2,18.1
+1847,2008,Influenza (Flu) and Pneumonia (J09-J18),M,Not Stated/Unknown,11,.,.
+1848,2008,Chronic Lower Respiratory Diseases (J40-J47),F,White Non-Hispanic,518,36.1,21.4
+1849,2008,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Black Non-Hispanic,2077,244.6,330.2
+1850,2008,Human Immunodeficiency Virus Disease (HIV: B20-B24),F,Hispanic,113,9.6,9.6
+1851,2008,All Other Causes,F,Black Non-Hispanic,1268,121,116.1
+1852,2008,All Other Causes,F,White Non-Hispanic,1706,118.9,78.6
+1853,2008,Diabetes Mellitus (E10-E14),F,White Non-Hispanic,210,14.6,8.8
+1854,2008,Influenza (Flu) and Pneumonia (J09-J18),M,Hispanic,187,16.9,35.5
+1855,2008,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",M,Not Stated/Unknown,13,.,.
+1856,2008,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,White Non-Hispanic,5503,410,342.3
+1857,2008,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",F,Other Race/ Ethnicity,.,.,.
+1858,2008,"Essential Hypertension and Renal Diseases (I10, I12)",M,White Non-Hispanic,165,12.3,10.3
+1859,2008,"Congenital Malformations, Deformations, and Chromosomal Abnormalities (Q00-Q99)",M,Asian and Pacific Islander,14,2.8,3
+1860,2008,"Essential Hypertension and Renal Diseases (I10, I12)",M,Black Non-Hispanic,134,15.8,20.9
+1861,2008,All Other Causes,F,Hispanic,885,74.9,90.2
+1862,2008,Certain Conditions originating in the Perinatal Period (P00-P96),F,Not Stated/Unknown,6,.,.
+1863,2008,Malignant Neoplasms (Cancer: C00-C97),F,White Non-Hispanic,3366,234.5,160.5
+1864,2008,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",M,White Non-Hispanic,195,14.5,13.1
+1865,2008,Chronic Lower Respiratory Diseases (J40-J47),F,Asian and Pacific Islander,30,5.6,7.9
+1866,2008,Human Immunodeficiency Virus Disease (HIV: B20-B24),M,Other Race/ Ethnicity,.,.,.
+1867,2008,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Hispanic,186,16.8,20.6
+1868,2008,Diabetes Mellitus (E10-E14),F,Hispanic,228,19.3,24.1
+1869,2008,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,White Non-Hispanic,6836,476.2,245.5
+1870,2008,Malignant Neoplasms (Cancer: C00-C97),M,Hispanic,1080,97.7,165.9
+1871,2008,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Asian and Pacific Islander,456,85.6,117.7
+1872,2008,Malignant Neoplasms (Cancer: C00-C97),M,Black Non-Hispanic,1464,172.4,220.4
+1873,2008,Cerebrovascular Disease (Stroke: I60-I69),M,Hispanic,124,11.2,18.8
+1874,2008,"Essential Hypertension and Renal Diseases (I10, I12)",F,Not Stated/Unknown,.,.,.
+1875,2008,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Other Race/ Ethnicity,35,.,.
+1876,2008,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",F,Black Non-Hispanic,70,6.7,6.4
+1877,2008,Diabetes Mellitus (E10-E14),M,Other Race/ Ethnicity,.,.,.
+1878,2008,All Other Causes,F,Asian and Pacific Islander,214,40.2,50.3
+1879,2008,"Assault (Homicide: Y87.1, X85-Y09)",M,Other Race/ Ethnicity,5,.,.
+1880,2008,Diabetes Mellitus (E10-E14),M,White Non-Hispanic,246,18.3,15.6
+1881,2008,Human Immunodeficiency Virus Disease (HIV: B20-B24),M,Not Stated/Unknown,9,.,.
+1882,2008,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Not Stated/Unknown,92,.,.
+1883,2008,Diabetes Mellitus (E10-E14),F,Other Race/ Ethnicity,.,.,.
+1884,2008,Diabetes Mellitus (E10-E14),F,Black Non-Hispanic,380,36.3,34.3
+1885,2008,Alzheimer's Disease (G30),F,White Non-Hispanic,151,10.5,5.1
+1886,2008,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Other Race/ Ethnicity,.,.,.
+1887,2008,Human Immunodeficiency Virus Disease (HIV: B20-B24),M,Black Non-Hispanic,356,41.9,41.8
+1888,2008,"Essential Hypertension and Renal Diseases (I10, I12)",F,Asian and Pacific Islander,32,6,8
+1889,2008,"Essential Hypertension and Renal Diseases (I10, I12)",M,Asian and Pacific Islander,31,6.2,9.8
+1890,2008,"Chronic Liver Disease and Cirrhosis (K70, K73)",M,Hispanic,149,13.5,16.8
+1891,2008,Viral Hepatitis (B15-B19),M,Not Stated/Unknown,6,.,.
+1892,2008,Malignant Neoplasms (Cancer: C00-C97),M,Other Race/ Ethnicity,33,.,.
+1893,2008,Chronic Lower Respiratory Diseases (J40-J47),M,Hispanic,132,11.9,22.8
+1894,2008,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Asian and Pacific Islander,546,109.6,166.3
+1895,2008,"Nephritis, Nephrotic Syndrome and Nephrisis (N00-N07, N17-N19, N25-N27)",M,Asian and Pacific Islander,14,2.8,4.9
+1896,2008,Diabetes Mellitus (E10-E14),M,Asian and Pacific Islander,52,10.4,14.9
+1897,2008,Influenza (Flu) and Pneumonia (J09-J18),F,Asian and Pacific Islander,73,13.7,19.1
+1898,2008,Chronic Lower Respiratory Diseases (J40-J47),M,Asian and Pacific Islander,46,9.2,16.1
+1899,2008,"Nephritis, Nephrotic Syndrome and Nephrisis (N00-N07, N17-N19, N25-N27)",F,Black Non-Hispanic,71,6.8,6.3
+1900,2008,Human Immunodeficiency Virus Disease (HIV: B20-B24),M,Hispanic,222,20.1,22.7
+1901,2008,Chronic Lower Respiratory Diseases (J40-J47),M,White Non-Hispanic,347,25.9,21.8
+1902,2008,Influenza (Flu) and Pneumonia (J09-J18),M,White Non-Hispanic,529,39.4,32.7
+1903,2008,"Essential Hypertension and Renal Diseases (I10, I12)",F,Other Race/ Ethnicity,.,.,.
+1904,2008,Malignant Neoplasms (Cancer: C00-C97),M,White Non-Hispanic,3361,250.4,214.3
+1905,2008,Chronic Lower Respiratory Diseases (J40-J47),M,Black Non-Hispanic,169,19.9,26.4
+1906,2008,Cerebrovascular Disease (Stroke: I60-I69),M,Asian and Pacific Islander,48,9.6,14.1
+1907,2008,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Not Stated/Unknown,13,.,.
+1908,2008,Cerebrovascular Disease (Stroke: I60-I69),F,Hispanic,152,12.9,16.4
+1909,2008,Cerebrovascular Disease (Stroke: I60-I69),F,Asian and Pacific Islander,65,12.2,15.4
+1910,2008,Chronic Lower Respiratory Diseases (J40-J47),M,Not Stated/Unknown,10,.,.
+1911,2008,All Other Causes,M,Black Non-Hispanic,1216,143.2,163.5
+1912,2008,"Chronic Liver Disease and Cirrhosis (K70, K73)",F,Other Race/ Ethnicity,.,.,.
+1913,2008,Cerebrovascular Disease (Stroke: I60-I69),M,Other Race/ Ethnicity,5,.,.
+1914,2008,Malignant Neoplasms (Cancer: C00-C97),F,Black Non-Hispanic,1756,167.6,156.3
+1915,2008,Chronic Lower Respiratory Diseases (J40-J47),F,Hispanic,156,13.2,16.8
+1916,2008,Diabetes Mellitus (E10-E14),F,Asian and Pacific Islander,47,8.8,11.3
+1917,2008,Influenza (Flu) and Pneumonia (J09-J18),F,Hispanic,227,19.2,25.5
+1918,2008,Chronic Lower Respiratory Diseases (J40-J47),F,Black Non-Hispanic,191,18.2,17.1
+1919,2008,Cerebrovascular Disease (Stroke: I60-I69),F,Other Race/ Ethnicity,.,.,.
+1920,2008,Cerebrovascular Disease (Stroke: I60-I69),M,White Non-Hispanic,245,18.3,15.4
+1921,2008,All Other Causes,M,White Non-Hispanic,1824,135.9,119.9
+1922,2008,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",F,Hispanic,68,5.8,6.6
+1923,2008,Diabetes Mellitus (E10-E14),M,Hispanic,191,17.3,31.3
+1924,2008,Diabetes Mellitus (E10-E14),F,Not Stated/Unknown,12,.,.
+1925,2008,Influenza (Flu) and Pneumonia (J09-J18),M,Black Non-Hispanic,222,26.1,37.6
+1926,2008,Influenza (Flu) and Pneumonia (J09-J18),F,Other Race/ Ethnicity,.,.,.
+1927,2008,Cerebrovascular Disease (Stroke: I60-I69),F,Black Non-Hispanic,267,25.5,23.6
+1928,2008,Cerebrovascular Disease (Stroke: I60-I69),F,White Non-Hispanic,379,26.4,14.9
+1929,2008,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",F,White Non-Hispanic,86,6,5.5
+1930,2008,Certain Conditions originating in the Perinatal Period (P00-P96),M,Other Race/ Ethnicity,.,.,.
+1931,2008,Influenza (Flu) and Pneumonia (J09-J18),F,Not Stated/Unknown,14,.,.
+1932,2008,"Nephritis, Nephrotic Syndrome and Nephrisis (N00-N07, N17-N19, N25-N27)",F,Asian and Pacific Islander,13,2.4,3.3
+1933,2008,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",F,White Non-Hispanic,193,13.4,9.4
+1934,2008,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Hispanic,1445,122.3,160.7
+1935,2008,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Asian and Pacific Islander,53,10.6,12.2
+1936,2008,"Assault (Homicide: Y87.1, X85-Y09)",M,Black Non-Hispanic,286,33.7,33.8
+1937,2008,"Chronic Liver Disease and Cirrhosis (K70, K73)",F,Hispanic,63,5.3,6.2
+1938,2008,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",F,Asian and Pacific Islander,26,4.9,4.5
+1939,2008,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Other Race/ Ethnicity,39,.,.
+1940,2008,All Other Causes,M,Not Stated/Unknown,67,.,.
+1941,2008,Malignant Neoplasms (Cancer: C00-C97),F,Not Stated/Unknown,36,.,.
+1942,2008,Influenza (Flu) and Pneumonia (J09-J18),F,White Non-Hispanic,621,43.3,22.2
+1943,2008,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",M,White Non-Hispanic,227,16.9,15.5
+1944,2008,"Essential Hypertension and Renal Diseases (I10, I12)",F,White Non-Hispanic,151,10.5,5.9
+1945,2008,"Assault (Homicide: Y87.1, X85-Y09)",M,Not Stated/Unknown,8,.,.
+1946,2008,Aortic Aneurysm and Dissection (I71),M,Other Race/ Ethnicity,.,.,.
+1947,2008,Malignant Neoplasms (Cancer: C00-C97),M,Not Stated/Unknown,60,.,.
+1948,2008,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,White Non-Hispanic,272,20.3,18.4
+1949,2008,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",F,Not Stated/Unknown,.,.,.
+1950,2008,All Other Causes,M,Hispanic,1069,96.7,139.5
+1951,2008,All Other Causes,M,Other Race/ Ethnicity,8,.,.
+1952,2008,Cerebrovascular Disease (Stroke: I60-I69),M,Black Non-Hispanic,206,24.3,31
+1953,2008,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",M,Hispanic,172,15.6,16.3
+1954,2008,Human Immunodeficiency Virus Disease (HIV: B20-B24),F,Black Non-Hispanic,227,21.7,20
+1955,2008,Malignant Neoplasms (Cancer: C00-C97),F,Other Race/ Ethnicity,21,.,.
+1956,2008,All Other Causes,M,Asian and Pacific Islander,238,47.8,63.3
+1957,2008,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Hispanic,1330,120.3,228
+1958,2008,Chronic Lower Respiratory Diseases (J40-J47),F,Not Stated/Unknown,.,.,.
+1959,2008,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Not Stated/Unknown,108,.,.
+1960,2008,Malignant Neoplasms (Cancer: C00-C97),M,Asian and Pacific Islander,473,95,123.5
+1961,2008,All Other Causes,F,Other Race/ Ethnicity,19,.,.
+1962,2007,Chronic Lower Respiratory Diseases (J40-J47),F,Hispanic,116,9.9,12.8
+1963,2007,Chronic Lower Respiratory Diseases (J40-J47),M,Black Non-Hispanic,137,16.1,22.7
+1964,2007,All Other Causes,M,Black Non-Hispanic,1163,136.5,162.4
+1965,2007,"Essential Hypertension and Renal Diseases (I10, I12)",F,Asian and Pacific Islander,22,4.3,6.3
+1966,2007,Septicemia (A40-A41),F,Black Non-Hispanic,89,8.5,8.1
+1967,2007,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,White Non-Hispanic,7050,491.4,250.7
+1968,2007,Insitu or Benign / Uncertain Neoplasms (D00-D48),F,Other Race/ Ethnicity,.,.,.
+1969,2007,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Not Stated/Unknown,86,.,.
+1970,2007,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",M,Not Stated/Unknown,5,.,.
+1971,2007,Chronic Lower Respiratory Diseases (J40-J47),M,Asian and Pacific Islander,43,8.9,16.7
+1972,2007,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Hispanic,154,14.1,17.4
+1973,2007,Malignant Neoplasms (Cancer: C00-C97),M,Not Stated/Unknown,45,.,.
+1974,2007,Chronic Lower Respiratory Diseases (J40-J47),M,Other Race/ Ethnicity,.,.,.
+1975,2007,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",F,Black Non-Hispanic,87,8.3,8.1
+1976,2007,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Other Race/ Ethnicity,43,.,.
+1977,2007,All Other Causes,M,Hispanic,988,90.6,142.6
+1978,2007,Cerebrovascular Disease (Stroke: I60-I69),F,Not Stated/Unknown,.,.,.
+1979,2007,Malignant Neoplasms (Cancer: C00-C97),M,Black Non-Hispanic,1523,178.7,229.4
+1980,2007,All Other Causes,F,White Non-Hispanic,1680,117.1,81.5
+1981,2007,"Assault (Homicide: Y87.1, X85-Y09)",M,Other Race/ Ethnicity,.,.,.
+1982,2007,Human Immunodeficiency Virus Disease (HIV: B20-B24),M,Not Stated/Unknown,6,.,.
+1983,2007,Diabetes Mellitus (E10-E14),M,Asian and Pacific Islander,47,9.7,13.6
+1984,2007,Diabetes Mellitus (E10-E14),M,Hispanic,177,16.2,27.6
+1985,2007,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",M,Asian and Pacific Islander,36,7.4,7.7
+1986,2007,"Chronic Liver Disease and Cirrhosis (K70, K73)",M,Hispanic,107,9.8,12.8
+1987,2007,Diabetes Mellitus (E10-E14),F,Other Race/ Ethnicity,.,.,.
+1988,2007,Influenza (Flu) and Pneumonia (J09-J18),F,Asian and Pacific Islander,58,11.3,15.8
+1989,2007,"Assault (Homicide: Y87.1, X85-Y09)",M,Hispanic,114,10.5,9.9
+1990,2007,Chronic Lower Respiratory Diseases (J40-J47),F,Not Stated/Unknown,6,.,.
+1991,2007,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",M,Hispanic,183,16.8,17.9
+1992,2007,Diabetes Mellitus (E10-E14),M,Black Non-Hispanic,246,28.9,38.1
+1993,2007,Malignant Neoplasms (Cancer: C00-C97),F,Black Non-Hispanic,1800,171,161.7
+1994,2007,Cerebrovascular Disease (Stroke: I60-I69),M,Asian and Pacific Islander,56,11.6,16.2
+1995,2007,Insitu or Benign / Uncertain Neoplasms (D00-D48),F,Not Stated/Unknown,.,.,.
+1996,2007,All Other Causes,F,Other Race/ Ethnicity,15,.,.
+1997,2007,"Assault (Homicide: Y87.1, X85-Y09)",M,Not Stated/Unknown,.,.,.
+1998,2007,Cerebrovascular Disease (Stroke: I60-I69),F,White Non-Hispanic,372,25.9,14.4
+1999,2007,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",F,Other Race/ Ethnicity,.,.,.
+2000,2007,Chronic Lower Respiratory Diseases (J40-J47),M,White Non-Hispanic,345,25.8,21.7
+2001,2007,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,White Non-Hispanic,297,22.2,19.8
+2002,2007,"Essential Hypertension and Renal Diseases (I10, I12)",F,White Non-Hispanic,155,10.8,5.9
+2003,2007,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",M,Black Non-Hispanic,163,19.1,19
+2004,2007,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Asian and Pacific Islander,428,83.1,115.2
+2005,2007,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Hispanic,1418,121.5,164.3
+2006,2007,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Black Non-Hispanic,2121,248.9,340.2
+2007,2007,Malignant Neoplasms (Cancer: C00-C97),F,Hispanic,969,83,100.7
+2008,2007,Influenza (Flu) and Pneumonia (J09-J18),M,Asian and Pacific Islander,66,13.6,25.7
+2009,2007,Human Immunodeficiency Virus Disease (HIV: B20-B24),F,Black Non-Hispanic,248,23.6,22.1
+2010,2007,"Assault (Homicide: Y87.1, X85-Y09)",M,Black Non-Hispanic,267,31.3,31.1
+2011,2007,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",F,White Non-Hispanic,162,11.3,7.3
+2012,2007,"Nephritis, Nephrotic Syndrome and Nephrisis (N00-N07, N17-N19, N25-N27)",F,White Non-Hispanic,89,6.2,3.5
+2013,2007,Chronic Lower Respiratory Diseases (J40-J47),M,Not Stated/Unknown,.,.,.
+2014,2007,Influenza (Flu) and Pneumonia (J09-J18),M,White Non-Hispanic,530,39.6,32.9
+2015,2007,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",F,Hispanic,71,6.1,7.1
+2016,2007,"Chronic Liver Disease and Cirrhosis (K70, K73)",M,Other Race/ Ethnicity,.,.,.
+2017,2007,Malignant Neoplasms (Cancer: C00-C97),M,Hispanic,1013,92.9,163.5
+2018,2007,Human Immunodeficiency Virus Disease (HIV: B20-B24),F,Not Stated/Unknown,5,.,.
+2019,2007,Cerebrovascular Disease (Stroke: I60-I69),M,Black Non-Hispanic,213,25,33
+2020,2007,Influenza (Flu) and Pneumonia (J09-J18),M,Other Race/ Ethnicity,7,.,.
+2021,2007,Influenza (Flu) and Pneumonia (J09-J18),F,Hispanic,190,16.3,22.3
+2022,2007,Human Immunodeficiency Virus Disease (HIV: B20-B24),M,Hispanic,218,20,23.1
+2023,2007,Cerebrovascular Disease (Stroke: I60-I69),M,White Non-Hispanic,267,20,16.7
+2024,2007,Human Immunodeficiency Virus Disease (HIV: B20-B24),M,Other Race/ Ethnicity,.,.,.
+2025,2007,Malignant Neoplasms (Cancer: C00-C97),F,Not Stated/Unknown,51,.,.
+2026,2007,Malignant Neoplasms (Cancer: C00-C97),M,Asian and Pacific Islander,528,109.1,145.9
+2027,2007,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",F,Black Non-Hispanic,87,8.3,7.4
+2028,2007,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",F,Asian and Pacific Islander,32,6.2,7.6
+2029,2007,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Other Race/ Ethnicity,36,.,.
+2030,2007,All Other Causes,M,Asian and Pacific Islander,221,45.7,61.2
+2031,2007,Malignant Neoplasms (Cancer: C00-C97),F,White Non-Hispanic,3518,245.2,167.4
+2032,2007,"Nephritis, Nephrotic Syndrome and Nephrisis (N00-N07, N17-N19, N25-N27)",F,Asian and Pacific Islander,13,2.5,3.2
+2033,2007,All Other Causes,F,Asian and Pacific Islander,182,35.3,44.6
+2034,2007,Malignant Neoplasms (Cancer: C00-C97),F,Other Race/ Ethnicity,22,.,.
+2035,2007,"Chronic Liver Disease and Cirrhosis (K70, K73)",F,Not Stated/Unknown,.,.,.
+2036,2007,Certain Conditions originating in the Perinatal Period (P00-P96),F,Not Stated/Unknown,.,.,.
+2037,2007,Diabetes Mellitus (E10-E14),M,White Non-Hispanic,237,17.7,15
+2038,2007,All Other Causes,M,Not Stated/Unknown,43,.,.
+2039,2007,Chronic Lower Respiratory Diseases (J40-J47),F,Other Race/ Ethnicity,.,.,.
+2040,2007,All Other Causes,M,White Non-Hispanic,1749,130.7,115.9
+2041,2007,Cerebrovascular Disease (Stroke: I60-I69),M,Other Race/ Ethnicity,7,.,.
+2042,2007,Diabetes Mellitus (E10-E14),F,Asian and Pacific Islander,34,6.6,8.3
+2043,2007,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Black Non-Hispanic,2722,258.6,247.3
+2044,2007,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,White Non-Hispanic,5632,421,350.7
+2045,2007,Alzheimer's Disease (G30),F,White Non-Hispanic,107,7.5,3.5
+2046,2007,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",M,Not Stated/Unknown,10,.,.
+2047,2007,Influenza (Flu) and Pneumonia (J09-J18),M,Hispanic,189,17.3,36.7
+2048,2007,Diabetes Mellitus (E10-E14),M,Other Race/ Ethnicity,11,.,.
+2049,2007,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Other Race/ Ethnicity,5,.,.
+2050,2007,Diabetes Mellitus (E10-E14),F,Not Stated/Unknown,.,.,.
+2051,2007,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Hispanic,1327,121.7,238.4
+2052,2007,All Other Causes,M,Other Race/ Ethnicity,24,.,.
+2053,2007,Cerebrovascular Disease (Stroke: I60-I69),F,Asian and Pacific Islander,70,13.6,17.6
+2054,2007,Influenza (Flu) and Pneumonia (J09-J18),F,Black Non-Hispanic,295,28,26.9
+2055,2007,Cerebrovascular Disease (Stroke: I60-I69),F,Black Non-Hispanic,279,26.5,25.3
+2056,2007,Diabetes Mellitus (E10-E14),F,Black Non-Hispanic,358,34,32.5
+2057,2007,"Essential Hypertension and Renal Diseases (I10, I12)",F,Not Stated/Unknown,5,.,.
+2058,2007,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Not Stated/Unknown,8,.,.
+2059,2007,Chronic Lower Respiratory Diseases (J40-J47),F,Black Non-Hispanic,163,15.5,14.8
+2060,2007,"Essential Hypertension and Renal Diseases (I10, I12)",M,Black Non-Hispanic,137,16.1,22
+2061,2007,Chronic Lower Respiratory Diseases (J40-J47),F,White Non-Hispanic,472,32.9,19.6
+2062,2007,"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",M,White Non-Hispanic,261,19.5,17.6
+2063,2007,Certain Conditions originating in the Perinatal Period (P00-P96),F,Other Race/ Ethnicity,.,.,.
+2064,2007,Influenza (Flu) and Pneumonia (J09-J18),M,Not Stated/Unknown,13,.,.
+2065,2007,"Essential Hypertension and Renal Diseases (I10, I12)",M,White Non-Hispanic,123,9.2,7.6
+2066,2007,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Black Non-Hispanic,158,18.5,20.6
+2067,2007,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",F,Not Stated/Unknown,82,.,.
+2068,2007,Cerebrovascular Disease (Stroke: I60-I69),F,Other Race/ Ethnicity,.,.,.
+2069,2007,"Assault (Homicide: Y87.1, X85-Y09)",F,Other Race/ Ethnicity,.,.,.
+2070,2007,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",F,Not Stated/Unknown,.,.,.
+2071,2007,"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",M,Asian and Pacific Islander,53,11,13
+2072,2007,Human Immunodeficiency Virus Disease (HIV: B20-B24),F,Hispanic,109,9.3,9.5
+2073,2007,"Chronic Liver Disease and Cirrhosis (K70, K73)",M,Asian and Pacific Islander,18,3.7,3.6
+2074,2007,Aortic Aneurysm and Dissection (I71),F,Not Stated/Unknown,.,.,.
+2075,2007,All Other Causes,F,Not Stated/Unknown,27,.,.
+2076,2007,Diabetes Mellitus (E10-E14),M,Not Stated/Unknown,9,.,.
+2077,2007,Alzheimer's Disease (G30),F,Not Stated/Unknown,.,.,.
+2078,2007,Influenza (Flu) and Pneumonia (J09-J18),M,Black Non-Hispanic,229,26.9,40.1
+2079,2007,All Other Causes,F,Hispanic,820,70.2,85.6
+2080,2007,Malignant Neoplasms (Cancer: C00-C97),F,Asian and Pacific Islander,395,76.7,88.4
+2081,2007,"Essential Hypertension and Renal Diseases (I10, I12)",M,Asian and Pacific Islander,25,5.2,8.3
+2082,2007,Cerebrovascular Disease (Stroke: I60-I69),F,Hispanic,164,14,18.3
+2083,2007,"Essential Hypertension and Renal Diseases (I10, I12)",F,Hispanic,78,6.7,8.9
+2084,2007,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",F,Asian and Pacific Islander,22,4.3,3.9
+2085,2007,Atherosclerosis (I70),F,Other Race/ Ethnicity,.,.,.
+2086,2007,Diabetes Mellitus (E10-E14),F,Hispanic,205,17.6,22.6
+2087,2007,Malignant Neoplasms (Cancer: C00-C97),M,White Non-Hispanic,3356,250.9,213.7
+2088,2007,Malignant Neoplasms (Cancer: C00-C97),M,Other Race/ Ethnicity,29,.,.
+2089,2007,"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",M,White Non-Hispanic,187,14,12.7
+2090,2007,Influenza (Flu) and Pneumonia (J09-J18),F,Other Race/ Ethnicity,.,.,.
+2091,2007,"Congenital Malformations, Deformations, and Chromosomal Abnormalities (Q00-Q99)",F,Other Race/ Ethnicity,.,.,.
+2092,2007,Septicemia (A40-A41),F,Hispanic,49,4.2,5.5
+2093,2007,Chronic Lower Respiratory Diseases (J40-J47),F,Asian and Pacific Islander,29,5.6,7.9
+2094,2007,"Diseases of Heart (I00-I09, I11, I13, I20-I51)",M,Asian and Pacific Islander,496,102.5,157.8
+2095,2007,All Other Causes,F,Black Non-Hispanic,1230,116.8,113.4
+2096,2007,Human Immunodeficiency Virus Disease (HIV: B20-B24),M,Black Non-Hispanic,377,44.2,44.2
+2097,2007,"Essential Hypertension and Renal Diseases (I10, I12)",F,Black Non-Hispanic,166,15.8,15
+2098,2007,Diabetes Mellitus (E10-E14),F,White Non-Hispanic,231,16.1,9.8
+2099,2007,Influenza (Flu) and Pneumonia (J09-J18),F,White Non-Hispanic,659,45.9,23.2
+2100,2007,Influenza (Flu) and Pneumonia (J09-J18),F,Not Stated/Unknown,.,.,.
+2101,2007,Cerebrovascular Disease (Stroke: I60-I69),M,Hispanic,126,11.6,20
+2102,2007,Mental and Behavioral Disorders due to Use of Alcohol (F10),M,Not Stated/Unknown,.,.,.
