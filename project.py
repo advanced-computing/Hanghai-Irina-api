@@ -3,8 +3,8 @@ import pandas as pd
 
 app = Flask(__name__)
 
-CSV_PATH = "data/nyc_death_causes.csv"  # ✅ 新文件名
-ID_COL = "record_id"                   # ✅ 我们新增的唯一id列
+CSV_PATH = "data/nyc_death_causes.csv"  
+ID_COL = "record_id"             
 
 
 def load_df() -> pd.DataFrame:
